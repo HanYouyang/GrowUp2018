@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScrivenerProject Identifier="7AE2A18A-B687-4AE6-B2AB-6D48460C64BA" Version="2.0" Creator="SCRMAC-3.0.1-966" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2018-01-03 22:58:16 +0800" ModID="78DE2C0D-82DB-4029-BD6E-6EAAB0AF98EC">
+    <Binder>
+        <BinderItem UUID="1E26FE1E-70F4-40A1-B7BF-25B09189DAE9" Type="DraftFolder" Created="2017-12-31 13:27:45 +0800" Modified="2017-12-31 13:27:45 +0800">
+            <Title>草稿</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <Children>
+                <BinderItem UUID="9FD91593-5563-4BB3-AA2C-65EBD39E8362" Type="Text" Created="2017-12-31 13:27:45 +0800" Modified="2017-12-31 13:27:45 +0800">
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="B1192AEA-5080-421A-A8CD-C412BF84F954" Type="ResearchFolder" Created="2017-12-31 13:27:45 +0800" Modified="2017-12-31 13:27:45 +0800">
+            <Title>研究</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <Children>
+                <BinderItem UUID="BD33CB63-7D39-429A-B175-D9CCCCDF3B57" Type="Folder" Created="2018-01-02 11:56:39 +0800" Modified="2018-01-02 11:56:41 +0800">
+                    <Title>综述</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="FBC8465E-5E43-4410-968B-8149E4ED8746" Type="Text" Created="2018-01-03 22:54:20 +0800" Modified="2018-01-03 22:57:58 +0800">
+                            <Title>撰写说明</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>476,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="484B7312-286D-4CA6-B784-9EBAFE6818D2" Type="Folder" Created="2018-01-02 11:56:47 +0800" Modified="2018-01-02 11:56:52 +0800">
+                    <Title>学位论文</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="3DB54828-6458-455F-A4DC-746B09EC05B1" Type="Folder" Created="2018-01-03 22:52:09 +0800" Modified="2018-01-03 22:52:13 +0800">
+                            <Title>第一章引言</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <CorkboardAndOutliner>
+                                <SelectedSubdocumentUUIDs>A9EE0D57-85D4-4648-AFEF-D7896EAB8FB4</SelectedSubdocumentUUIDs>
+                            </CorkboardAndOutliner>
+                            <Children>
+                                <BinderItem UUID="A9EE0D57-85D4-4648-AFEF-D7896EAB8FB4" Type="Text" Created="2018-01-03 22:52:20 +0800" Modified="2018-01-03 22:55:24 +0800">
+                                    <Title>撰写说明</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>82,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem UUID="A4934970-4874-4951-B8ED-E7881502AAF5" Type="Folder" Created="2018-01-03 22:52:34 +0800" Modified="2018-01-03 22:52:36 +0800">
+                            <Title>第二章</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="F32AF777-DF73-4258-99E4-541C9B73CDDF" Type="Text" Created="2018-01-03 22:55:28 +0800" Modified="2018-01-03 22:55:59 +0800">
+                                    <Title>撰写说明</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,357</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="7EC06BA2-2B7A-4A11-BD68-5F7E4B8F26B2" Type="Text" Created="2018-01-03 22:56:02 +0800" Modified="2018-01-03 22:56:22 +0800">
+                                    <Title>图绘制说明</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>410,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="05A72B61-DCD0-4135-808D-7F595FF34790" Type="Text" Created="2018-01-03 22:56:34 +0800" Modified="2018-01-03 22:56:52 +0800">
+                                    <Title>表设计说明</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>612,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem UUID="07EA7C09-6078-4C5D-88DE-1DF05E67E2A2" Type="Folder" Created="2018-01-03 22:53:08 +0800" Modified="2018-01-03 22:53:17 +0800">
+                            <Title>结论与讨论</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <CorkboardAndOutliner>
+                                <SelectedSubdocumentUUIDs>B243DFAC-272E-4581-9440-7EDD708890C2</SelectedSubdocumentUUIDs>
+                            </CorkboardAndOutliner>
+                            <Children>
+                                <BinderItem UUID="B243DFAC-272E-4581-9440-7EDD708890C2" Type="Text" Created="2018-01-03 22:51:52 +0800" Modified="2018-01-03 22:57:11 +0800">
+                                    <Title>撰写说明</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,256</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem UUID="C31D881A-88FE-44DE-AF59-D9E318825CF0" Type="Folder" Created="2018-01-03 22:54:02 +0800" Modified="2018-01-03 22:54:05 +0800">
+                            <Title>附录</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="E566511F-3BD6-4536-BF5D-36EA5A8F4DAC" Type="Text" Created="2018-01-03 22:51:53 +0800" Modified="2018-01-03 22:58:16 +0800">
+                                    <Title>撰写说明</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,128</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="E8B75C80-954B-4CA4-85CF-651B400623AE" Type="TrashFolder" Created="2017-12-31 13:27:45 +0800" Modified="2017-12-31 13:27:45 +0800">
+            <Title>废纸篓</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <Children>
+                <BinderItem UUID="B7D58F5A-6461-45C6-8923-C721C6902FB3" Type="Text" Created="2018-01-02 11:56:54 +0800" Modified="2018-01-03 22:52:03 +0800">
+                    <Title>第一章 引言</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="CA899068-BA2B-4CE1-88FE-E85B4CCCBEF3" Type="Folder" Created="2018-01-03 22:54:27 +0800" Modified="2018-01-03 22:54:29 +0800">
+                    <Title>专业综述</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="E39D73DE-B04C-40CB-B131-026B72330A65" Type="Text" Created="2018-01-02 11:56:42 +0800" Modified="2018-01-02 11:56:42 +0800">
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+    </Binder>
+    <Collections>
+        <Collection Type="Binder" ID="B6BF8BD7-869B-45B8-9D92-6D56AA890391" Color="0.924849 0.924014 0.949681">
+            <Title>活页夹</Title>
+        </Collection>
+        <Collection Type="RecentSearch" ID="01339E21-5BA8-4D4E-8AC5-EABEE29966BE" Color="0.922176 0.818589 0.999618">
+            <Title>搜索结果</Title>
+        </Collection>
+    </Collections>
+    <SectionTypes>
+        <TypeDefinitions>
+            <Type ID="D74E3371-A53D-45E0-96F6-AA48B7A6B820">标题</Type>
+            <Type ID="990CD136-E805-4681-9F13-75F9126353F1">副标题</Type>
+            <Type ID="02572FE7-2AC2-4750-9CE9-90CBBE5829F0">稿件</Type>
+        </TypeDefinitions>
+        <LevelTypes>
+            <Folders>
+                <Type>D74E3371-A53D-45E0-96F6-AA48B7A6B820</Type>
+            </Folders>
+            <Containers>
+                <Type>02572FE7-2AC2-4750-9CE9-90CBBE5829F0</Type>
+            </Containers>
+            <Files>
+                <Type>02572FE7-2AC2-4750-9CE9-90CBBE5829F0</Type>
+            </Files>
+        </LevelTypes>
+    </SectionTypes>
+    <LabelSettings>
+        <Title>标签</Title>
+        <DefaultLabelID>-1</DefaultLabelID>
+        <Labels>
+            <Label ID="-1">无标签</Label>
+            <Label ID="0" Color="0.993495 0.701207 0.732587">红色</Label>
+            <Label ID="1" Color="0.995418 0.790946 0.652385">桔黄</Label>
+            <Label ID="2" Color="0.997722 0.89273 0.652569">黄色</Label>
+            <Label ID="3" Color="0.715855 0.948712 0.697692">绿</Label>
+            <Label ID="4" Color="0.702319 0.888276 0.974252">蓝色</Label>
+            <Label ID="5" Color="0.957566 0.766747 0.999616">紫色</Label>
+        </Labels>
+    </LabelSettings>
+    <StatusSettings>
+        <Title>状态</Title>
+        <DefaultStatusID>-1</DefaultStatusID>
+        <StatusItems>
+            <Status ID="-1">无状态</Status>
+            <Status ID="0">待办事项</Status>
+            <Status ID="1">正在进行</Status>
+            <Status ID="2">首个草稿</Status>
+            <Status ID="3">已修订草稿</Status>
+            <Status ID="4">最终草稿</Status>
+            <Status ID="5">完成</Status>
+        </StatusItems>
+    </StatusSettings>
+    <ProjectTargets Notify="No">
+        <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2017-12-31 13:27:43 +0800" IgnoreDeadline="Yes">0</DraftTarget>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="0" Characters="0" Date="2018-01-03 22:50:54 +0800"></PreviousSession>
+    </ProjectTargets>
+    <RecentWritingHistory Date="2018-01-04 00:00:00 +0800">
+        <DraftWordCount>0</DraftWordCount>
+        <DraftCharCount>0</DraftCharCount>
+        <OtherWordCount>0</OtherWordCount>
+        <OtherCharCount>0</OtherCharCount>
+    </RecentWritingHistory>
+    <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
+</ScrivenerProject>

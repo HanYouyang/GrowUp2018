@@ -35,7 +35,7 @@
 	<key>mainDocumentEditor.navigationHistory</key>
 	<dict>
 		<key>CurrentIndex</key>
-		<integer>75</integer>
+		<integer>84</integer>
 		<key>NavigationHistoryArray</key>
 		<array>
 			<dict>
@@ -646,10 +646,84 @@
 				<key>ViewMode</key>
 				<integer>2</integer>
 			</dict>
+			<dict>
+				<key>BinderDocUUIDs</key>
+				<array>
+					<string>E566511F-3BD6-4536-BF5D-36EA5A8F4DAC</string>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocUUIDs</key>
+				<array>
+					<string>9FD91593-5563-4BB3-AA2C-65EBD39E8362</string>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocUUIDs</key>
+				<array>
+					<string>1E26FE1E-70F4-40A1-B7BF-25B09189DAE9</string>
+				</array>
+				<key>ViewMode</key>
+				<integer>2</integer>
+			</dict>
+			<dict>
+				<key>BinderDocUUIDs</key>
+				<array>
+					<string>9FD91593-5563-4BB3-AA2C-65EBD39E8362</string>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocUUIDs</key>
+				<array>
+					<string>1E26FE1E-70F4-40A1-B7BF-25B09189DAE9</string>
+				</array>
+				<key>ViewMode</key>
+				<integer>2</integer>
+			</dict>
+			<dict>
+				<key>BinderDocUUIDs</key>
+				<array>
+					<string>9FD91593-5563-4BB3-AA2C-65EBD39E8362</string>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocUUIDs</key>
+				<array>
+					<string>484B7312-286D-4CA6-B784-9EBAFE6818D2</string>
+				</array>
+				<key>ViewMode</key>
+				<integer>2</integer>
+			</dict>
+			<dict>
+				<key>BinderDocUUIDs</key>
+				<array>
+					<string>FBC8465E-5E43-4410-968B-8149E4ED8746</string>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocUUIDs</key>
+				<array>
+					<string>A9EE0D57-85D4-4648-AFEF-D7896EAB8FB4</string>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
 		</array>
 	</dict>
 	<key>mainDocumentEditor.scrollRect</key>
 	<string>{{0, 0}, {620, 564}}</string>
+	<key>mainDocumentEditor.selectedTextRanges</key>
+	<string>214,0</string>
 	<key>mainDocumentEditor.textEditorState</key>
 	<dict>
 		<key>textScaleFactor</key>

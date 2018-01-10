@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.0.1-966" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2018-01-10 14:32:58 +0800" ModID="C281AE5C-359D-4D48-96F3-A117DD6D35A7">
+<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.0.1-966" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2018-01-10 15:00:13 +0800" ModID="6A38F29D-A78C-45DC-BC63-FB414D7A7064">
     <Binder>
         <BinderItem UUID="F573BF27-9E87-4C46-95F3-2DC49E23FA72" Type="DraftFolder" Created="2017-12-19 23:01:40 +0800" Modified="2017-12-19 23:01:40 +0800">
             <Title>草稿</Title>
@@ -51,8 +51,60 @@
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
             <Children>
-                <BinderItem UUID="E9B15A51-CC8A-4942-B278-89F47EAEE1D3" Type="Folder" Created="2018-01-08 15:26:24 +0800" Modified="2018-01-08 15:26:26 +0800">
-                    <Title>前现代</Title>
+                <BinderItem UUID="E9B15A51-CC8A-4942-B278-89F47EAEE1D3" Type="Folder" Created="2018-01-08 15:26:24 +0800" Modified="2018-01-10 14:50:23 +0800">
+                    <Title>前现代世界图景</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <SelectedSubdocumentUUIDs>32A8F7E4-C175-4E09-AFBD-1955C352216D</SelectedSubdocumentUUIDs>
+                    </CorkboardAndOutliner>
+                    <Children>
+                        <BinderItem UUID="18FF2616-08BA-45D1-B0F7-A99C2D1B87C5" Type="Folder" Created="2018-01-10 14:58:36 +0800" Modified="2018-01-10 14:58:51 +0800">
+                            <Title>环地中海文明圈</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="BBA2412A-3E72-41DB-BF2F-B71FA7DD56EA" Type="Folder" Created="2018-01-03 16:37:11 +0800" Modified="2018-01-10 14:59:18 +0800">
+                                    <Title>科学</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem UUID="5ACA8D5F-DBA5-420A-9C46-893AFF9FFAA9" Type="Folder" Created="2018-01-10 14:58:55 +0800" Modified="2018-01-10 14:58:58 +0800">
+                            <Title>南亚文明圈</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="32A8F7E4-C175-4E09-AFBD-1955C352216D" Type="Folder" Created="2018-01-10 14:59:01 +0800" Modified="2018-01-10 14:59:06 +0800">
+                            <Title>中华文明圈</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="4451C038-4B55-4163-894F-C6883B6D649E" Type="Folder" Created="2018-01-08 00:02:53 +0800" Modified="2018-01-10 14:50:33 +0800">
+                    <Title>现代文明图景</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
@@ -60,26 +112,8 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="BBA2412A-3E72-41DB-BF2F-B71FA7DD56EA" Type="Folder" Created="2018-01-03 16:37:11 +0800" Modified="2018-01-08 15:30:24 +0800">
-                            <Title>逻辑学</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem UUID="DFE42AAF-28AE-4822-8B9B-82D23EF45E1D" Type="Folder" Created="2018-01-08 15:26:34 +0800" Modified="2018-01-08 15:26:38 +0800">
-                            <Title>政治科学</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem UUID="DD29621A-CDB1-412A-88B8-27173E8D2343" Type="Folder" Created="2017-12-22 16:22:03 +0800" Modified="2018-01-08 15:27:19 +0800">
-                            <Title>公开写作</Title>
+                        <BinderItem UUID="2E04026F-5065-4A6D-B2F3-6BF03482F185" Type="Folder" Created="2018-01-10 14:49:51 +0800" Modified="2018-01-10 14:51:17 +0800">
+                            <Title>政治经济学</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
@@ -87,11 +121,11 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <CorkboardAndOutliner>
-                                <SelectedSubdocumentUUIDs>872DB904-7071-404F-828C-75E08189E096</SelectedSubdocumentUUIDs>
+                                <SelectedSubdocumentUUIDs>DB3112F8-71B5-4E9E-A701-1300B96F669F</SelectedSubdocumentUUIDs>
                             </CorkboardAndOutliner>
                             <Children>
-                                <BinderItem UUID="872DB904-7071-404F-828C-75E08189E096" Type="Folder" Created="2018-01-08 15:27:48 +0800" Modified="2018-01-08 15:28:27 +0800">
-                                    <Title>创作概念</Title>
+                                <BinderItem UUID="D58555FD-63A8-4133-BD5D-4894583D01D8" Type="Folder" Created="2018-01-10 14:51:30 +0800" Modified="2018-01-10 14:51:32 +0800">
+                                    <Title>刘鹤</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
@@ -99,151 +133,80 @@
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                     <Children>
-                                        <BinderItem UUID="9D546E5C-A62C-400C-87F1-D1C4E425E1D2" Type="Text" Created="2017-12-22 16:33:07 +0800" Modified="2017-12-22 16:35:33 +0800">
+                                        <BinderItem UUID="2F0FDDED-968F-46AC-9C54-513880BF4209" Type="Text" Created="2018-01-10 14:51:39 +0800" Modified="2018-01-10 14:55:03 +0800">
+                                            <Title>《两次全球大危机的比较研究》</Title>
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>0,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                        <BinderItem UUID="ED972A9D-7250-4F7F-81E6-69B169B54078" Type="Text" Created="2017-12-22 16:34:14 +0800" Modified="2017-12-22 16:35:33 +0800">
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>0,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                        <BinderItem UUID="F13183B3-1998-45CE-B1F9-B5F9D3A2202B" Type="Text" Created="2017-12-22 16:45:35 +0800" Modified="2017-12-22 16:47:02 +0800">
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>0,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                        <BinderItem UUID="A9FDDB38-7E86-44D3-A574-C64230543274" Type="Text" Created="2017-12-23 23:04:26 +0800" Modified="2017-12-29 20:37:04 +0800">
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>0,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                        <BinderItem UUID="ED67B050-5049-4EFD-9A07-2EB4F625CD03" Type="Text" Created="2017-12-25 11:41:14 +0800" Modified="2017-12-25 11:41:35 +0800">
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>0,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                        <BinderItem UUID="C8D0524C-CCCC-4663-B5CD-73F582767601" Type="Text" Created="2017-12-26 15:26:08 +0800" Modified="2017-12-26 15:26:27 +0800">
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>0,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                        <BinderItem UUID="B927526E-81B9-41D3-A947-3E23E27A9E7C" Type="Text" Created="2017-12-27 16:58:37 +0800" Modified="2017-12-27 16:58:48 +0800">
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>0,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                        <BinderItem UUID="871390A2-E39E-4280-A100-189F9DD87698" Type="Text" Created="2017-12-29 17:07:39 +0800" Modified="2017-12-29 17:07:57 +0800">
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>0,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                        <BinderItem UUID="E3BB6E42-EAE1-4150-9D0A-0C82CF6B231E" Type="Text" Created="2017-12-29 17:08:12 +0800" Modified="2017-12-29 17:08:21 +0800">
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>0,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                        <BinderItem UUID="AAF6A1AC-688C-440F-88B8-227A1B3709A5" Type="Text" Created="2017-12-29 19:24:09 +0800" Modified="2017-12-29 19:24:14 +0800">
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>0,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                        <BinderItem UUID="FBF718DD-03B7-45D8-9DCA-462B88E4D90C" Type="Text" Created="2017-12-29 22:10:01 +0800" Modified="2017-12-29 22:10:51 +0800">
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>0,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                        <BinderItem UUID="E08F2CEB-E73C-4343-94D6-D1652C484E46" Type="Text" Created="2017-12-31 22:39:23 +0800" Modified="2017-12-31 22:39:35 +0800">
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>0,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                        <BinderItem UUID="E4AE4C08-F450-4A20-A435-B466EF232A2B" Type="Text" Created="2018-01-02 11:57:21 +0800" Modified="2018-01-02 11:57:42 +0800">
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>0,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                        <BinderItem UUID="10EBED91-8C9D-494E-8E28-9E4D72CC6368" Type="Text" Created="2018-01-02 22:08:15 +0800" Modified="2018-01-02 22:08:46 +0800">
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>0,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                        <BinderItem UUID="CCFB3B7C-EC95-41D3-B60D-89FDC1BA03AD" Type="Text" Created="2018-01-03 16:07:43 +0800" Modified="2018-01-03 16:08:24 +0800">
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>0,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                        <BinderItem UUID="B4A74FCD-7309-4E31-93DF-4D3A62D0203B" Type="Text" Created="2018-01-04 18:25:18 +0800" Modified="2018-01-04 18:25:51 +0800">
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>0,0</TextSelection>
+                                                <TextSelection>178,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                     </Children>
                                 </BinderItem>
+                                <BinderItem UUID="E2E7E884-F7B0-4D97-AE77-EEBA06A9ABED" Type="Folder" Created="2018-01-10 14:51:50 +0800" Modified="2018-01-10 14:51:52 +0800">
+                                    <Title>金灿荣</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="DB3112F8-71B5-4E9E-A701-1300B96F669F" Type="Folder" Created="2018-01-10 14:52:21 +0800" Modified="2018-01-10 14:52:24 +0800">
+                                    <Title>周其仁</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="3E079E07-C22B-481A-9D56-154C6CD532B8" Type="Folder" Created="2018-01-10 14:52:02 +0800" Modified="2018-01-10 14:52:05 +0800">
+                                    <Title>任志强</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
                             </Children>
                         </BinderItem>
-                    </Children>
-                </BinderItem>
-                <BinderItem UUID="4451C038-4B55-4163-894F-C6883B6D649E" Type="Folder" Created="2018-01-08 00:02:53 +0800" Modified="2018-01-08 00:04:02 +0800">
-                    <Title>现代</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>0,0</TextSelection>
-                    </TextSettings>
-                    <Children>
-                        <BinderItem UUID="D21B8338-4CB1-4C4C-B8D1-6D725C999388" Type="Folder" Created="2018-01-08 15:29:24 +0800" Modified="2018-01-08 15:29:29 +0800">
-                            <Title>计算机科学</Title>
+                        <BinderItem UUID="DFE42AAF-28AE-4822-8B9B-82D23EF45E1D" Type="Folder" Created="2018-01-08 15:26:34 +0800" Modified="2018-01-10 14:53:30 +0800">
+                            <Title>政治学</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <CorkboardAndOutliner>
+                                <SelectedSubdocumentUUIDs>D392D707-EAF7-4477-BB67-4F9A1D867061</SelectedSubdocumentUUIDs>
+                            </CorkboardAndOutliner>
+                            <Children>
+                                <BinderItem UUID="17EF0765-E461-4E8F-AC83-334EC2D7678B" Type="Folder" Created="2018-01-10 14:52:47 +0800" Modified="2018-01-10 14:53:08 +0800">
+                                    <Title>李锡锟</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="D392D707-EAF7-4477-BB67-4F9A1D867061" Type="Folder" Created="2018-01-10 14:53:16 +0800" Modified="2018-01-10 14:53:25 +0800">
+                                    <Title>黄章晋</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem UUID="D21B8338-4CB1-4C4C-B8D1-6D725C999388" Type="Folder" Created="2018-01-08 15:29:24 +0800" Modified="2018-01-10 14:57:25 +0800">
+                            <Title>工程学</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
@@ -283,12 +246,40 @@
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
+                                <BinderItem UUID="EAE52483-0E56-4A47-8201-69B9511EEC38" Type="Folder" Created="2018-01-10 14:57:05 +0800" Modified="2018-01-10 14:57:08 +0800">
+                                    <Title>线性代数</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                    <Children>
+                                        <BinderItem UUID="F11E2102-55A1-4741-80B5-96DA1375983D" Type="Text" Created="2018-01-10 14:57:34 +0800" Modified="2018-01-10 14:57:34 +0800">
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                    </Children>
+                                </BinderItem>
+                                <BinderItem UUID="22543339-29C6-47FB-994C-DE0C6DF09A06" Type="Folder" Created="2018-01-10 14:57:16 +0800" Modified="2018-01-10 14:57:18 +0800">
+                                    <Title>微积分</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
                             </Children>
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem UUID="34CD6012-1993-4E6B-817B-A703C2463D17" Type="Folder" Created="2018-01-08 00:01:45 +0800" Modified="2018-01-08 00:03:53 +0800">
-                    <Title>后现代</Title>
+                <BinderItem UUID="34CD6012-1993-4E6B-817B-A703C2463D17" Type="Folder" Created="2018-01-08 00:01:45 +0800" Modified="2018-01-10 14:50:40 +0800">
+                    <Title>后现代认知图景</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
@@ -400,15 +391,6 @@
                                         <TextSelection>6275,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="0878EB88-095F-4313-9736-956E9FB57473" Type="Text" Created="2018-01-08 22:48:50 +0800" Modified="2018-01-09 13:29:25 +0800">
-                                    <Title>3选择策略</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>152,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
                             </Children>
                         </BinderItem>
                     </Children>
@@ -422,6 +404,154 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
+                        <BinderItem UUID="872DB904-7071-404F-828C-75E08189E096" Type="Folder" Created="2018-01-08 15:27:48 +0800" Modified="2018-01-10 14:59:52 +0800">
+                            <Title>日记反思概念</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="9D546E5C-A62C-400C-87F1-D1C4E425E1D2" Type="Text" Created="2017-12-22 16:33:07 +0800" Modified="2017-12-22 16:35:33 +0800">
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="ED972A9D-7250-4F7F-81E6-69B169B54078" Type="Text" Created="2017-12-22 16:34:14 +0800" Modified="2017-12-22 16:35:33 +0800">
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="F13183B3-1998-45CE-B1F9-B5F9D3A2202B" Type="Text" Created="2017-12-22 16:45:35 +0800" Modified="2017-12-22 16:47:02 +0800">
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="A9FDDB38-7E86-44D3-A574-C64230543274" Type="Text" Created="2017-12-23 23:04:26 +0800" Modified="2017-12-29 20:37:04 +0800">
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="ED67B050-5049-4EFD-9A07-2EB4F625CD03" Type="Text" Created="2017-12-25 11:41:14 +0800" Modified="2017-12-25 11:41:35 +0800">
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="C8D0524C-CCCC-4663-B5CD-73F582767601" Type="Text" Created="2017-12-26 15:26:08 +0800" Modified="2017-12-26 15:26:27 +0800">
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="B927526E-81B9-41D3-A947-3E23E27A9E7C" Type="Text" Created="2017-12-27 16:58:37 +0800" Modified="2017-12-27 16:58:48 +0800">
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="871390A2-E39E-4280-A100-189F9DD87698" Type="Text" Created="2017-12-29 17:07:39 +0800" Modified="2017-12-29 17:07:57 +0800">
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="E3BB6E42-EAE1-4150-9D0A-0C82CF6B231E" Type="Text" Created="2017-12-29 17:08:12 +0800" Modified="2017-12-29 17:08:21 +0800">
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="AAF6A1AC-688C-440F-88B8-227A1B3709A5" Type="Text" Created="2017-12-29 19:24:09 +0800" Modified="2017-12-29 19:24:14 +0800">
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="FBF718DD-03B7-45D8-9DCA-462B88E4D90C" Type="Text" Created="2017-12-29 22:10:01 +0800" Modified="2017-12-29 22:10:51 +0800">
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="E08F2CEB-E73C-4343-94D6-D1652C484E46" Type="Text" Created="2017-12-31 22:39:23 +0800" Modified="2017-12-31 22:39:35 +0800">
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="E4AE4C08-F450-4A20-A435-B466EF232A2B" Type="Text" Created="2018-01-02 11:57:21 +0800" Modified="2018-01-02 11:57:42 +0800">
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="10EBED91-8C9D-494E-8E28-9E4D72CC6368" Type="Text" Created="2018-01-02 22:08:15 +0800" Modified="2018-01-02 22:08:46 +0800">
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="CCFB3B7C-EC95-41D3-B60D-89FDC1BA03AD" Type="Text" Created="2018-01-03 16:07:43 +0800" Modified="2018-01-03 16:08:24 +0800">
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="B4A74FCD-7309-4E31-93DF-4D3A62D0203B" Type="Text" Created="2018-01-04 18:25:18 +0800" Modified="2018-01-04 18:25:51 +0800">
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem UUID="0878EB88-095F-4313-9736-956E9FB57473" Type="Text" Created="2018-01-08 22:48:50 +0800" Modified="2018-01-10 14:58:10 +0800">
+                            <Title>人生反思经验</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>152,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
                         <BinderItem UUID="12C95B34-166B-4A4C-B2C2-99427ED56909" Type="Folder" Created="2018-01-08 21:46:47 +0800" Modified="2018-01-08 22:02:15 +0800">
                             <Title>2018反思</Title>
                             <MetaData>
@@ -928,6 +1058,23 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem UUID="8F468939-331D-48EA-A967-104F386B3D5C" Type="Folder" Created="2018-01-10 14:51:22 +0800" Modified="2018-01-10 14:51:24 +0800">
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="DD29621A-CDB1-412A-88B8-27173E8D2343" Type="Folder" Created="2017-12-22 16:22:03 +0800" Modified="2018-01-08 15:27:19 +0800">
+                    <Title>公开写作</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
     </Binder>
@@ -986,13 +1133,13 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2017-12-19 23:01:39 +0800" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2018-01-10 11:21:52 +0800"></PreviousSession>
+        <PreviousSession Words="0" Characters="0" Date="2018-01-10 14:49:38 +0800"></PreviousSession>
     </ProjectTargets>
     <RecentWritingHistory Date="2018-01-10 00:00:00 +0800">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>12668</OtherWordCount>
-        <OtherCharCount>23270</OtherCharCount>
+        <OtherWordCount>12758</OtherWordCount>
+        <OtherCharCount>23854</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>

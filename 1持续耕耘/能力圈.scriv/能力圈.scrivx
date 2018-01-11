@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.0.1-966" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2018-01-10 20:59:25 +0800" ModID="B051B3DB-0671-4D52-8CD1-A7331240D246">
+<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.0.1-966" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2018-01-11 17:10:23 +0800" ModID="C1FC9262-749C-4E26-863B-0A0C4DD006C9">
     <Binder>
         <BinderItem UUID="F573BF27-9E87-4C46-95F3-2DC49E23FA72" Type="DraftFolder" Created="2017-12-19 23:01:40 +0800" Modified="2017-12-19 23:01:40 +0800">
             <Title>草稿</Title>
@@ -270,6 +270,20 @@
                                     <TextSettings>
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
+                                    <CorkboardAndOutliner>
+                                        <SelectedSubdocumentUUIDs>8EDC0C59-AAF0-4EC2-8CB4-404F0C8297A3</SelectedSubdocumentUUIDs>
+                                    </CorkboardAndOutliner>
+                                    <Children>
+                                        <BinderItem UUID="8EDC0C59-AAF0-4EC2-8CB4-404F0C8297A3" Type="Text" Created="2018-01-11 10:38:12 +0800" Modified="2018-01-11 17:10:22 +0800">
+                                            <Title>广度优先搜索</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,167</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                    </Children>
                                 </BinderItem>
                                 <BinderItem UUID="EAE52483-0E56-4A47-8201-69B9511EEC38" Type="Folder" Created="2018-01-10 14:57:05 +0800" Modified="2018-01-10 14:57:08 +0800">
                                     <Title>线性代数</Title>
@@ -1118,6 +1132,15 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem UUID="6E17B860-0FF4-42C3-9141-C7DC8E96362C" Type="Folder" Created="2018-01-11 10:38:04 +0800" Modified="2018-01-11 10:38:04 +0800">
+                    <Title>新建文件夹</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
     </Binder>
@@ -1176,13 +1199,13 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2017-12-19 23:01:39 +0800" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="27" Characters="44" Date="2018-01-10 20:54:49 +0800"></PreviousSession>
+        <PreviousSession Words="0" Characters="0" Date="2018-01-11 15:04:17 +0800"></PreviousSession>
     </ProjectTargets>
-    <RecentWritingHistory Date="2018-01-10 00:00:00 +0800">
-        <DraftWordCount>27</DraftWordCount>
-        <DraftCharCount>44</DraftCharCount>
-        <OtherWordCount>12821</OtherWordCount>
-        <OtherCharCount>23960</OtherCharCount>
+    <RecentWritingHistory Date="2018-01-11 00:00:00 +0800">
+        <DraftWordCount>0</DraftWordCount>
+        <DraftCharCount>0</DraftCharCount>
+        <OtherWordCount>158</OtherWordCount>
+        <OtherCharCount>335</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>

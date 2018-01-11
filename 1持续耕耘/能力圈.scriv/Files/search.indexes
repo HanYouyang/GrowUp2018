@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SearchIndexes Version="1.0">
     <Documents>
-        <Document ID="59B9F187-879D-4876-B7A3-760CFCE32F73">
-            <Title>群体的弱点</Title>
+        <Document ID="EED77E64-FFFF-4C3B-89E7-EF32C38E5DEC">
+            <Title>反向策略</Title>
         </Document>
         <Document ID="557DBB69-3D22-41EB-9CE5-AD8FA1D688A3">
             <Title>做小事</Title>
@@ -1266,6 +1266,18 @@ lollapalooza倾向——数种心理倾向共同作用造成极端后果的倾�
         </Document>
         <Document ID="AAF6A1AC-688C-440F-88B8-227A1B3709A5">
             <Synopsis>所谓“做你喜欢的事”无非就是因为不知道什么能够让你的多巴胺持续分泌所以你要做能让你成瘾的事情。</Synopsis>
+        </Document>
+        <Document ID="8EDC0C59-AAF0-4EC2-8CB4-404F0C8297A3">
+            <Title>广度优先搜索</Title>
+            <Text>广优
+从层次低的位置搜索到层次高的位置，扩展节点用队列保存。
+队列是先进先出表（类似排队）。
+算法理论是，open表存待查的子节点和closed表留着走过的节点，依次往里面加上点就可以（编写上面会容易一点的是不是搜到自己要的终点就结束而是依照自己已经有的节点继续挨个搜索直到搜索到终点）。
+抓牛的例题
+
+1求最小步数问题
+1.1抓牛
+</Text>
         </Document>
         <Document ID="FE00CF0D-0A84-46CA-AB79-4FA80C5CE81F">
             <Title>反向策略</Title>
@@ -3072,11 +3084,11 @@ why:目的，理念；how:方法，措施；what：现象，成果
         <Document ID="872DB904-7071-404F-828C-75E08189E096">
             <Title>日记反思概念</Title>
         </Document>
-        <Document ID="DFE42AAF-28AE-4822-8B9B-82D23EF45E1D">
-            <Title>日记反思概念</Title>
-        </Document>
         <Document ID="96B94C3A-DEC8-48A3-817E-F86514F254B5">
             <Title>历史学</Title>
+        </Document>
+        <Document ID="DFE42AAF-28AE-4822-8B9B-82D23EF45E1D">
+            <Title>日记反思概念</Title>
         </Document>
         <Document ID="FB65A64E-E8FC-484A-BA19-CD747DEAD84D">
             <Title>误判心理学</Title>
@@ -3369,11 +3381,11 @@ why:目的，理念；how:方法，措施；what：现象，成果
         <Document ID="3B9BB359-CB86-405B-B664-C2659C0F9681">
             <Title>工作上的策略</Title>
         </Document>
-        <Document ID="EED77E64-FFFF-4C3B-89E7-EF32C38E5DEC">
-            <Title>反向策略</Title>
-        </Document>
         <Document ID="E3BB6E42-EAE1-4150-9D0A-0C82CF6B231E">
             <Synopsis>所谓的极端信息过载本身就是人际八卦之中可以实现的而并非需要我们现在的互联网。</Synopsis>
+        </Document>
+        <Document ID="59B9F187-879D-4876-B7A3-760CFCE32F73">
+            <Title>群体的弱点</Title>
         </Document>
     </Documents>
 </SearchIndexes>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.0.1-966" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2018-01-14 17:18:21 +0800" ModID="7DAF46DF-F6B5-4E17-A06F-3DAED1372AF7">
+<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.0.1-966" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2018-01-14 20:08:33 +0800" ModID="5CDD41A3-7CFB-4D53-B7D0-7C7D8086B473">
     <Binder>
         <BinderItem UUID="F573BF27-9E87-4C46-95F3-2DC49E23FA72" Type="DraftFolder" Created="2017-12-19 23:01:40 +0800" Modified="2017-12-19 23:01:40 +0800">
             <Title>草稿</Title>
@@ -468,7 +468,7 @@
                                         <TextSelection>533,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="FCA577E0-AB22-4862-B980-839663A2DECD" Type="Text" Created="2018-01-08 21:55:29 +0800" Modified="2018-01-12 17:04:31 +0800">
+                                <BinderItem UUID="FCA577E0-AB22-4862-B980-839663A2DECD" Type="Text" Created="2018-01-08 21:55:29 +0800" Modified="2018-01-14 20:08:33 +0800">
                                     <Title>思维模型</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -1315,13 +1315,13 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2017-12-19 23:01:39 +0800" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="184" Characters="307" Date="2018-01-14 12:36:51 +0800"></PreviousSession>
+        <PreviousSession Words="184" Characters="307" Date="2018-01-14 17:20:59 +0800"></PreviousSession>
     </ProjectTargets>
     <RecentWritingHistory Date="2018-01-14 00:00:00 +0800">
         <DraftWordCount>184</DraftWordCount>
         <DraftCharCount>307</DraftCharCount>
-        <OtherWordCount>165</OtherWordCount>
-        <OtherCharCount>92</OtherCharCount>
+        <OtherWordCount>171</OtherWordCount>
+        <OtherCharCount>59</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>

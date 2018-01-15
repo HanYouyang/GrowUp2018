@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.0.1-966" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2018-01-14 23:12:34 +0800" ModID="F0ABF419-E603-4112-AFF1-991C77A498D0">
+<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.0.1-966" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2018-01-15 19:01:57 +0800" ModID="DB004AFE-6EC2-4A82-8587-C70C70EF506B">
     <Binder>
         <BinderItem UUID="F573BF27-9E87-4C46-95F3-2DC49E23FA72" Type="DraftFolder" Created="2017-12-19 23:01:40 +0800" Modified="2017-12-19 23:01:40 +0800">
             <Title>草稿</Title>
@@ -10,13 +10,13 @@
                 <SelectedSubdocumentUUIDs>B9F1DFEC-1685-4A4C-94CA-6F3488BAF8FF</SelectedSubdocumentUUIDs>
             </CorkboardAndOutliner>
             <Children>
-                <BinderItem UUID="B9F1DFEC-1685-4A4C-94CA-6F3488BAF8FF" Type="Text" Created="2018-01-02 12:02:53 +0800" Modified="2018-01-13 23:24:12 +0800">
+                <BinderItem UUID="B9F1DFEC-1685-4A4C-94CA-6F3488BAF8FF" Type="Text" Created="2018-01-02 12:02:53 +0800" Modified="2018-01-15 16:28:43 +0800">
                     <Title>自我介绍</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>47,0</TextSelection>
+                        <TextSelection>30,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="4A7F6051-C86E-48B9-BC0F-55182AEDA310" Type="Text" Created="2018-01-09 23:02:55 +0800" Modified="2018-01-09 23:03:30 +0800">
@@ -439,13 +439,13 @@
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                     <Children>
-                                        <BinderItem UUID="A1416F0E-CB12-4944-BAE8-F8F7149CD3D9" Type="Text" Created="2018-01-09 17:12:20 +0800" Modified="2018-01-14 12:51:17 +0800">
+                                        <BinderItem UUID="A1416F0E-CB12-4944-BAE8-F8F7149CD3D9" Type="Text" Created="2018-01-09 17:12:20 +0800" Modified="2018-01-15 19:01:30 +0800">
                                             <Title>《穷查理宝典》1801</Title>
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>209,0</TextSelection>
+                                                <TextSelection>212,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                         <BinderItem UUID="C91381F1-AA35-4056-AF95-315E4D1F4061" Type="Text" Created="2018-01-12 14:46:19 +0800" Modified="2018-01-14 12:49:43 +0800">
@@ -477,13 +477,13 @@
                                         <TextSelection>17102,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="98E9B04A-E8A6-44F2-A1D5-12B25E69EFC1" Type="Text" Created="2018-01-09 17:10:44 +0800" Modified="2018-01-14 23:12:27 +0800">
+                                <BinderItem UUID="98E9B04A-E8A6-44F2-A1D5-12B25E69EFC1" Type="Text" Created="2018-01-09 17:10:44 +0800" Modified="2018-01-15 19:01:30 +0800">
                                     <Title>人类误判心理学</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>8,0</TextSelection>
+                                        <TextSelection>805,46</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="2E8C155E-AB45-42E8-95A9-CCFEFD34BCFA" Type="Text" Created="2018-01-08 23:22:00 +0800" Modified="2018-01-14 23:12:00 +0800">
@@ -1315,13 +1315,13 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2017-12-19 23:01:39 +0800" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="184" Characters="307" Date="2018-01-14 17:20:59 +0800"></PreviousSession>
+        <PreviousSession Words="396" Characters="673" Date="2018-01-15 16:11:04 +0800"></PreviousSession>
     </ProjectTargets>
-    <RecentWritingHistory Date="2018-01-14 00:00:00 +0800">
-        <DraftWordCount>184</DraftWordCount>
-        <DraftCharCount>307</DraftCharCount>
-        <OtherWordCount>-131</OtherWordCount>
-        <OtherCharCount>-797</OtherCharCount>
+    <RecentWritingHistory Date="2018-01-15 00:00:00 +0800">
+        <DraftWordCount>396</DraftWordCount>
+        <DraftCharCount>673</DraftCharCount>
+        <OtherWordCount>26</OtherWordCount>
+        <OtherCharCount>46</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>

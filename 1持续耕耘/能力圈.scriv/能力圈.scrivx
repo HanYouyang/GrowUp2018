@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.0.1-966" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2018-01-19 23:33:38 +0800" ModID="261D2FA5-1D26-49FF-A104-5DBEFD2D52B9">
+<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.0.1-966" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2018-01-21 14:01:22 +0800" ModID="7505C29D-6A3B-4C9E-A4AA-2BE0C4BBAD4F">
     <Binder>
         <BinderItem UUID="F573BF27-9E87-4C46-95F3-2DC49E23FA72" Type="DraftFolder" Created="2017-12-19 23:01:40 +0800" Modified="2018-01-17 15:09:12 +0800">
             <Title>总思路</Title>
@@ -63,13 +63,13 @@
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
             <Children>
-                <BinderItem UUID="0878EB88-095F-4313-9736-956E9FB57473" Type="Text" Created="2018-01-08 22:48:50 +0800" Modified="2018-01-19 23:33:31 +0800">
+                <BinderItem UUID="0878EB88-095F-4313-9736-956E9FB57473" Type="Text" Created="2018-01-08 22:48:50 +0800" Modified="2018-01-21 14:01:22 +0800">
                     <Title>人生反思经验</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>109,0</TextSelection>
+                        <TextSelection>421,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="6E7D7885-BFDA-4FB1-8E1C-4F5774E0778D" Type="Folder" Created="2018-01-08 15:34:41 +0800" Modified="2018-01-17 15:10:04 +0800">
@@ -1242,6 +1242,15 @@
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>0,311</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="92358811-4268-4407-9E03-E225CCCD99D6" Type="Text" Created="2018-01-20 00:03:06 +0800" Modified="2018-01-20 00:05:36 +0800">
+                                    <Title>七巧板原理</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>15,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -2514,13 +2523,13 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2017-12-19 23:01:39 +0800" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2018-01-19 23:32:28 +0800"></PreviousSession>
+        <PreviousSession Words="0" Characters="0" Date="2018-01-20 00:02:55 +0800"></PreviousSession>
     </ProjectTargets>
-    <RecentWritingHistory Date="2018-01-19 00:00:00 +0800">
-        <DraftWordCount>115</DraftWordCount>
-        <DraftCharCount>218</DraftCharCount>
-        <OtherWordCount>17784</OtherWordCount>
-        <OtherCharCount>31558</OtherCharCount>
+    <RecentWritingHistory Date="2018-01-21 00:00:00 +0800">
+        <DraftWordCount>0</DraftWordCount>
+        <DraftCharCount>0</DraftCharCount>
+        <OtherWordCount>120</OtherWordCount>
+        <OtherCharCount>205</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>

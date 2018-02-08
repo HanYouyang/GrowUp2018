@@ -6,20 +6,15 @@
         <SubdocumentCounts>No</SubdocumentCounts>
         <ExpandedItems>
             <ItemID>F573BF27-9E87-4C46-95F3-2DC49E23FA72</ItemID>
-            <ItemID>6E7D7885-BFDA-4FB1-8E1C-4F5774E0778D</ItemID>
             <ItemID>BD9E202A-A848-4C04-B1DF-342B13D88B58</ItemID>
             <ItemID>4451C038-4B55-4163-894F-C6883B6D649E</ItemID>
-            <ItemID>7BB27463-77CB-4EC0-AD1B-B43FE27CC59A</ItemID>
-            <ItemID>D06656DD-2036-4F6E-8410-BBA29DE2AEC8</ItemID>
-            <ItemID>0BCBF4C5-E2D8-4E44-BFA1-391980010B74</ItemID>
-            <ItemID>482884DE-6866-4E7B-A50B-16CC3F38E9F3</ItemID>
-            <ItemID>96FA5E01-E9E1-4819-8BEB-1D2948B5E5A1</ItemID>
-            <ItemID>6F276B94-BDDC-4DB6-923A-8FA4ABF11A04</ItemID>
-            <ItemID>D21B8338-4CB1-4C4C-B8D1-6D725C999388</ItemID>
-            <ItemID>55D7B94A-ADBD-4784-918F-953ACDC23DCC</ItemID>
+            <ItemID>E9B15A51-CC8A-4942-B278-89F47EAEE1D3</ItemID>
+            <ItemID>18FF2616-08BA-45D1-B0F7-A99C2D1B87C5</ItemID>
+            <ItemID>5ACA8D5F-DBA5-420A-9C46-893AFF9FFAA9</ItemID>
+            <ItemID>32A8F7E4-C175-4E09-AFBD-1955C352216D</ItemID>
         </ExpandedItems>
         <Selection>
-            <ItemID>FF687EF4-988F-4FC2-9EF4-9D0C7D1E8C21</ItemID>
+            <ItemID>4451C038-4B55-4163-894F-C6883B6D649E</ItemID>
         </Selection>
     </Binder>
     <Inspector Show="No" View="Notes">
@@ -112,11 +107,14 @@
                 <ShowHeader>Yes</ShowHeader>
                 <ShowFooter>Yes</ShowFooter>
                 <GroupsViewMode>Corkboard</GroupsViewMode>
-                <CurrentViewMode>Single</CurrentViewMode>
+                <CurrentViewMode>Corkboard</CurrentViewMode>
                 <SelectionAffects>None</SelectionAffects>
                 <Content>
-                    <ItemID>FF687EF4-988F-4FC2-9EF4-9D0C7D1E8C21</ItemID>
+                    <ItemID>4451C038-4B55-4163-894F-C6883B6D649E</ItemID>
                 </Content>
+                <Selection>
+                    <ItemID>2E04026F-5065-4A6D-B2F3-6BF03482F185</ItemID>
+                </Selection>
             </View>
             <Text>
                 <ShowRuler>No</ShowRuler>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.0.1-966" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2018-02-07 12:19:57 +0800" ModID="DA89E844-A44B-41BF-AB0D-905EE4235BD5">
+<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.0.1-966" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2018-02-10 23:30:10 +0800" ModID="4EB75948-2948-4737-ACB6-60A6180D19C4">
     <Binder>
         <BinderItem UUID="F573BF27-9E87-4C46-95F3-2DC49E23FA72" Type="DraftFolder" Created="2017-12-19 23:01:40 +0800" Modified="2018-02-07 11:55:04 +0800">
             <Title>策略</Title>
@@ -611,6 +611,28 @@
                                 </BinderItem>
                             </Children>
                         </BinderItem>
+                        <BinderItem UUID="6F276B94-BDDC-4DB6-923A-8FA4ABF11A04" Type="Folder" Created="2018-01-17 10:08:07 +0800" Modified="2018-02-10 21:42:08 +0800">
+                            <Title>政法</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <CorkboardAndOutliner>
+                                <SelectedSubdocumentUUIDs>BDD9718A-D7B9-4B16-ACF3-C3A546847AA2</SelectedSubdocumentUUIDs>
+                            </CorkboardAndOutliner>
+                            <Children>
+                                <BinderItem UUID="BDD9718A-D7B9-4B16-ACF3-C3A546847AA2" Type="Text" Created="2018-01-17 10:09:14 +0800" Modified="2018-02-07 11:09:51 +0800">
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>518,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
                         <BinderItem UUID="46C9E044-CD52-40E7-8A43-E0B0ED5A32AD" Type="Folder" Created="2018-01-17 09:59:27 +0800" Modified="2018-01-17 09:59:29 +0800">
                             <Title>数学</Title>
                             <MetaData>
@@ -978,28 +1000,6 @@
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem UUID="6F276B94-BDDC-4DB6-923A-8FA4ABF11A04" Type="Folder" Created="2018-01-17 10:08:07 +0800" Modified="2018-01-17 10:09:13 +0800">
-                            <Title>法学</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,0</TextSelection>
-                            </TextSettings>
-                            <CorkboardAndOutliner>
-                                <SelectedSubdocumentUUIDs>BDD9718A-D7B9-4B16-ACF3-C3A546847AA2</SelectedSubdocumentUUIDs>
-                            </CorkboardAndOutliner>
-                            <Children>
-                                <BinderItem UUID="BDD9718A-D7B9-4B16-ACF3-C3A546847AA2" Type="Text" Created="2018-01-17 10:09:14 +0800" Modified="2018-02-07 11:09:51 +0800">
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>518,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                            </Children>
-                        </BinderItem>
                         <BinderItem UUID="D21B8338-4CB1-4C4C-B8D1-6D725C999388" Type="Folder" Created="2018-01-08 15:29:24 +0800" Modified="2018-01-17 15:02:57 +0800">
                             <Title>计算机科学</Title>
                             <MetaData>
@@ -1324,6 +1324,14 @@
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>491,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="FFC6F06C-DD0F-4497-8840-56F5CA79A92A" Type="Text" Created="2018-02-10 21:31:06 +0800" Modified="2018-02-10 23:30:10 +0800">
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>59,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -1747,7 +1755,7 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>490,50</TextSelection>
+                                <TextSelection>325,1</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="2EA60B24-2345-4641-ACBC-50FF7D187D91" Type="Text" Created="2018-02-06 14:40:37 +0800" Modified="2018-02-06 14:48:02 +0800">
@@ -2895,13 +2903,13 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2017-12-19 23:01:39 +0800" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="10" Characters="15" Date="2018-02-07 12:06:48 +0800"></PreviousSession>
+        <PreviousSession Words="0" Characters="0" Date="2018-02-10 19:44:33 +0800"></PreviousSession>
     </ProjectTargets>
-    <RecentWritingHistory Date="2018-02-07 00:00:00 +0800">
-        <DraftWordCount>10</DraftWordCount>
-        <DraftCharCount>15</DraftCharCount>
-        <OtherWordCount>3283</OtherWordCount>
-        <OtherCharCount>6173</OtherCharCount>
+    <RecentWritingHistory Date="2018-02-10 00:00:00 +0800">
+        <DraftWordCount>0</DraftWordCount>
+        <DraftCharCount>0</DraftCharCount>
+        <OtherWordCount>72</OtherWordCount>
+        <OtherCharCount>139</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>

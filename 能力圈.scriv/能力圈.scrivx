@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.0.1-966" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2018-02-16 15:33:08 +0800" ModID="819642AA-C6F4-487E-8CFF-967739A4B4D9">
+<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.0.1-966" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2018-02-18 23:48:42 +0800" ModID="AC9E365B-5FFB-4FFA-9037-EE9FFCD821AA">
     <Binder>
         <BinderItem UUID="F573BF27-9E87-4C46-95F3-2DC49E23FA72" Type="DraftFolder" Created="2017-12-19 23:01:40 +0800" Modified="2018-02-11 09:50:29 +0800">
             <Title>思维模型</Title>
@@ -1109,6 +1109,14 @@
                                         <TextSelection>63,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
+                                <BinderItem UUID="2B8FEAB1-476A-4527-AAFD-8BCF5B030A11" Type="Text" Created="2018-02-18 23:48:39 +0800" Modified="2018-02-18 23:48:42 +0800">
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>31,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
                             </Children>
                         </BinderItem>
                         <BinderItem UUID="21053052-E47F-4772-BCB4-17EC6B0C2854" Type="Folder" Created="2017-12-19 23:04:01 +0800" Modified="2018-02-11 20:38:11 +0800">
@@ -1187,7 +1195,7 @@
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>2613,11</TextSelection>
+                                        <TextSelection>15585,4</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="8395D6BF-BA44-42B0-9073-928F7595B7AF" Type="Text" Created="2017-12-19 23:02:26 +0800" Modified="2018-01-25 14:11:49 +0800">
@@ -2924,11 +2932,11 @@
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
         <PreviousSession Words="0" Characters="0" Date="2018-02-13 15:13:15 +0800"></PreviousSession>
     </ProjectTargets>
-    <RecentWritingHistory Date="2018-02-16 00:00:00 +0800">
+    <RecentWritingHistory Date="2018-02-18 00:00:00 +0800">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>0</OtherWordCount>
-        <OtherCharCount>0</OtherCharCount>
+        <OtherWordCount>19</OtherWordCount>
+        <OtherCharCount>31</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>

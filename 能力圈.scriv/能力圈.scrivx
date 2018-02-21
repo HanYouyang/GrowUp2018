@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.0.1-966" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2018-02-19 12:50:17 +0800" ModID="D15F1C87-12BF-4E8F-A0DE-8A51B3F232C9">
+<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.0.1-966" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2018-02-20 16:50:21 +0800" ModID="FB499506-FB41-4754-807A-6928868516C8">
     <Binder>
         <BinderItem UUID="F573BF27-9E87-4C46-95F3-2DC49E23FA72" Type="DraftFolder" Created="2017-12-19 23:01:40 +0800" Modified="2018-02-19 12:25:52 +0800">
             <Title>护城河</Title>
@@ -766,8 +766,8 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="1DC94C71-4E63-427A-B39A-74AC3B526979" Type="Folder" Created="2018-01-17 13:44:15 +0800" Modified="2018-01-17 13:44:27 +0800">
-                            <Title>心理研究</Title>
+                        <BinderItem UUID="1DC94C71-4E63-427A-B39A-74AC3B526979" Type="Folder" Created="2018-01-17 13:44:15 +0800" Modified="2018-02-20 14:46:18 +0800">
+                            <Title>心理</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
@@ -1211,7 +1211,7 @@
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>0,0</TextSelection>
+                                                <TextSelection>427,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                     </Children>
@@ -1407,6 +1407,15 @@
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>518,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="EFA87017-66F7-49A4-A515-ADA808239D25" Type="Text" Created="2018-02-20 14:46:30 +0800" Modified="2018-02-20 16:50:21 +0800">
+                                    <Title>玄处千赞</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -2991,11 +3000,11 @@
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
         <PreviousSession Words="193" Characters="328" Date="2018-02-19 12:26:32 +0800"></PreviousSession>
     </ProjectTargets>
-    <RecentWritingHistory Date="2018-02-19 00:00:00 +0800">
-        <DraftWordCount>193</DraftWordCount>
-        <DraftCharCount>328</DraftCharCount>
-        <OtherWordCount>405</OtherWordCount>
-        <OtherCharCount>1067</OtherCharCount>
+    <RecentWritingHistory Date="2018-02-20 00:00:00 +0800">
+        <DraftWordCount>0</DraftWordCount>
+        <DraftCharCount>0</DraftCharCount>
+        <OtherWordCount>12536</OtherWordCount>
+        <OtherCharCount>24144</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.0.1-966" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2018-02-20 16:50:21 +0800" ModID="FB499506-FB41-4754-807A-6928868516C8">
+<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.0.1-966" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2018-02-23 14:37:19 +0800" ModID="E8426D4D-947D-49DF-9E57-2682E7E618AB">
     <Binder>
         <BinderItem UUID="F573BF27-9E87-4C46-95F3-2DC49E23FA72" Type="DraftFolder" Created="2017-12-19 23:01:40 +0800" Modified="2018-02-19 12:25:52 +0800">
             <Title>护城河</Title>
@@ -334,6 +334,15 @@
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
             <Children>
+                <BinderItem UUID="D0C7DB31-0E8D-4032-A799-C0B2541A0400" Type="Text" Created="2018-01-31 11:49:00 +0800" Modified="2018-02-22 19:53:18 +0800">
+                    <Title>每天注意力反省</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>15,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
                 <BinderItem UUID="B9F1DFEC-1685-4A4C-94CA-6F3488BAF8FF" Type="Text" Created="2018-01-02 12:02:53 +0800" Modified="2018-01-31 10:31:15 +0800">
                     <Title>人生自信</Title>
                     <MetaData>
@@ -379,15 +388,6 @@
                         <TextSelection>142,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="D0C7DB31-0E8D-4032-A799-C0B2541A0400" Type="Text" Created="2018-01-31 11:49:00 +0800" Modified="2018-02-07 11:25:01 +0800">
-                    <Title>每天的注意力反省</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>15,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
                 <BinderItem UUID="92358811-4268-4407-9E03-E225CCCD99D6" Type="Text" Created="2018-01-20 00:03:06 +0800" Modified="2018-01-24 19:30:25 +0800">
                     <Title>七巧板原理</Title>
                     <MetaData>
@@ -424,8 +424,8 @@
                         <TextSelection>1144,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="F3884A6B-40C9-4044-8C22-8DE2232BF212" Type="Text" Created="2018-01-16 22:53:17 +0800" Modified="2018-01-24 19:29:20 +0800">
-                    <Title>思维模型与公司判断</Title>
+                <BinderItem UUID="F3884A6B-40C9-4044-8C22-8DE2232BF212" Type="Text" Created="2018-01-16 22:53:17 +0800" Modified="2018-02-22 19:53:04 +0800">
+                    <Title>公司判断</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
@@ -1409,13 +1409,13 @@
                                         <TextSelection>518,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="EFA87017-66F7-49A4-A515-ADA808239D25" Type="Text" Created="2018-02-20 14:46:30 +0800" Modified="2018-02-20 16:50:21 +0800">
+                                <BinderItem UUID="EFA87017-66F7-49A4-A515-ADA808239D25" Type="Text" Created="2018-02-20 14:46:30 +0800" Modified="2018-02-23 14:37:16 +0800">
                                     <Title>玄处千赞</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>24144,0</TextSelection>
+                                        <TextSelection>199762,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -2998,13 +2998,13 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2017-12-19 23:01:39 +0800" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="193" Characters="328" Date="2018-02-19 12:26:32 +0800"></PreviousSession>
+        <PreviousSession Words="0" Characters="0" Date="2018-02-22 18:50:10 +0800"></PreviousSession>
     </ProjectTargets>
-    <RecentWritingHistory Date="2018-02-22 00:00:00 +0800">
+    <RecentWritingHistory Date="2018-02-23 00:00:00 +0800">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>0</OtherWordCount>
-        <OtherCharCount>0</OtherCharCount>
+        <OtherWordCount>55679</OtherWordCount>
+        <OtherCharCount>104625</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>

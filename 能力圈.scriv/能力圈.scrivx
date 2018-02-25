@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.0.1-966" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2018-02-25 22:38:55 +0800" ModID="D26D9C1C-23A7-480F-91FC-01902556C65F">
+<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.0.1-966" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2018-02-25 22:46:43 +0800" ModID="70537292-03D1-41BD-9E68-62FF06EC7BED">
     <Binder>
         <BinderItem UUID="F573BF27-9E87-4C46-95F3-2DC49E23FA72" Type="DraftFolder" Created="2017-12-19 23:01:40 +0800" Modified="2018-02-19 12:25:52 +0800">
             <Title>护城河</Title>
@@ -668,14 +668,25 @@
                                 <TextSelection>322,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="B8B39B39-97E8-4B76-B188-136E949E5BF5" Type="Text" Created="2018-01-17 14:03:56 +0800" Modified="2018-01-24 10:06:49 +0800">
-                            <Title>7安全边际</Title>
+                        <BinderItem UUID="A92736C8-9870-4EC1-8D11-AD2824B498A2" Type="Folder" Created="2018-02-25 22:45:59 +0800" Modified="2018-02-25 22:46:37 +0800">
+                            <Title>7护城河</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1164,0</TextSelection>
+                                <TextSelection>0,0</TextSelection>
                             </TextSettings>
+                            <Children>
+                                <BinderItem UUID="B8B39B39-97E8-4B76-B188-136E949E5BF5" Type="Text" Created="2018-01-17 14:03:56 +0800" Modified="2018-01-24 10:06:49 +0800">
+                                    <Title>7安全边际</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>1164,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
                         </BinderItem>
                         <BinderItem UUID="2D738DC8-7155-4C49-858D-0BA83A8ED9D5" Type="Folder" Created="2018-02-25 10:47:10 +0800" Modified="2018-02-25 10:47:14 +0800">
                             <Title>8共振效应</Title>
@@ -3510,7 +3521,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2017-12-19 23:01:39 +0800" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2018-02-25 22:37:54 +0800"></PreviousSession>
+        <PreviousSession Words="0" Characters="0" Date="2018-02-25 22:45:41 +0800"></PreviousSession>
     </ProjectTargets>
     <RecentWritingHistory Date="2018-02-25 00:00:00 +0800">
         <DraftWordCount>0</DraftWordCount>

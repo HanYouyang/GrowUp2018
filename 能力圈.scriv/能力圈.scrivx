@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.0.1-966" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2018-02-28 14:38:20 +0800" ModID="7D864625-A6DC-474E-91BA-298D3197D687">
+<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.0.1-966" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2018-02-28 22:29:50 +0800" ModID="78397BB5-FAD8-484E-9182-248AFF008941">
     <Binder>
         <BinderItem UUID="F573BF27-9E87-4C46-95F3-2DC49E23FA72" Type="DraftFolder" Created="2017-12-19 23:01:40 +0800" Modified="2018-02-19 12:25:52 +0800">
             <Title>护城河</Title>
@@ -407,22 +407,22 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="A1416F0E-CB12-4944-BAE8-F8F7149CD3D9" Type="Text" Created="2018-01-09 17:12:20 +0800" Modified="2018-02-27 11:52:55 +0800">
+                        <BinderItem UUID="A1416F0E-CB12-4944-BAE8-F8F7149CD3D9" Type="Text" Created="2018-01-09 17:12:20 +0800" Modified="2018-02-28 22:29:39 +0800">
                             <Title>《穷查理宝典》1801</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>641,0</TextSelection>
+                                <TextSelection>289,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="C91381F1-AA35-4056-AF95-315E4D1F4061" Type="Text" Created="2018-01-12 14:46:19 +0800" Modified="2018-01-14 12:49:43 +0800">
+                        <BinderItem UUID="C91381F1-AA35-4056-AF95-315E4D1F4061" Type="Text" Created="2018-01-12 14:46:19 +0800" Modified="2018-02-28 22:29:49 +0800">
                             <Title>《如何成为沃伦巴菲特》</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>95,0</TextSelection>
+                                <TextSelection>523,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="101FCE8A-AE7D-486E-8653-272F0CFDF1EB" Type="Folder" Created="2018-02-24 08:25:34 +0800" Modified="2018-02-24 08:25:38 +0800">
@@ -434,13 +434,13 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="385348AE-4D59-4E3C-85A4-1CE79C27BA9C" Type="Text" Created="2018-02-19 12:47:36 +0800" Modified="2018-02-19 12:50:09 +0800">
+                                <BinderItem UUID="385348AE-4D59-4E3C-85A4-1CE79C27BA9C" Type="Text" Created="2018-02-19 12:47:36 +0800" Modified="2018-02-28 22:26:19 +0800">
                                     <Title>《您厉害，您赚得多》</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>148,0</TextSelection>
+                                        <TextSelection>825,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="9F10E260-464E-4A59-8967-BCF57B8F11E6" Type="Text" Created="2018-01-29 17:40:46 +0800" Modified="2018-02-11 19:00:01 +0800">
@@ -463,6 +463,15 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
+                                <BinderItem UUID="D26745D8-F106-46A6-8B8F-5F4C636C8AE1" Type="Text" Created="2018-02-28 22:18:56 +0800" Modified="2018-02-28 22:19:03 +0800">
+                                    <Title>《不上班也有钱》</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
                                 <BinderItem UUID="C42BA4D5-F2CB-41EB-83DF-94DBC1EEC348" Type="Text" Created="2018-02-12 22:14:02 +0800" Modified="2018-02-13 20:11:43 +0800">
                                     <Title>《理财-可汗学院》</Title>
                                     <MetaData>
@@ -3986,13 +3995,13 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2017-12-19 23:01:39 +0800" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2018-02-28 14:33:50 +0800"></PreviousSession>
+        <PreviousSession Words="0" Characters="0" Date="2018-02-28 22:18:42 +0800"></PreviousSession>
     </ProjectTargets>
     <RecentWritingHistory Date="2018-02-28 00:00:00 +0800">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>1513</OtherWordCount>
-        <OtherCharCount>2861</OtherCharCount>
+        <OtherWordCount>2025</OtherWordCount>
+        <OtherCharCount>3453</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>

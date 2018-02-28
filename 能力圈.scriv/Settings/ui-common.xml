@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <UIStates>
-    <Binder Show="Yes">
+    <Binder Show="No">
         <ShowCollections>No</ShowCollections>
         <SelectedCollection>0</SelectedCollection>
         <SubdocumentCounts>No</SubdocumentCounts>
@@ -9,10 +9,12 @@
             <ItemID>BD9E202A-A848-4C04-B1DF-342B13D88B58</ItemID>
             <ItemID>EF91892D-846E-47A0-9F9E-7BEE489C73F6</ItemID>
             <ItemID>6FFE0CD9-F914-4B81-AC3C-F4FA9C6FB6E9</ItemID>
-            <ItemID>6CC15CD9-937C-45F3-97BE-87680ED76BD9</ItemID>
+            <ItemID>A2370251-8E68-40F2-8749-64E00776ABF2</ItemID>
+            <ItemID>376D3860-42E0-4A46-94CA-C249AA910B08</ItemID>
+            <ItemID>C5FB8716-E22A-4EE4-9115-E8620A66667D</ItemID>
         </ExpandedItems>
         <Selection>
-            <ItemID>B759E8BD-9F0A-4784-8EF1-76F59E4D1CF5</ItemID>
+            <ItemID>FA22A54F-AB9B-47DF-9AF7-4329CE5DD1F0</ItemID>
         </Selection>
     </Binder>
     <Inspector Show="No" View="Notes">
@@ -108,7 +110,7 @@
                 <CurrentViewMode>Single</CurrentViewMode>
                 <SelectionAffects>None</SelectionAffects>
                 <Content>
-                    <ItemID>B759E8BD-9F0A-4784-8EF1-76F59E4D1CF5</ItemID>
+                    <ItemID>FA22A54F-AB9B-47DF-9AF7-4329CE5DD1F0</ItemID>
                 </Content>
             </View>
             <Text>

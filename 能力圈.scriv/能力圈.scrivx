@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.0.1-966" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2018-03-03 19:36:34 +0800" ModID="BAD9A4AB-F8D4-42EB-9CB9-666BADBC8E9D">
+<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.0.1-966" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2018-03-03 19:57:10 +0800" ModID="314BD6C3-7573-4271-BD4B-1A3CFB704CB9">
     <Binder>
         <BinderItem UUID="F573BF27-9E87-4C46-95F3-2DC49E23FA72" Type="DraftFolder" Created="2017-12-19 23:01:40 +0800" Modified="2018-02-19 12:25:52 +0800">
             <Title>护城河</Title>
@@ -15,6 +15,26 @@
                     <TextSettings>
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
+                    <Children>
+                        <BinderItem UUID="AE6BC1A9-7A43-4EA9-BAEF-08FD4BFC5F05" Type="Text" Created="2018-03-03 19:52:57 +0800" Modified="2018-03-03 19:54:17 +0800">
+                            <Title>郝景芳：没有故事，我们每个人都是碎片</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>5617,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="9FA25788-0B25-47A6-9BB9-D9894CEBCB30" Type="Text" Created="2018-03-03 19:38:15 +0800" Modified="2018-03-03 19:39:44 +0800">
+                            <Title>这种创作方法，用过就再也回不去了</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>5534,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
                 </BinderItem>
                 <BinderItem UUID="3F58983A-AF81-4057-B3AF-9E75A2F3A695" Type="Folder" Created="2018-02-26 18:52:18 +0800" Modified="2018-02-26 18:52:20 +0800">
                     <Title>健身</Title>
@@ -61,13 +81,22 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="C5DF2238-E08D-43E5-80D4-5163E1346449" Type="Text" Created="2018-02-26 19:00:20 +0800" Modified="2018-02-27 09:42:52 +0800">
+                        <BinderItem UUID="C5DF2238-E08D-43E5-80D4-5163E1346449" Type="Text" Created="2018-02-26 19:00:20 +0800" Modified="2018-03-03 19:57:10 +0800">
                             <Title>腿</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>480,0</TextSelection>
+                                <TextSelection>206,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="3A1449BB-EF41-47C3-9423-9C52144EC05F" Type="Text" Created="2018-03-03 19:54:35 +0800" Modified="2018-03-03 19:54:39 +0800">
+                            <Title>肱三头肌</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="2AAF8744-AC4D-4B57-B9DF-C34B30B4BB18" Type="Text" Created="2018-03-03 12:46:41 +0800" Modified="2018-03-03 12:46:48 +0800">
@@ -4083,6 +4112,14 @@
                         <TextSelection>0,21</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem UUID="05E92F18-A5F7-4AC6-9828-A4103C0A58FD" Type="Text" Created="2018-03-03 19:54:28 +0800" Modified="2018-03-03 19:54:28 +0800">
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
     </Binder>
@@ -4141,11 +4178,11 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2017-12-19 23:01:39 +0800" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="358" Characters="734" Date="2018-03-02 16:24:50 +0800"></PreviousSession>
+        <PreviousSession Words="6628" Characters="11972" Date="2018-03-02 16:24:50 +0800"></PreviousSession>
     </ProjectTargets>
     <RecentWritingHistory Date="2018-03-03 00:00:00 +0800">
-        <DraftWordCount>358</DraftWordCount>
-        <DraftCharCount>734</DraftCharCount>
+        <DraftWordCount>6628</DraftWordCount>
+        <DraftCharCount>11972</DraftCharCount>
         <OtherWordCount>12179</OtherWordCount>
         <OtherCharCount>21528</OtherCharCount>
     </RecentWritingHistory>

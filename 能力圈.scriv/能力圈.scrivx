@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.0.1-966" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2018-03-04 22:36:14 +0800" ModID="02F0C390-02BC-40E7-8891-BDEFFB1699FA">
+<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.0.1-966" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2018-03-04 23:36:43 +0800" ModID="5C63C782-5700-4213-8842-4EB9D1C6A0CE">
     <Binder>
         <BinderItem UUID="F573BF27-9E87-4C46-95F3-2DC49E23FA72" Type="DraftFolder" Created="2017-12-19 23:01:40 +0800" Modified="2018-03-03 20:09:43 +0800">
             <Title>定投护城河</Title>
@@ -181,38 +181,20 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>42,0</TextSelection>
+                                <TextSelection>43,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="819FFC77-FC8E-4E90-8A81-C9A14D308895" Type="Text" Created="2018-03-03 21:38:47 +0800" Modified="2018-03-03 21:39:11 +0800">
-                            <Title>算法与C++</Title>
+                        <BinderItem UUID="ABD3BC95-757F-4886-A830-0E2911F283AE" Type="Text" Created="2018-03-04 23:34:25 +0800" Modified="2018-03-04 23:36:16 +0800">
+                            <Title>英语</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>0,0</TextSelection>
+                                <TextSelection>4,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="8EDC0C59-AAF0-4EC2-8CB4-404F0C8297A3" Type="Text" Created="2018-01-11 10:38:12 +0800" Modified="2018-01-11 17:10:22 +0800">
-                            <Title>广度优先搜索</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>289,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem UUID="9006566E-0119-4554-BEB3-B0E78F558064" Type="Text" Created="2018-01-03 23:11:38 +0800" Modified="2018-02-19 08:51:36 +0800">
-                            <Title>C++程序设计</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>82,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem UUID="D89374E8-FC3B-4875-8473-4013399BFB61" Type="Text" Created="2018-03-03 21:38:50 +0800" Modified="2018-03-03 21:39:03 +0800">
-                            <Title>GRE北美范文</Title>
+                        <BinderItem UUID="819FFC77-FC8E-4E90-8A81-C9A14D308895" Type="Text" Created="2018-03-03 21:38:47 +0800" Modified="2018-03-04 23:36:30 +0800">
+                            <Title>算法</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
@@ -4173,6 +4155,41 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem UUID="C758476B-4B56-47BE-846C-5F25F33FBA3A" Type="Text" Created="2018-03-04 23:34:28 +0800" Modified="2018-03-04 23:34:28 +0800">
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="D89374E8-FC3B-4875-8473-4013399BFB61" Type="Text" Created="2018-03-03 21:38:50 +0800" Modified="2018-03-03 21:39:03 +0800">
+                    <Title>GRE北美范文</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="8EDC0C59-AAF0-4EC2-8CB4-404F0C8297A3" Type="Text" Created="2018-01-11 10:38:12 +0800" Modified="2018-01-11 17:10:22 +0800">
+                    <Title>广度优先搜索</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>289,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="9006566E-0119-4554-BEB3-B0E78F558064" Type="Text" Created="2018-01-03 23:11:38 +0800" Modified="2018-02-19 08:51:36 +0800">
+                    <Title>C++程序设计</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>82,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
     </Binder>
@@ -4231,11 +4248,11 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2017-12-19 23:01:39 +0800" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="18" Characters="43" Date="2018-03-04 16:17:45 +0800"></PreviousSession>
+        <PreviousSession Words="38" Characters="166" Date="2018-03-04 16:17:45 +0800"></PreviousSession>
     </ProjectTargets>
     <RecentWritingHistory Date="2018-03-04 00:00:00 +0800">
-        <DraftWordCount>18</DraftWordCount>
-        <DraftCharCount>43</DraftCharCount>
+        <DraftWordCount>38</DraftWordCount>
+        <DraftCharCount>166</DraftCharCount>
         <OtherWordCount>54</OtherWordCount>
         <OtherCharCount>110</OtherCharCount>
     </RecentWritingHistory>

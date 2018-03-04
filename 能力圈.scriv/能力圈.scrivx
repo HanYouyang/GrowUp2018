@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.0.1-966" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2018-03-03 21:49:24 +0800" ModID="A87F7844-3A6C-4BFC-9E30-FF3E031244A9">
+<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.0.1-966" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2018-03-04 22:36:14 +0800" ModID="02F0C390-02BC-40E7-8891-BDEFFB1699FA">
     <Binder>
         <BinderItem UUID="F573BF27-9E87-4C46-95F3-2DC49E23FA72" Type="DraftFolder" Created="2017-12-19 23:01:40 +0800" Modified="2018-03-03 20:09:43 +0800">
             <Title>定投护城河</Title>
@@ -175,6 +175,15 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
+                        <BinderItem UUID="3903C12E-8903-4FB6-9556-10262665984F" Type="Text" Created="2018-03-04 22:34:44 +0800" Modified="2018-03-04 22:36:14 +0800">
+                            <Title>概念</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>42,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
                         <BinderItem UUID="819FFC77-FC8E-4E90-8A81-C9A14D308895" Type="Text" Created="2018-03-03 21:38:47 +0800" Modified="2018-03-03 21:39:11 +0800">
                             <Title>算法与C++</Title>
                             <MetaData>
@@ -1915,6 +1924,14 @@
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>750,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="ED7E5C3A-706B-4A37-BF90-FF71B0B44826" Type="Text" Created="2018-03-04 14:31:54 +0800" Modified="2018-03-04 14:32:02 +0800">
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>110,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -4214,13 +4231,13 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2017-12-19 23:01:39 +0800" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2018-03-03 21:38:26 +0800"></PreviousSession>
+        <PreviousSession Words="18" Characters="43" Date="2018-03-04 16:17:45 +0800"></PreviousSession>
     </ProjectTargets>
-    <RecentWritingHistory Date="2018-03-03 00:00:00 +0800">
-        <DraftWordCount>6628</DraftWordCount>
-        <DraftCharCount>11972</DraftCharCount>
-        <OtherWordCount>12179</OtherWordCount>
-        <OtherCharCount>21528</OtherCharCount>
+    <RecentWritingHistory Date="2018-03-04 00:00:00 +0800">
+        <DraftWordCount>18</DraftWordCount>
+        <DraftCharCount>43</DraftCharCount>
+        <OtherWordCount>54</OtherWordCount>
+        <OtherCharCount>110</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>

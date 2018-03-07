@@ -97,22 +97,6 @@
 			<dict>
 				<key>BinderDocUUIDs</key>
 				<array>
-					<string>AD77E341-15FF-4B47-B8C4-F196CEEC2EDA</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>BinderDocUUIDs</key>
-				<array>
-					<string>524F11E6-0B9B-4903-91BC-FB16E863A89B</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>BinderDocUUIDs</key>
-				<array>
 					<string>9BFA970F-9C14-4D6B-A066-7CED65D8B3C4</string>
 				</array>
 				<key>ViewMode</key>
@@ -894,12 +878,28 @@
 				<key>ViewMode</key>
 				<integer>0</integer>
 			</dict>
+			<dict>
+				<key>BinderDocUUIDs</key>
+				<array>
+					<string>ABD3BC95-757F-4886-A830-0E2911F283AE</string>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocUUIDs</key>
+				<array>
+					<string>819FFC77-FC8E-4E90-8A81-C9A14D308895</string>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
 		</array>
 	</dict>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {384, 376}}</string>
+	<string>{{0, 2097.3333333333335}, {384, 376}}</string>
 	<key>supportingDocumentEditor.selectedTextRanges</key>
-	<string>370,0</string>
+	<string>1190,0</string>
 	<key>supportingDocumentEditor.textEditorState</key>
 	<dict>
 		<key>textScaleFactor</key>

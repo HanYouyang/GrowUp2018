@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.0.1-966" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2018-03-06 22:44:56 +0800" ModID="34E40CD6-1F5C-466C-93A2-7CB2A45380DB">
+<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.0.1-966" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2018-03-07 12:09:17 +0800" ModID="5129D38C-2054-4E79-9688-D7E36E073AF4">
     <Binder>
         <BinderItem UUID="F573BF27-9E87-4C46-95F3-2DC49E23FA72" Type="DraftFolder" Created="2017-12-19 23:01:40 +0800" Modified="2018-03-03 20:09:43 +0800">
             <Title>定投护城河</Title>
@@ -193,13 +193,13 @@
                                 <TextSelection>452,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="819FFC77-FC8E-4E90-8A81-C9A14D308895" Type="Text" Created="2018-03-03 21:38:47 +0800" Modified="2018-03-06 22:44:14 +0800">
-                            <Title>算法</Title>
+                        <BinderItem UUID="819FFC77-FC8E-4E90-8A81-C9A14D308895" Type="Text" Created="2018-03-03 21:38:47 +0800" Modified="2018-03-07 11:58:59 +0800">
+                            <Title>算法-C++</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1160,0</TextSelection>
+                                <TextSelection>48,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="F5D5BF2D-8F36-4050-B684-F322E65A263C" Type="Text" Created="2018-03-05 16:15:59 +0800" Modified="2018-03-06 09:28:47 +0800">
@@ -208,7 +208,7 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>404,0</TextSelection>
+                                <TextSelection>229,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -1384,6 +1384,14 @@
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>218,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="605DA717-BC0A-4DA9-9433-264F5D04FB11" Type="Text" Created="2018-03-07 12:09:07 +0800" Modified="2018-03-07 12:09:17 +0800">
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>370,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="71C13EB7-4B3F-4F86-99B3-D86D022EF8CF" Type="Text" Created="2018-02-24 11:39:40 +0800" Modified="2018-02-24 14:33:55 +0800">
@@ -4613,13 +4621,13 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2017-12-19 23:01:39 +0800" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="698" Characters="1185" Date="2018-03-06 10:21:03 +0800"></PreviousSession>
+        <PreviousSession Words="0" Characters="0" Date="2018-03-07 09:54:35 +0800"></PreviousSession>
     </ProjectTargets>
-    <RecentWritingHistory Date="2018-03-06 00:00:00 +0800">
-        <DraftWordCount>779</DraftWordCount>
-        <DraftCharCount>1575</DraftCharCount>
-        <OtherWordCount>0</OtherWordCount>
-        <OtherCharCount>-5</OtherCharCount>
+    <RecentWritingHistory Date="2018-03-07 00:00:00 +0800">
+        <DraftWordCount>0</DraftWordCount>
+        <DraftCharCount>0</DraftCharCount>
+        <OtherWordCount>355</OtherWordCount>
+        <OtherCharCount>604</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>

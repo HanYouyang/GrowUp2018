@@ -6213,6 +6213,8 @@ https://en.wikipedia.org/wiki/List_of_fallacies</Text>
 0306 However, the speaker unnecessarily extends this broad assertion to embrace research whose results are "controversial," while ignoring certain compelling reasons why some types of research might be unjustifiable.
 0307 My points of contention with the speaker involves the fundamental objectives and nature of research, as discussed below.
 
+0308 I concede that the speaker is on the correct philosophical side of this issue.
+0309 After all, research is the exploration of the unknown for true answers to our questions, and for lasting solutions to our enduring problems.
 </Text>
         </Document>
         <Document ID="D3A37451-65E8-45BF-8409-A4A2DED28A42">
@@ -13882,7 +13884,7 @@ N：问题的规模
 
 广度优先搜索：从根节点开始，沿着树的宽度遍历树的节点，如果所有节点均被访问，则算法中止
 判重：用标记等手段来记录一个结点是否已经扩展过
-0307
+0307 0309
 
 C++
 头文件
@@ -13891,14 +13893,14 @@ C++
 引用：T &amp;
 传值：函数的形参是实参的一个拷贝，形参的改变不会影响实参
 传引用：形参是对应实参的引用
-常引用：const T &amp;，类型不同与引用，仅仅不能用此来修改
+常引用：const T &amp;，类型不同于引用，仅仅不能用此来修改
 内联函数：inline 返回值类型 函数名（函数参数表）
 重载：函数名相同，参数表不同（仅返回值不同是重复定义）
 动态内存分配：程序在运行期间，根据实际需要，要求操作系统临时分配一片内存空间用于存放数据（运行过程而非编译过程中分配）
 内存泄露：用new运算符动态分配的内存空间，一定要用delete运算符释放，否则程序结束仍然不会被操作系统收回从而浪费内存
 字符数组：字符数组的初始化，最容易理解的方式就是逐个字符赋给数组中各元素
 char str[10]={ 'I',' ','a','m',' ',‘h’,'a','p','p','y'};
-字符串常量：用双引号(“”)括起来的0个或者多个字符组成的序列，每个字符串尾自动加一个 ‘\0’ 作为字符串结束标志
+字符串常量（就是字符串）：用双引号(“”)括起来的0个或者多个字符组成的序列，每个字符串尾自动加一个 ‘\0’ 作为字符串结束标志
 "how do you do.","CHINA","a","$123.45"“C language programming”、“a\\n”、“#123”、“ ”
 
 结构化程序设计：自顶向下、逐步求精，将复杂的大问题层层分解为许多简单地小问题的组合
@@ -13909,12 +13911,13 @@ char str[10]={ 'I',' ','a','m',' ',‘h’,'a','p','p','y'};
 抽象：同一类事物的共同特点概括出来
 封装：完成抽象之后，将属性和方法捆绑在一起，形式上写成一个整体，即“类”的过程
 继承：在编写一个“类”的时候，以现有的类作为基础，使得新类从现有的类“派生”而来，从而达到代码扩充和重用的目的
-多态：指不同种类的对象都具有名称相同的行为，而具体行为的实现方式却有所不同
+多态：指不同种类的对象都具有名称相同的行为，而具体行为的实现方式却有所不同（重载是编译多态）
 类：类名、访问范围说明符、成员变量、成员函数
 定义对象：类 对象名
 访问：对象名.成员名，指针-&gt;成员名，引用.成员名
 Struct有函数就是类，没有就是结构，但是类内不加访问范围说明符默认是私有，结构不加默认是公有
 隐藏：设置私有成员的机制
+0309
 
 初始化：在计算机编程领域中指为数据对象或变量赋初值的做法
 声明：指声明标识符(表示编程的实体，如数据类型、变量、函数)时还没有给出完整的定义

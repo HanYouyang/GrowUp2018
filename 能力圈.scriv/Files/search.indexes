@@ -4654,7 +4654,7 @@ PS：其实读过《资本论》的应该知道，整本书，讲的都是没有
 概念之间能够产生联系，概念内部也能够拆分进行解构，去思考是否可能。</Text>
         </Document>
         <Document ID="CB6F40E3-3603-45C4-ACA6-A76F64FF55AD">
-            <Title>前端</Title>
+            <Title>后端概念</Title>
         </Document>
         <Document ID="18FF2616-08BA-45D1-B0F7-A99C2D1B87C5">
             <Title>环地中海文明圈</Title>
@@ -6377,8 +6377,8 @@ The concept of price elasticity of demand measures the responsiveness of changes
 不幸的是，重视理由倾向是如此强大，乃至一个人给出的理由哪怕是毫无意义的或者是不准确的，也能使他的命令和要求更容易得到遵从。有个心理学实验证明了这一点。在这个实验中，实验人员成功地插队到排在复印机前面的长队前头，他给出的理由是：“我要复印几份东西。”重视理由倾向这种不幸的副作用其实是一种条件反射，会出现这样的条件反射，是因为大多数人都认为有理由的事情是很重要的。自然地，某些商业机构和邪教组织经常利用各种有噱头的理由来达到他们不可告人的目的。</Text>
         </Document>
         <Document ID="637782D9-6A6C-4A6C-9732-BC5F8DE050CC">
-            <Title>后端</Title>
-            <Text>后端24：
+            <Title>后端24：找工作三节课</Title>
+            <Text>后端24：找工作三节课
 内容要详细，什么技能会自己一定要写出来具体，HR来筛选的时候一定要用的，不可能说这个东西你觉得简单就不写了。
 你写的名词这样的东西都要有，自己要把自己学过的东西都过一遍，自己总结一遍写出来给大家参考。因为不是你总结的你肯定写不出来，写出来才能说明你懂，面试的时候很多人用减分法一个点不行就取消了。
 一个社会上面一个人要么懂前端要么懂后端，肯定不能说所有都懂的。
@@ -10023,8 +10023,8 @@ Always be on the lookout for companies that are moving toward the formation of a
             <Title>邓宁克鲁格效应Dunning-Kruger Effect</Title>
             <Text>（3）邓宁克鲁格效应Dunning-Kruger Effect - “相对不熟练的人有虚幻的优势，错误地评估他们的能力远高于实际情况...... [和]高技能的人可能低估他们的相对能力，并可能错误地认为任务对他们来说也容易，对其他人也容易。“（相关：过度自信效应overconfidence effect）</Text>
         </Document>
-        <Document ID="FF22630A-BB5B-497B-9D66-F6B0CC9E1CA5">
-            <Text>（1）第三个故事（The Third Story） - “第三个故事是一个公正的观察者，比如一个调停者，会说的故事; 这是双方可以达成一致的事件版本。“（相关：最尊重的解释Most Respectful Interpretation）</Text>
+        <Document ID="7FB1F4CE-F569-46B1-9CA2-3EFC476115CC">
+            <Title>后端</Title>
         </Document>
         <Document ID="04B4F4F9-0F81-44CE-943B-2EDCA06D459B">
             <Text>体育
@@ -10043,8 +10043,8 @@ Always be on the lookout for companies that are moving toward the formation of a
 （3）网络效应Network Effect - “商品或服务的一个用户对该产品的价值对其他人的影响。当存在网络效应时，产品或服务的价值取决于使用它的其他人的数量。“
 （3）规模经济Economies of Scale - “由于规模，产量或经营规模，企业获得成本优势，单位产品成本通常随着规模的扩大而下降，因为固定成本分摊到更多的单位产量。</Text>
         </Document>
-        <Document ID="7FB1F4CE-F569-46B1-9CA2-3EFC476115CC">
-            <Title>后端</Title>
+        <Document ID="FF22630A-BB5B-497B-9D66-F6B0CC9E1CA5">
+            <Text>（1）第三个故事（The Third Story） - “第三个故事是一个公正的观察者，比如一个调停者，会说的故事; 这是双方可以达成一致的事件版本。“（相关：最尊重的解释Most Respectful Interpretation）</Text>
         </Document>
         <Document ID="605DA717-BC0A-4DA9-9433-264F5D04FB11">
             <Text>很有意思的一点，昨天想明白之后才发现人生有很多道理其实已经充分给一些算法解释出来了。
@@ -11694,14 +11694,14 @@ NOTE: Virtually all of the aforementioned effects apply to the stock market when
         <Document ID="2D738DC8-7155-4C49-858D-0BA83A8ED9D5">
             <Title>周边政治</Title>
         </Document>
-        <Document ID="55D7B94A-ADBD-4784-918F-953ACDC23DCC">
-            <Title>算法</Title>
+        <Document ID="A220BDCE-95FC-46CC-B444-C4236967C7A5">
+            <Title>后端</Title>
         </Document>
         <Document ID="E08F2CEB-E73C-4343-94D6-D1652C484E46">
             <Synopsis>理性互动就是“双向”互动</Synopsis>
         </Document>
-        <Document ID="A220BDCE-95FC-46CC-B444-C4236967C7A5">
-            <Title>后端</Title>
+        <Document ID="55D7B94A-ADBD-4784-918F-953ACDC23DCC">
+            <Title>算法</Title>
         </Document>
         <Document ID="65FF1E4A-9792-4C74-99C4-A39B3FDC61C7">
             <Title>2016年跑步</Title>
@@ -11763,6 +11763,9 @@ CSS selector
     color: blue;
   }
 &lt;/style&gt;</Text>
+        </Document>
+        <Document ID="8D29E8CA-6D0C-475E-8EA1-6B36FFE76B5F">
+            <Title>后端概念</Title>
         </Document>
         <Document ID="4C6DB97C-2A63-49EB-B8C2-F3624CDE0575">
             <Title>Example: Company analysis using mental models</Title>
@@ -13633,6 +13636,9 @@ The mean can prove to be an unreliable measure, however, as any abnormally high 
         <Document ID="4EEBA994-1905-4823-94F2-BBA6BB68A311">
             <Title>发表文章</Title>
         </Document>
+        <Document ID="DEEE17D8-A61B-4DE8-9F2A-807FE0748B39">
+            <Title>后端概念</Title>
+        </Document>
         <Document ID="7A871650-BF48-45D9-B970-ECEBC77C8E6D">
             <Text>“投资类注意力”即能够一次性在将来省下很多关注时间的注意力才行而非“投机类注意力”即需要不停关注看盘才能获得的知识</Text>
         </Document>
@@ -14846,6 +14852,9 @@ Now let’s examine two more mathematical concepts that need to be part of your 
 6.长期稳健投资
 7.设法增加收入
 </Text>
+        </Document>
+        <Document ID="CCB1912B-6D15-4049-BD99-519E196ECBCE">
+            <Title>后端概念</Title>
         </Document>
         <Document ID="168DBB51-8E09-4DA0-9067-E82D595CA65D">
             <Text>十二

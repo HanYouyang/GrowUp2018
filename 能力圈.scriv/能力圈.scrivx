@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2018-03-11 22:16:47 +0800" ModID="C0A49064-6038-44F2-8C3F-7268DE5B76F0">
+<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2018-03-12 15:03:03 +0800" ModID="39F53932-9E45-41BC-862C-AB37F1CB6E64">
     <Binder>
         <BinderItem UUID="F573BF27-9E87-4C46-95F3-2DC49E23FA72" Type="DraftFolder" Created="2017-12-19 23:01:40 +0800" Modified="2018-03-03 20:09:43 +0800">
             <Title>定投护城河</Title>
@@ -627,6 +627,17 @@
                             <TextSettings>
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
+                            <Children>
+                                <BinderItem UUID="07179FC7-1002-4AFA-BA19-ECA2CF90C769" Type="Text" Created="2018-03-12 11:00:42 +0800" Modified="2018-03-12 14:00:47 +0800">
+                                    <Title>前端1预习</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>600,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
                         </BinderItem>
                         <BinderItem UUID="CCB1912B-6D15-4049-BD99-519E196ECBCE" Type="Folder" Created="2018-03-11 22:15:54 +0800" Modified="2018-03-11 22:16:04 +0800">
                             <Title>后端</Title>
@@ -644,6 +655,15 @@
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>0,11</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="359FA29A-16CE-4AFA-96C0-B64006D203F2" Type="Text" Created="2018-03-12 15:02:42 +0800" Modified="2018-03-12 15:03:03 +0800">
+                                    <Title>后端1</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -4752,13 +4772,13 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2017-12-19 23:01:39 +0800" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="4" Characters="6" Date="2018-03-11 22:15:26 +0800"></PreviousSession>
+        <PreviousSession Words="871" Characters="2271" Date="2018-03-12 11:00:29 +0800"></PreviousSession>
     </ProjectTargets>
-    <RecentWritingHistory Date="2018-03-11 00:00:00 +0800">
-        <DraftWordCount>5</DraftWordCount>
-        <DraftCharCount>8</DraftCharCount>
-        <OtherWordCount>1507</OtherWordCount>
-        <OtherCharCount>2535</OtherCharCount>
+    <RecentWritingHistory Date="2018-03-12 00:00:00 +0800">
+        <DraftWordCount>871</DraftWordCount>
+        <DraftCharCount>2271</DraftCharCount>
+        <OtherWordCount>0</OtherWordCount>
+        <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>

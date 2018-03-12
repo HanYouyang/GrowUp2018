@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2018-03-12 17:09:36 +0800" ModID="87036BEE-7ED3-44EF-A6D6-C29D6405C5DE">
+<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2018-03-12 22:57:35 +0800" ModID="E0CF6C23-411A-4679-B669-F2534B29AB7F">
     <Binder>
         <BinderItem UUID="F573BF27-9E87-4C46-95F3-2DC49E23FA72" Type="DraftFolder" Created="2017-12-19 23:01:40 +0800" Modified="2018-03-03 20:09:43 +0800">
             <Title>定投护城河</Title>
@@ -313,31 +313,31 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="ABD3BC95-757F-4886-A830-0E2911F283AE" Type="Text" Created="2018-03-04 23:34:25 +0800" Modified="2018-03-12 16:42:09 +0800">
+                        <BinderItem UUID="ABD3BC95-757F-4886-A830-0E2911F283AE" Type="Text" Created="2018-03-04 23:34:25 +0800" Modified="2018-03-12 22:51:04 +0800">
                             <Title>英语</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1177,0</TextSelection>
+                                <TextSelection>1236,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="819FFC77-FC8E-4E90-8A81-C9A14D308895" Type="Text" Created="2018-03-03 21:38:47 +0800" Modified="2018-03-12 16:41:28 +0800">
+                        <BinderItem UUID="819FFC77-FC8E-4E90-8A81-C9A14D308895" Type="Text" Created="2018-03-03 21:38:47 +0800" Modified="2018-03-12 22:55:58 +0800">
                             <Title>算法</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>839,0</TextSelection>
+                                <TextSelection>1189,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="17C89A0B-5225-4BFD-ACBD-0F390A30645D" Type="Text" Created="2018-03-12 16:41:02 +0800" Modified="2018-03-12 16:46:44 +0800">
+                        <BinderItem UUID="17C89A0B-5225-4BFD-ACBD-0F390A30645D" Type="Text" Created="2018-03-12 16:41:02 +0800" Modified="2018-03-12 22:56:49 +0800">
                             <Title>C++</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>13,0</TextSelection>
+                                <TextSelection>2374,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="CB6F40E3-3603-45C4-ACA6-A76F64FF55AD" Type="Text" Created="2018-03-11 21:31:20 +0800" Modified="2018-03-11 22:16:27 +0800">
@@ -396,13 +396,13 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="07179FC7-1002-4AFA-BA19-ECA2CF90C769" Type="Text" Created="2018-03-12 11:00:42 +0800" Modified="2018-03-12 14:00:47 +0800">
+                                <BinderItem UUID="07179FC7-1002-4AFA-BA19-ECA2CF90C769" Type="Text" Created="2018-03-12 11:00:42 +0800" Modified="2018-03-12 22:32:16 +0800">
                                     <Title>前端1预习</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>600,0</TextSelection>
+                                        <TextSelection>2032,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -416,15 +416,6 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="637782D9-6A6C-4A6C-9732-BC5F8DE050CC" Type="Text" Created="2018-03-11 10:39:28 +0800" Modified="2018-03-11 22:16:13 +0800">
-                                    <Title>后端24：找工作三节课</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>0,11</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
                                 <BinderItem UUID="359FA29A-16CE-4AFA-96C0-B64006D203F2" Type="Text" Created="2018-03-12 15:02:42 +0800" Modified="2018-03-12 15:03:03 +0800">
                                     <Title>后端1</Title>
                                     <MetaData>
@@ -432,6 +423,15 @@
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>1193,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="637782D9-6A6C-4A6C-9732-BC5F8DE050CC" Type="Text" Created="2018-03-11 10:39:28 +0800" Modified="2018-03-12 22:33:16 +0800">
+                                    <Title>后端24：找工作三节课</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>622,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -4856,11 +4856,11 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2017-12-19 23:01:39 +0800" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="1158" Characters="3008" Date="2018-03-12 16:43:21 +0800"></PreviousSession>
+        <PreviousSession Words="3043" Characters="6323" Date="2018-03-12 19:52:35 +0800"></PreviousSession>
     </ProjectTargets>
     <RecentWritingHistory Date="2018-03-12 00:00:00 +0800">
-        <DraftWordCount>1158</DraftWordCount>
-        <DraftCharCount>3008</DraftCharCount>
+        <DraftWordCount>3043</DraftWordCount>
+        <DraftCharCount>6323</DraftCharCount>
         <OtherWordCount>-436</OtherWordCount>
         <OtherCharCount>-811</OtherCharCount>
     </RecentWritingHistory>

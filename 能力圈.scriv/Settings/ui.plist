@@ -99,38 +99,6 @@
 			<dict>
 				<key>BinderDocUUIDs</key>
 				<array>
-					<string>419D848F-FEFA-49CC-A0C4-54C4A17D2B0C</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>BinderDocUUIDs</key>
-				<array>
-					<string>21053052-E47F-4772-BCB4-17EC6B0C2854</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>2</integer>
-			</dict>
-			<dict>
-				<key>BinderDocUUIDs</key>
-				<array>
-					<string>1E4B13D1-3A07-4450-B52F-68342608A80C</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>BinderDocUUIDs</key>
-				<array>
-					<string>95431B12-9D26-4C0C-A41D-12EED58F3FE1</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>2</integer>
-			</dict>
-			<dict>
-				<key>BinderDocUUIDs</key>
-				<array>
 					<string>3903C12E-8903-4FB6-9556-10262665984F</string>
 				</array>
 				<key>ViewMode</key>
@@ -896,12 +864,44 @@
 				<key>ViewMode</key>
 				<integer>0</integer>
 			</dict>
+			<dict>
+				<key>BinderDocUUIDs</key>
+				<array>
+					<string>419D848F-FEFA-49CC-A0C4-54C4A17D2B0C</string>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocUUIDs</key>
+				<array>
+					<string>E339555E-F65C-4355-828E-000739A9CCED</string>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocUUIDs</key>
+				<array>
+					<string>819FFC77-FC8E-4E90-8A81-C9A14D308895</string>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocUUIDs</key>
+				<array>
+					<string>ABD3BC95-757F-4886-A830-0E2911F283AE</string>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
 		</array>
 	</dict>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{0, 5597.333333333333}, {620, 449.33333333333394}}</string>
+	<string>{{0, 569}, {620, 449.20000000000073}}</string>
 	<key>supportingDocumentEditor.selectedTextRanges</key>
-	<string>6959,0</string>
+	<string>2142,0</string>
 	<key>supportingDocumentEditor.textEditorState</key>
 	<dict>
 		<key>textScaleFactor</key>

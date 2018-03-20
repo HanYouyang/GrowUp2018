@@ -99,30 +99,6 @@
 			<dict>
 				<key>BinderDocUUIDs</key>
 				<array>
-					<string>ABD3BC95-757F-4886-A830-0E2911F283AE</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>BinderDocUUIDs</key>
-				<array>
-					<string>3903C12E-8903-4FB6-9556-10262665984F</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>BinderDocUUIDs</key>
-				<array>
-					<string>1E4B13D1-3A07-4450-B52F-68342608A80C</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>BinderDocUUIDs</key>
-				<array>
 					<string>3F58983A-AF81-4057-B3AF-9E75A2F3A695</string>
 				</array>
 				<key>ViewMode</key>
@@ -896,12 +872,36 @@
 				<key>ViewMode</key>
 				<integer>0</integer>
 			</dict>
+			<dict>
+				<key>BinderDocUUIDs</key>
+				<array>
+					<string>CB6F40E3-3603-45C4-ACA6-A76F64FF55AD</string>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocUUIDs</key>
+				<array>
+					<string>83B00045-128A-4F53-846E-0C12EC4A16EA</string>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocUUIDs</key>
+				<array>
+					<string>ABD3BC95-757F-4886-A830-0E2911F283AE</string>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
 		</array>
 	</dict>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{0, 593.66666666666663}, {394, 376}}</string>
+	<string>{{0, 1271.3333333333333}, {394, 376}}</string>
 	<key>supportingDocumentEditor.selectedTextRanges</key>
-	<string>2091,9</string>
+	<string>2285,0</string>
 	<key>supportingDocumentEditor.textEditorState</key>
 	<dict>
 		<key>textScaleFactor</key>

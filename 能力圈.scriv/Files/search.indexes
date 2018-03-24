@@ -7429,6 +7429,45 @@ Closely monitor the industry sector that your investment occupies for any signs 
 （1）正态分布（ Normal Distribution） - “一个非常常见的连续概率分布...预计为许多独立过程（如测量误差）之和的物理量通常具有近乎正态分布”（相关：中心极限定理 central limit theorem）
 </Text>
         </Document>
+        <Document ID="110DB0F5-E5DA-46F7-9F05-F5C2A0CA3913">
+            <Title>前端6</Title>
+            <Text>第一节
+代码大全，必看，从第10章到第18章之后，想看哪个章节就看哪个章节；
+想学习JS没有推荐的书，只有html和css要看那本HF的书；
+CSS层叠样式表单，页面只有元素，元素只有默认外观，后来大家对外观有要求了，是一个博士的毕业论文，新建一个文件之后建立一个；
+写页面js、操作页面html、美化页面css分别是三个部分；
+样式表单三种用法：
+内联：补充完整html，内联要body内部设置&lt;h1 style = “ : red;”&gt;，这是第一种方式（强烈不建议，因为改起来得一个地方一个地方的改，与消除重复相抵制）；
+选择器：title下面设置选择器之后设定style；
+最后一种是head后面的Link；
+写程序就是要把复杂的内容写出来解决，可以说square_square让一个零基础的人用两小时写不出来的，所以我们解决的方式就是每一个内容都很简短；
+用选择则其匹配元素：
+选择器用来匹配样式，样式优先级要注意：
+!important（在什么后面加一个）、link、style这样依次降低，层叠样式表就是背后样式肯定会叠加，以优先级最高的为准，另外一个标准就是同级的样式后面的会覆盖之前的；
+选择器优先级正好相反，是距离越近的优先级越高；
+审查元素的指针，长按会得到这个属性的名称状态，可以看到各种选择器设置的手不同的覆盖情况；
+
+第二节
+有些内容是不论如何都会自己占一行，有的内容是不论什么都会进可能挤在一起；
+Display属性：block独占一行，inline是尽可能和别人在一行，none是不显示；
+盒模型：head和style从none改成block就会显示，前者是后者的父元素改了之后后者才会显示，从外到内的4️⃣层都要有一个位置；
+html当中各个元素的空白符也都有一个间距，同属一行就会贴在一起；
+Position属性：用于元素定位，static静态默认值，relataive相对定位，absolute绝对定位，fixed固定定位，面试就是相亲你当然会有好与不好的想法，设置坐标可以，还可以设置元素的层次，relative周围可以设置位置，absolute可以设置图层到最上面的但是不一定是一个层面上的，fixed；
+Css通常是在styles里面写的然后粘贴在后面；
+现在很多大学刚毕业的前端这时候一般校招会叫css没有任何问题，调试任何问题也并不是很懂，但是前端市场里面的新鲜血液实际上影响到后面的人也是不会的，现在可以认为实际上公司给的很高但是很多人根本不会css以后当了领导也就是那样不重视，你会了目前内容找工作肯定没问题了，当然你要是相当熟练工只会这点是不行的你要是想知道如何精神进步还需要材料，剩下的材料要私聊去找；
+Css价值很高但是很多人很轻视这个工作认为你的工作价值低；
+学有余力再去找老师要资料看，你总是踩着点完成作业或者就是怎么就提前及时完成肯定是学的还不错的；
+
+第三节
+Overflow属性：四个相关属性；
+Border属性：可以缩写属性而且顺序不要紧（通过看元素的style来确认是否是缩写的情况）；
+居中：block：margin: 0, auto;
+inline: text-align, center（父元素设置好了就没问题）;
+Inline设置宽高是不管用的，现在得设置成为inline-block才行，对外表现为inline是表现为同一行，对内表现为block设置宽高；
+Absolute设置对话框是个重要应用，就是设置一个对话框位置的内容；
+
+</Text>
+        </Document>
         <Document ID="A31525DD-5D72-4777-A441-2D1386B6C386">
             <Text>Accounting is the language in which business results are reported. The ability to understand this language is an integral part of every investor’s toolkit. I recommend that focus investors have at least some training in accounting, whether in a classroom, online or from a high-quality book on the subject (see two suggestions below).
 Having a basic understanding of generally accepted accounting principles (GAAP), the method accountants commonly use to prepare financial statements, is not enough for practitioners of focus investing. GAAP is a flexible system and, as such, allows company managers a certain amount of leeway in how they report their financial results. This flexibility is dangerous, as management can “play” the system to show better-than-actual results.

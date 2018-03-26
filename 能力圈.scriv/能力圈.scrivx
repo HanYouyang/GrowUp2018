@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2018-03-24 23:44:20 +0800" ModID="A36AF13E-A522-47B8-8EB0-47CB9A88B50C">
+<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2018-03-26 10:10:08 +0800" ModID="599013CE-1F66-4B0A-9FBB-5EC36464B72D">
     <Binder>
         <BinderItem UUID="F573BF27-9E87-4C46-95F3-2DC49E23FA72" Type="DraftFolder" Created="2017-12-19 23:01:40 +0800" Modified="2018-03-24 23:43:20 +0800">
             <Title>定投护城河-朝</Title>
@@ -2152,6 +2152,15 @@
                                         <TextSelection>27990,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
+                                <BinderItem UUID="139A076B-5FB3-4D72-9146-D5529F208A95" Type="Text" Created="2018-03-24 21:17:36 +0800" Modified="2018-03-26 10:09:48 +0800">
+                                    <Title>王德峰：哲学与民族文化生命</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>86,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
                                 <BinderItem UUID="DB9BCFC2-A5EF-454F-B198-41FE9823F454" Type="Text" Created="2018-02-25 22:33:37 +0800" Modified="2018-03-24 21:49:42 +0800">
                                     <Title>国学的复兴</Title>
                                     <MetaData>
@@ -2176,15 +2185,7 @@
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>144,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem UUID="139A076B-5FB3-4D72-9146-D5529F208A95" Type="Text" Created="2018-03-24 21:17:36 +0800" Modified="2018-03-24 21:50:23 +0800">
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>1664,0</TextSelection>
+                                        <TextSelection>131,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -5010,13 +5011,13 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2017-12-19 23:01:39 +0800" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="1245" Characters="2426" Date="2018-03-24 23:42:27 +0800"></PreviousSession>
+        <PreviousSession Words="0" Characters="0" Date="2018-03-26 09:39:43 +0800"></PreviousSession>
     </ProjectTargets>
-    <RecentWritingHistory Date="2018-03-24 00:00:00 +0800">
-        <DraftWordCount>1245</DraftWordCount>
-        <DraftCharCount>2426</DraftCharCount>
-        <OtherWordCount>17875</OtherWordCount>
-        <OtherCharCount>30887</OtherCharCount>
+    <RecentWritingHistory Date="2018-03-26 00:00:00 +0800">
+        <DraftWordCount>0</DraftWordCount>
+        <DraftCharCount>0</DraftCharCount>
+        <OtherWordCount>-37</OtherWordCount>
+        <OtherCharCount>-653</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>

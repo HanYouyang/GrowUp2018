@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2018-03-26 16:08:43 +0800" ModID="F040B17F-6438-40F0-A267-94674A7AF119">
+<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2018-03-26 21:58:42 +0800" ModID="70B93759-8F3F-40A1-8F44-E443EB01AF20">
     <Binder>
         <BinderItem UUID="F573BF27-9E87-4C46-95F3-2DC49E23FA72" Type="DraftFolder" Created="2017-12-19 23:01:40 +0800" Modified="2018-03-26 15:38:06 +0800">
             <Title>护城河-修道</Title>
@@ -213,13 +213,13 @@
                                         <TextSelection>4,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="83B00045-128A-4F53-846E-0C12EC4A16EA" Type="Text" Created="2018-03-19 08:47:24 +0800" Modified="2018-03-19 16:19:11 +0800">
-                                    <Title>0319</Title>
+                                <BinderItem UUID="83B00045-128A-4F53-846E-0C12EC4A16EA" Type="Text" Created="2018-03-19 08:47:24 +0800" Modified="2018-03-26 16:32:27 +0800">
+                                    <Title>0327</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>8829,0</TextSelection>
+                                        <TextSelection>15688,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -334,6 +334,15 @@
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>392,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="A196E657-F310-4CE7-B3FC-B8943CD2DE6A" Type="Text" Created="2018-03-26 19:35:20 +0800" Modified="2018-03-26 21:58:42 +0800">
+                                    <Title>前端7</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>16,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="637782D9-6A6C-4A6C-9732-BC5F8DE050CC" Type="Text" Created="2018-03-11 10:39:28 +0800" Modified="2018-03-12 22:33:16 +0800">
@@ -5046,11 +5055,11 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2017-12-19 23:01:39 +0800" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="1512" Characters="2589" Date="2018-03-26 15:34:09 +0800"></PreviousSession>
+        <PreviousSession Words="2174" Characters="3593" Date="2018-03-26 16:21:34 +0800"></PreviousSession>
     </ProjectTargets>
     <RecentWritingHistory Date="2018-03-26 00:00:00 +0800">
-        <DraftWordCount>1512</DraftWordCount>
-        <DraftCharCount>2589</DraftCharCount>
+        <DraftWordCount>2174</DraftWordCount>
+        <DraftCharCount>3593</DraftCharCount>
         <OtherWordCount>-42</OtherWordCount>
         <OtherCharCount>-674</OtherCharCount>
     </RecentWritingHistory>

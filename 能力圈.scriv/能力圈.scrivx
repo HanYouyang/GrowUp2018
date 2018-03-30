@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2018-03-30 13:29:39 +0800" ModID="33AFEEDC-5BAF-428E-843A-A7D0E1F3435C">
+<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2018-03-30 14:37:48 +0800" ModID="F995D93F-65AD-4A41-BA9A-8F7F44E77FC9">
     <Binder>
         <BinderItem UUID="F573BF27-9E87-4C46-95F3-2DC49E23FA72" Type="DraftFolder" Created="2017-12-19 23:01:40 +0800" Modified="2018-03-27 13:42:40 +0800">
             <Title>形而下者-器</Title>
@@ -2125,6 +2125,15 @@
                                 </BinderItem>
                             </Children>
                         </BinderItem>
+                        <BinderItem UUID="094B0C6A-321F-41C1-BB08-6B2611E82534" Type="Folder" Created="2018-03-27 09:56:02 +0800" Modified="2018-03-27 09:56:10 +0800">
+                            <Title>李锡锟</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
                         <BinderItem UUID="594F3ED7-7C0D-48CA-928A-7320B558E3E9" Type="Folder" Created="2018-03-30 12:35:35 +0800" Modified="2018-03-30 12:35:40 +0800">
                             <Title>李敖</Title>
                             <MetaData>
@@ -2134,25 +2143,16 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="6AA75338-BF81-4365-80EE-D5700628847A" Type="Text" Created="2018-03-30 12:35:47 +0800" Modified="2018-03-30 13:18:37 +0800">
+                                <BinderItem UUID="6AA75338-BF81-4365-80EE-D5700628847A" Type="Text" Created="2018-03-30 12:35:47 +0800" Modified="2018-03-30 14:21:26 +0800">
                                     <Title>李敖台大演講 20100525 我的學思歷程</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>463,0</TextSelection>
+                                        <TextSelection>18,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
-                        </BinderItem>
-                        <BinderItem UUID="094B0C6A-321F-41C1-BB08-6B2611E82534" Type="Folder" Created="2018-03-27 09:56:02 +0800" Modified="2018-03-27 09:56:10 +0800">
-                            <Title>李锡锟</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,0</TextSelection>
-                            </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="ED11EC45-C91F-43B0-98BB-1608D02DE1CA" Type="Folder" Created="2018-01-17 15:01:59 +0800" Modified="2018-01-17 15:02:03 +0800">
                             <Title>王德峰</Title>
@@ -2449,6 +2449,25 @@
                             <TextSettings>
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="9E894E79-8996-46C3-BBB9-7BF391E52EC6" Type="Folder" Created="2018-03-30 14:35:25 +0800" Modified="2018-03-30 14:35:27 +0800">
+                            <Title>TED</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="E9F32A7F-93B5-4E63-86B6-5361512F0829" Type="Text" Created="2018-03-30 14:35:37 +0800" Modified="2018-03-30 14:35:37 +0800">
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
                         </BinderItem>
                         <BinderItem UUID="D06656DD-2036-4F6E-8410-BBA29DE2AEC8" Type="Folder" Created="2018-01-17 10:19:39 +0800" Modified="2018-02-19 12:25:04 +0800">
                             <Title>经济</Title>
@@ -5331,13 +5350,13 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2017-12-19 23:01:39 +0800" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="577" Characters="770" Date="2018-03-29 21:05:31 +0800"></PreviousSession>
+        <PreviousSession Words="0" Characters="0" Date="2018-03-30 13:29:58 +0800"></PreviousSession>
     </ProjectTargets>
     <RecentWritingHistory Date="2018-03-30 00:00:00 +0800">
         <DraftWordCount>-471</DraftWordCount>
         <DraftCharCount>-964</DraftCharCount>
-        <OtherWordCount>268</OtherWordCount>
-        <OtherCharCount>463</OtherCharCount>
+        <OtherWordCount>568</OtherWordCount>
+        <OtherCharCount>992</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>

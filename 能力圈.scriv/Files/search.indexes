@@ -3173,6 +3173,47 @@ Robert Cialdini advises as follows:
 
 Don’t fall into this trap! Rushing to buy the hot stock of the moment will almost certainly lead to below-market rates of return over the long haul.</Text>
         </Document>
+        <Document ID="A31B40D7-6FCC-4B5F-8A40-5F2ADC3C82FF">
+            <Title>前端10</Title>
+            <Text>第一节
+第九课的作业讲解；
+你写程序的时候也应该一个一个的分解步骤；
+Gua.js是自己所有写的函数的内容，一定要用自己的名字命名；
+Find查找所有element的子元素；
+组合选择器：即拥有，又拥有，但是要求在同一行里面；
+轮廓outline：元素所占区域不受影响的镶边（border是盒模型一部分是占空间的）；
+自定义属性：data-*=“”后面的内容可以有*来选择标签；
+
+第二节
+轮播图
+一个class里面有两个值的情况还是可以出现的；
+一个函数写出来应该尽可能封装；
+Number()与parseInt()之间的区别是前者转成数字后者转成整数；
+数字再转成函数一定要用真的字符串相加；
+设置宽度大小，按照子元素设置宽度比较好（像素是固定的）；
+上一张的符号设置”&amp;lt;”，使用&lt;&gt;这些特殊符号的时候必须要使用转移符号；
+计算自定义属性的时候得到的内容；
+调整居中：三句话的运动的过程当中还是会有各种问题存在的，要理解大矩形和小矩形的模型，注意当中可能会存在靠下再多加一句就是；
+
+第三节
+CSS的书看了6到8本，自己工作的时候当初天天写html和css，所以很多套路也不常写了；
+定时器
+组件：一个独立的功能可以放在其他地方随便用，当然可以一小块一小块搭（积木就是这样的组件，相当于是封装成一个函数，要复制这些东西全部放到其他地方去）；
+如何做到轮播图和小圆点一起动；
+代码重构：先注释掉一部分内容，而后自己找一些有问题的内容不然就还原，先把程序写出来之后再修改变得更漂亮；
+去除边框outline；
+换成手形状pointer；
+设置时间轮播；
+设置时间播出的函数；
+写出这个函数的过程是非常重要的；
+
+
+
+
+
+
+</Text>
+        </Document>
         <Document ID="EC248EA6-3C34-4427-858E-92C3C1A96FD3">
             <Title>间距效应Spacing Effect</Title>
             <Text>（3）间距效应Spacing Effect - “学习效果更好往往是在，学习时间间隔越长的现象，而不是一次性学习相同的时间。”</Text>
@@ -14760,6 +14801,7 @@ Munger’s exercise made the critical-mass concept relevant here as well. If a l
 With a little help from Charlie Munger, you can see how the many factors that we have discussed in this chapter (and throughout the book) were vital influences that helped make Coke the very successful company—and product—it is today.</Text>
         </Document>
         <Document ID="1F27FFBD-5EF6-43DD-9D86-4F36D3865563">
+            <Title>范式转换</Title>
             <Text>范式转换（Paradigm shift） - “一门科学学科的基本概念和实验实践的根本变化”（相关：科学革命的结构The Structure of Scientific Revolutions - “一种常态科学的概念连续性阶段被科学革命时期的突然发生的模型打断;普朗克的原则Planck’s principle - “科学家改变的观点并不是因为个别科学家改变了主意，而是后代科学家有不同的观点”;间断的均衡punctuated equilibrium）</Text>
         </Document>
         <Document ID="871390A2-E39E-4280-A100-189F9DD87698">

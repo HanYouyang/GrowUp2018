@@ -99,46 +99,6 @@
 			<dict>
 				<key>BinderDocUUIDs</key>
 				<array>
-					<string>92B2FD4F-60E6-420A-AAD0-0F3482B4DAFE</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>BinderDocUUIDs</key>
-				<array>
-					<string>87BC0A4F-8B37-4B6F-8F40-861BE2B686F7</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>BinderDocUUIDs</key>
-				<array>
-					<string>72B6C4CD-99D8-4EB0-8438-6381C02E2379</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>BinderDocUUIDs</key>
-				<array>
-					<string>0C1335EB-57CB-4E5B-A0E4-019D9998DC88</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>BinderDocUUIDs</key>
-				<array>
-					<string>B759E8BD-9F0A-4784-8EF1-76F59E4D1CF5</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>BinderDocUUIDs</key>
-				<array>
 					<string>54E7B5A2-1411-464E-929A-1CEA1C1BAA5A</string>
 				</array>
 				<key>ViewMode</key>
@@ -896,12 +856,52 @@
 				<key>ViewMode</key>
 				<integer>0</integer>
 			</dict>
+			<dict>
+				<key>BinderDocUUIDs</key>
+				<array>
+					<string>57F03967-A970-47A6-BA09-575AFE118FB0</string>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocUUIDs</key>
+				<array>
+					<string>110DB0F5-E5DA-46F7-9F05-F5C2A0CA3913</string>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocUUIDs</key>
+				<array>
+					<string>A196E657-F310-4CE7-B3FC-B8943CD2DE6A</string>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocUUIDs</key>
+				<array>
+					<string>A31B40D7-6FCC-4B5F-8A40-5F2ADC3C82FF</string>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocUUIDs</key>
+				<array>
+					<string>AB525107-A76F-4C1B-88AD-651C7AF16317</string>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
 		</array>
 	</dict>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {620, 449.33333333333331}}</string>
+	<string>{{0, 610.66666666666663}, {620, 449.33333333333337}}</string>
 	<key>supportingDocumentEditor.selectedTextRanges</key>
-	<string>119,0</string>
+	<string>977,0</string>
 	<key>supportingDocumentEditor.textEditorState</key>
 	<dict>
 		<key>textScaleFactor</key>

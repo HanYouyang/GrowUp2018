@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2018-04-04 16:02:02 +0800" ModID="93635BD4-01E4-4076-892A-E31E74DE280A">
+<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2018-04-04 21:38:33 +0800" ModID="80291C75-6529-4499-9B56-89F3BDE84930">
     <Binder>
         <BinderItem UUID="F573BF27-9E87-4C46-95F3-2DC49E23FA72" Type="DraftFolder" Created="2017-12-19 23:01:40 +0800" Modified="2018-03-27 13:42:40 +0800">
             <Title>形而下者-器</Title>
@@ -379,6 +379,15 @@
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>508,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="AB525107-A76F-4C1B-88AD-651C7AF16317" Type="Text" Created="2018-04-04 19:30:58 +0800" Modified="2018-04-04 21:38:33 +0800">
+                                    <Title>前端11</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>977,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="FDBED880-941C-4D75-8264-664A3F252A51" Type="Text" Created="2018-03-28 10:41:03 +0800" Modified="2018-03-28 10:43:04 +0800">
@@ -5501,11 +5510,11 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2017-12-19 23:01:39 +0800" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2018-04-04 13:53:01 +0800"></PreviousSession>
+        <PreviousSession Words="488" Characters="984" Date="2018-04-04 16:22:28 +0800"></PreviousSession>
     </ProjectTargets>
     <RecentWritingHistory Date="2018-04-04 00:00:00 +0800">
-        <DraftWordCount>0</DraftWordCount>
-        <DraftCharCount>0</DraftCharCount>
+        <DraftWordCount>488</DraftWordCount>
+        <DraftCharCount>984</DraftCharCount>
         <OtherWordCount>187</OtherWordCount>
         <OtherCharCount>413</OtherCharCount>
     </RecentWritingHistory>

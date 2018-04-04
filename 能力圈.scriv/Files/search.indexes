@@ -1573,6 +1573,48 @@ Image
 
 The market is a complex, adaptive organism in which many intertwining parts continually change behavior patterns in response to changing environmental stimuli. It’s also continually processing new information and, as such, can never fully be in a state of equilibrium. For focus investors this means that the market as a whole can present investors with valuations that are significantly higher or lower than a company’s real value.</Text>
         </Document>
+        <Document ID="AB525107-A76F-4C1B-88AD-651C7AF16317">
+            <Title>前端11</Title>
+            <Text>周五照常上课
+第一节
+上节课讲了怎么写轮播图组件，之后也是用轮播图的套路；
+桌面程序开发（有人涉及到非常有意思的事例，类似音乐播放器）、小程序、移动页面开发等知识和使用知识的能力；
+HTML5删除和添加什么东西；
+语义化标签：其实内部还是div，自己增加的元素比如gezi，语义化标签会省掉每个div的class标签，还能增加video和audio（以前都用flash，妈妈再也不用担心发烫），写出来播放器；
+本地离线存储：相似的内容可以出来；
+绘图看萧大视频重点1到12，后面还有高性能存储上面用的webGL整合到浏览器上面的；
+每个时代就流行那么几种好的说法，你描述一个人也是美或者漂亮什么的词，反正也就是那么几个词，“简洁、优雅、高内聚、低耦合、复用”，以前吹语义化现在吹组件化；
+API：编程控制写出来页面，播放暂停之类的就是页面，如同微波炉的仪表盘，按钮就是API，非常重要，实现基本功能情况下越好用越好；
+所有视频必须得至少放两种才能所有浏览器都能播放；
+
+第二节
+Audio的基本操作；
+JS的性能和效率特别好；
+闭包：避免使用全局变量写出来一个函数，可以用data-index的变量避免全局变量，写一个循环播放函数的内容；
+难不难要看需求拆分的情况是否合理；
+$0：蓝色点击后的元素，用此代替自己选中的元素；
+Input-checkbox：只要写checked属性一定是true，没有存在的false；
+
+第三节
+图片浏览器BMP：编码进行像素点的画，图片是可以直接设置出来图片；
+我们评价一个事物好坏不是以难度来区分的，比如港珠澳大桥和贵州的大桥难度都是世界级的很明显不是因为难而更好，有难度也是越难更不好；
+移动网页：手机网页和电脑网页的技术是一样的，屏幕差距是不一样的，也没有鼠标相关的事件；
+Viewpoint：是一种方式缩放设置形式；
+调试页：兼容性问题查找用CanIUse查找属性支持情况；
+媒体查询：响应式设计是一套CSS根据当前的分辨率选择不同的样式；
+技术浪潮你每年都会看到新的技术，你真的会慢么？总想着买包也就那样吧；
+混合开发：js调用“别的程序”注册的功能，注册方法叫jsbridge来注册；
+十倍提升要么之前做的太差，要么根本这个功能本身没必要；
+GitHub上传项目一定要放贴图，截图也要截好的；
+浏览器前缀？
+
+
+
+
+
+
+</Text>
+        </Document>
         <Document ID="BAFD280D-6F6B-4DC1-8BFD-723DA33593D7">
             <Text>竞争
 （2）供求关系Supply and Demand - “市场中价格决定的经济模型。它得出的结论是，在竞争激烈的市场中，某一特定货物或其他交易物品（如劳动力或流动性金融资产）的单价会有所不同，直到达到所需数量（以当前价格）等于该数量（按现价），从而实现价格和数量的经济均衡。“（相关：完全竞争perfect competition; 套利arbitrage - ”利用两个或两个以上市场之间价格差异的做法“）
@@ -6514,14 +6556,6 @@ While people do make sensible decisions a majority of the time, they become mark
         <Document ID="605CFEB8-386D-42B7-B523-33AC9496F8F4">
             <Synopsis>威严：对人性合理正反馈的认识产物</Synopsis>
         </Document>
-        <Document ID="A4C26F93-4F99-4C59-B34F-6E02274F3DE8">
-            <Title>禅</Title>
-        </Document>
-        <Document ID="01BF22C6-4464-46D5-88A3-6872613C131A">
-            <Title>差异化生存Survival by differentiation</Title>
-            <Text>20世纪30年代，一位苏联科学家G. F. Gause进行了一项实验，他把两种不同物种的原生动物放在一个有限量食物的玻璃瓶中。 他还把同一物种的两个原生动物放在同一个环境中。 他发现两种不同的原生动物通过分享食物来源存活下来，而相近原生动物则不能合作而无法生存。
-在商业世界中，具有可持续竞争优势的公司不同于自己的竞争对手。 他们可能有更低的成本结构，更好的客户服务，更好的质量或更高效的分销体系。</Text>
-        </Document>
         <Document ID="4D840147-AD96-4416-A02E-F578437C3B64">
             <Title>20180331国际形势的特点与十九大后的中国外交</Title>
             <Text>周边国家跟我们记忆不一样：
@@ -6547,6 +6581,14 @@ While people do make sensible decisions a majority of the time, they become mark
 不能指望现有阶段进行挑战就是不好，早晚要进行挑战，不存在准备好的时机；
 
 </Text>
+        </Document>
+        <Document ID="A4C26F93-4F99-4C59-B34F-6E02274F3DE8">
+            <Title>禅</Title>
+        </Document>
+        <Document ID="01BF22C6-4464-46D5-88A3-6872613C131A">
+            <Title>差异化生存Survival by differentiation</Title>
+            <Text>20世纪30年代，一位苏联科学家G. F. Gause进行了一项实验，他把两种不同物种的原生动物放在一个有限量食物的玻璃瓶中。 他还把同一物种的两个原生动物放在同一个环境中。 他发现两种不同的原生动物通过分享食物来源存活下来，而相近原生动物则不能合作而无法生存。
+在商业世界中，具有可持续竞争优势的公司不同于自己的竞争对手。 他们可能有更低的成本结构，更好的客户服务，更好的质量或更高效的分销体系。</Text>
         </Document>
         <Document ID="239EC0C0-0BB0-4EFE-B1C7-3DA6BF014E0D">
             <Text>军事

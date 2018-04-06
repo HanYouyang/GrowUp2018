@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2018-04-05 20:37:32 +0800" ModID="CBF90323-9C7E-434E-9EA3-7C3AE414C2F9">
+<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2018-04-06 09:26:10 +0800" ModID="F3A24717-5DEE-4E97-8217-C6B9B529236D">
     <Binder>
         <BinderItem UUID="F573BF27-9E87-4C46-95F3-2DC49E23FA72" Type="DraftFolder" Created="2017-12-19 23:01:40 +0800" Modified="2018-03-27 13:42:40 +0800">
             <Title>形而下者-器</Title>
@@ -5533,13 +5533,13 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2017-12-19 23:01:39 +0800" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2018-04-05 20:28:21 +0800"></PreviousSession>
+        <PreviousSession Words="0" Characters="0" Date="2018-04-06 09:25:50 +0800"></PreviousSession>
     </ProjectTargets>
-    <RecentWritingHistory Date="2018-04-05 00:00:00 +0800">
+    <RecentWritingHistory Date="2018-04-06 00:00:00 +0800">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>124</OtherWordCount>
-        <OtherCharCount>212</OtherCharCount>
+        <OtherWordCount>0</OtherWordCount>
+        <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>

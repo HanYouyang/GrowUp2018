@@ -6,8 +6,8 @@
 	<real>1</real>
 	<key>binderSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {175, 760}}</string>
-		<string>{{176, 0}, {1104, 760}}</string>
+		<string>{{0, 0}, {175, 653}}</string>
+		<string>{{176, 0}, {591, 653}}</string>
 	</array>
 	<key>binderWidth</key>
 	<real>175</real>
@@ -45,7 +45,7 @@
 	<integer>2</integer>
 	<key>inspectorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {245, 643}}</string>
+		<string>{{0, 0}, {243, 643}}</string>
 	</array>
 	<key>inspectorWidth</key>
 	<real>227</real>
@@ -96,14 +96,6 @@
 		<integer>99</integer>
 		<key>NavigationHistoryArray</key>
 		<array>
-			<dict>
-				<key>BinderDocUUIDs</key>
-				<array>
-					<string>FF22630A-BB5B-497B-9D66-F6B0CC9E1CA5</string>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
 			<dict>
 				<key>BinderDocUUIDs</key>
 				<array>
@@ -896,12 +888,18 @@
 				<key>ViewMode</key>
 				<integer>0</integer>
 			</dict>
+			<dict>
+				<key>BinderDocUUIDs</key>
+				<array>
+					<string>8D29E8CA-6D0C-475E-8EA1-6B36FFE76B5F</string>
+				</array>
+				<key>ViewMode</key>
+				<integer>2</integer>
+			</dict>
 		</array>
 	</dict>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{0, 22.666666666666668}, {620, 449.33333333333331}}</string>
-	<key>supportingDocumentEditor.selectedTextRanges</key>
-	<string>296,0</string>
+	<string>{{0, 0}, {394, 378}}</string>
 	<key>supportingDocumentEditor.textEditorState</key>
 	<dict>
 		<key>textScaleFactor</key>

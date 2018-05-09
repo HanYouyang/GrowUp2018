@@ -6,8 +6,6 @@
         <SubdocumentCounts>No</SubdocumentCounts>
         <ExpandedItems>
             <ItemID>F573BF27-9E87-4C46-95F3-2DC49E23FA72</ItemID>
-            <ItemID>EF91892D-846E-47A0-9F9E-7BEE489C73F6</ItemID>
-            <ItemID>6FFE0CD9-F914-4B81-AC3C-F4FA9C6FB6E9</ItemID>
             <ItemID>EF775989-B7C5-4F85-B858-5A22AA4A4C3D</ItemID>
             <ItemID>8D29E8CA-6D0C-475E-8EA1-6B36FFE76B5F</ItemID>
             <ItemID>808C1161-E078-45FE-B66C-8AE30D43DE94</ItemID>
@@ -25,7 +23,7 @@
             <ItemID>5ACA8D5F-DBA5-420A-9C46-893AFF9FFAA9</ItemID>
         </ExpandedItems>
         <Selection>
-            <ItemID>9BEBC5CE-462F-494D-956A-47AAD015CF75</ItemID>
+            <ItemID>532DF3ED-6030-4D61-BB9E-E8814F92439B</ItemID>
         </Selection>
     </Binder>
     <Inspector Show="No" View="Notes">
@@ -118,10 +116,10 @@
                 <ShowHeader>Yes</ShowHeader>
                 <ShowFooter>Yes</ShowFooter>
                 <GroupsViewMode>Corkboard</GroupsViewMode>
-                <CurrentViewMode>Corkboard</CurrentViewMode>
+                <CurrentViewMode>Single</CurrentViewMode>
                 <SelectionAffects>None</SelectionAffects>
                 <Content>
-                    <ItemID>9BEBC5CE-462F-494D-956A-47AAD015CF75</ItemID>
+                    <ItemID>532DF3ED-6030-4D61-BB9E-E8814F92439B</ItemID>
                 </Content>
             </View>
             <Text>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <UIStates>
-    <Binder Show="No">
+    <Binder Show="Yes">
         <ShowCollections>No</ShowCollections>
         <SelectedCollection>0</SelectedCollection>
         <SubdocumentCounts>No</SubdocumentCounts>
@@ -34,7 +34,7 @@
             <ItemID>5ACA8D5F-DBA5-420A-9C46-893AFF9FFAA9</ItemID>
         </ExpandedItems>
         <Selection>
-            <ItemID>F41A52F1-5C7B-4AB5-88B0-063EDC754EB5</ItemID>
+            <ItemID>A783BF14-A97E-4673-8F8B-57B398A653CA</ItemID>
         </Selection>
     </Binder>
     <Inspector Show="No" View="Notes">
@@ -130,7 +130,7 @@
                 <CurrentViewMode>Single</CurrentViewMode>
                 <SelectionAffects>None</SelectionAffects>
                 <Content>
-                    <ItemID>F41A52F1-5C7B-4AB5-88B0-063EDC754EB5</ItemID>
+                    <ItemID>A783BF14-A97E-4673-8F8B-57B398A653CA</ItemID>
                 </Content>
             </View>
             <Text>

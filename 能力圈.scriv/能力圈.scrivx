@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2018-05-15 13:42:09 +0800" ModID="599D6679-AE1A-4AE8-983B-C3C624378DEA">
+<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2018-05-22 10:18:34 +0800" ModID="A4A8A296-4243-4124-9DCB-10AA6858EC21">
     <Binder>
         <BinderItem UUID="F573BF27-9E87-4C46-95F3-2DC49E23FA72" Type="DraftFolder" Created="2017-12-19 23:01:40 +0800" Modified="2018-03-27 13:42:40 +0800">
             <Title>形而下者-器</Title>
@@ -85,7 +85,7 @@
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>58,0</TextSelection>
+                                                <TextSelection>189,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                         <BinderItem UUID="06677DB6-F569-49B8-8447-CBA96CEA952A" Type="Text" Created="2018-03-14 19:33:49 +0800" Modified="2018-03-29 13:56:09 +0800">
@@ -2038,7 +2038,7 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="F40E97D6-39E4-4F26-91B3-1C588C59B69B" Type="Text" Created="2018-02-25 16:04:27 +0800" Modified="2018-03-28 11:08:18 +0800">
+                                <BinderItem UUID="F40E97D6-39E4-4F26-91B3-1C588C59B69B" Type="Text" Created="2018-02-25 16:04:27 +0800" Modified="2018-05-17 09:44:10 +0800">
                                     <Title>玄处马哲</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -2373,12 +2373,13 @@
                                         <TextSelection>6138,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="B5444B07-8B6A-4E9F-9101-B09BD142D0C7" Type="Text" Created="2018-05-12 11:06:11 +0800" Modified="2018-05-12 11:13:57 +0800">
+                                <BinderItem UUID="B5444B07-8B6A-4E9F-9101-B09BD142D0C7" Type="Text" Created="2018-05-12 11:06:11 +0800" Modified="2018-05-17 09:41:32 +0800">
+                                    <Title>《金剛經講記》</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>1017,0</TextSelection>
+                                        <TextSelection>25,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -5892,7 +5893,7 @@
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
         <PreviousSession Words="0" Characters="0" Date="2018-05-14 17:06:43 +0800"></PreviousSession>
     </ProjectTargets>
-    <RecentWritingHistory Date="2018-05-15 00:00:00 +0800">
+    <RecentWritingHistory Date="2018-05-22 00:00:00 +0800">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>

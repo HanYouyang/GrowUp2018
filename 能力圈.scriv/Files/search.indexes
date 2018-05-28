@@ -97,11 +97,11 @@ Entry into the market is restricted in some manner.
 怎么样才能找到这些公司的工作？谢谢亲的回复，么么哒！
 </Text>
         </Document>
+        <Document ID="4E8AF09B-7B85-4117-A74E-E4D12D569E0A">
+            <Title>《您厉害您赚得多》</Title>
+        </Document>
         <Document ID="1AFFCF20-1402-4662-999A-39B0747FA754">
             <Title>抓住主要矛盾</Title>
-        </Document>
-        <Document ID="645C2C72-60D3-44A0-B7C3-D5F85DAAD8F1">
-            <Title>心理学</Title>
         </Document>
         <Document ID="F0B8B08E-BC5D-43E7-B183-DFD0F0E0C585">
             <Title>李笑来</Title>
@@ -648,14 +648,14 @@ ps：为了提高学习效率，我曾经创建过一个开源项目，批量下
 受简单联想影响的倾向通常在消除以德报德的自然倾向方面有惊人的效果。有时候，当某个人接受恩惠时，他所处的境况可能很差，比如说穷困潦倒、疾病缠身、饱受欺凌等等。除此之外，受惠者可能会妒忌施惠者优越的处境，从而讨厌施惠者。在这样的情况下，由于施惠的举动让受惠者联想起自身的不幸遭遇，受惠者不但会讨厌那个帮助他的人，还会试图去伤害他。这解释了那个著名反应（有人认为是亨利·福特说的）：“这人为什么如此憎恨我呢？我又没有为他做过什么事情。”我有个朋友，现在姑且叫他“格罗兹”吧，乐善好施的他有过一次啼笑皆非的遭遇。
 最后一类由简单联想引起的严重思维错误出现在人们经常使用的类型化思考中。因为彼得知道乔伊今年90岁，也知道绝大多数90岁的老头脑袋都不太灵光，所以彼得认为老乔伊是个糊涂蛋，即使老乔伊的脑袋依然非常好使。</Text>
         </Document>
+        <Document ID="645C2C72-60D3-44A0-B7C3-D5F85DAAD8F1">
+            <Title>心理学</Title>
+        </Document>
         <Document ID="D531BA61-26D7-4392-BAAA-909FEA1E1D7A">
             <Title>VEGG</Title>
         </Document>
         <Document ID="4AA28694-B16A-48D1-9257-ABF4050915CF">
             <Text>（1）意想不到的后果（Unintended Consequences） - “不是有目的的行动能预见和预期的结果”（相关：附带损害collateral damage - “在意外目标上造成的死亡，受伤或其他损害”，Goodhart法律Goodhart’s law - 当一项措施成为一个目标时，它就不再是一个好的措施“;坎贝尔定律Campbell’s law;史翠珊效应Streisand Effect - ”试图隐藏，删除或审查一条信息的现象，会导致更广泛地公布信息的意外后果 ，通常是由互联网产生的。“眼镜蛇效应”cobra effect - 当试图解决问题实际上使问题变得更糟时“;”踢马蜂窝“Kick a hornet’s nest）。</Text>
-        </Document>
-        <Document ID="4E8AF09B-7B85-4117-A74E-E4D12D569E0A">
-            <Title>《您厉害您赚得多》</Title>
         </Document>
         <Document ID="16E4C7ED-A451-4F34-88DE-96F18C5CCBF3">
             <Title>Critical mass</Title>
@@ -706,16 +706,15 @@ These economies of scale can be observed in full force at Coca-Cola. No company 
         </Document>
         <Document ID="E339555E-F65C-4355-828E-000739A9CCED">
             <Title>4测试</Title>
-            <Text>
-程序报错的位置并不是确定在那一行的，可能在前在后在本行，应该进行自动化的测试运行这个程序，以测试的方式写代码就是要求N多种情况测试全部通过才是测试真的通过，写一个函数来确保这种情况：定义一个ensure函数，其中有参数condition是布尔值，message是字符串当condition不成立时候输出；
+            <Text>程序报错的位置并不是确定在那一行的，可能在前在后在本行，应该进行自动化的测试运行这个程序，以测试的方式写代码就是要求N多种情况测试全部通过才是测试真的通过，写一个函数来确保这种情况：定义一个ensure函数，其中有参数condition是布尔值，message是字符串当condition不成立时候输出；
 自动化测试：新建一个html并且整理出来一个script的src属性从而自动执行一个代码，这样可以获得一个点开页面就能说明的内容，只要刷新浏览器就可以获得测试结果，自动出来的type属性直接删除就可以了；
-
-第三节
-递归就是一个函数调用自身或者多个函数相互调用；
-写一个加强版的ensure函数是要用a,b,message三个参数，测试失败之后可以知道自己到底是不是成功（这段没听到）；
-注意这时候可以联合模板字符串，得到结果，注意要加上一堆括号，因为内容总可以是空字符串，相当于穿衣服就是一个很重要的概念；
+写一个加强版的ensure函数是要用a,b,message三个参数，测试失败之后可以知道自己到底是不是成功；
+注意这时候可以联合模板字符串，得到结果，注意要加上一堆括号，因为内容总可以是空字符串，相当于”穿衣服”就是一个很重要的概念；
 没有label你怎么能够搜索呢？你搜索了不就看出来label的作用了；
-</Text>
+
+
+
+总的写成一个代码的集合并且每次直接复制粘贴</Text>
         </Document>
         <Document ID="19601267-27E0-4823-8F47-17F00176A536">
             <Title>逆向思考-思考几大方向</Title>
@@ -3318,15 +3317,16 @@ Struct有函数就是类，没有函数就是结构，但是类内不加访问�
         </Document>
         <Document ID="FBC19F22-11FC-48D8-96D4-7DD569FA1799">
             <Title>工作认识</Title>
-            <Text>这些技能就跟一百年前的打字一样没有什么高级的，这个东西你掌握了之后还是要有真的本事才行
+            <Text>这些技能就跟一百年前的打字一样没有什么高级的，这个东西你掌握了之后还是要有真的本事才行。
 效果是非常重要的，代码是没有人关心的，要掌握CSS非常熟练，能够解决90%以上的问题才行，技术并不先进而是不断演化出来的，混乱不可避免，怎么解决很重要。
 
-不懂的名词有什么意思么？相当于你买了一个包，和你的目标至少现在并不重合。
 普通人的四种情况：
 有目的又努力——买包（努力方向错了就不行了）
 无目的但努力——出斧
 有目的不努力——减肥药
 无目的不努力——没救
+不懂的名词有什么意思么？相当于你买了一个包，和你的目标至少现在并不重合。
+
 
 学习方法：
 你粘贴过来的说法就自己这么过来的，你完成这个问题的任务的重点，你要学习的是思路，马戏团的猴子训练也能做到敲出来但是不能写程序；
@@ -3528,16 +3528,11 @@ lollapalooza倾向——数种心理倾向共同作用造成极端后果的倾�
             <Synopsis>以结果为导向：时间分配和注意力分配的策略是积累竞争力而不是积累“能力”</Synopsis>
         </Document>
         <Document ID="FDBED880-941C-4D75-8264-664A3F252A51">
-            <Title>提问模板</Title>
-            <Text>模板
-
-题目提问是这样的：
-需求：完成作业4
-想法：计算出每个左上角的坐标后画5个正方形
-问题：不知道如何计算这5个正方形的左上角的坐标（贴代码是可以的，但是可能大家都不知道你出了什么问题）
-最后的回复应该说明你自己应该看自己怎么更新这些内容；
-
-</Text>
+            <Title>提问四步法</Title>
+            <Text>需求：
+想法：
+做法：
+问题：</Text>
         </Document>
         <Document ID="A9FDDB38-7E86-44D3-A574-C64230543274">
             <Synopsis>工作：自己全部时间和注意力产出的时间，与之对应是童年会让人没有能够把握自己注意力机会的时间</Synopsis>
@@ -7018,104 +7013,152 @@ This subject of accounting is far too broad in scope to cover adequately in this
 寡头垄断由同一市场上的几家公司组成，这些公司在价格之外竞争。 所有市场参与者大幅度降价的价格战往往会导致所有企业的利润下降，使得每家企业的市场份额基本保持不变。 相反，寡头企业倾向于通过广告来竞争产品或服务质量。 形成寡头垄断的企业通常是安全的，因为新进入市场的门槛很高。</Text>
         </Document>
         <Document ID="1166CB0D-13C6-4F39-88BE-7E77FFB3DEA5">
-            <Title>简历</Title>
-            <Text>个人基本信息（姓名 邮箱 手机）
-韩悠阳 hanyy@shanghaitech.edu.cn 18792805328
+            <Title>LaTex-XeTex简历</Title>
+            <Text>% !TEX TS-program = xelatex
+% !TEX encoding = UTF-8 Unicode
+% !Mode:: "TeX:UTF-8"
 
-技能
-1 HTML/CSS
-熟练编写语义化HTML，熟悉HTML5/CSS3新特性
-熟练开发符合W3C标准的页面
-2 ECMAScript(JavaScript)
-熟练使用ECMAScript(JavaScript)，了解ES6新特性
-熟练掌握确定程序bug位置和调试方法
-有良好的代码封装、缩进习惯，注释规范
-3 DOM/BOM及常见的Web API
-熟悉DOM/BOM使用，能够开发Web端和移动端
-熟练使用JavaScript对DOM进行事件绑定、委托等功能
-4 Ajax / HTTP / React / jQuery / Lodash/ echarts
-熟练使用Ajax动态获取服务器数据，熟悉HTTP协议、React组件式开发的功能
-熟练使用jQuery进行页面元素操作和更改，熟悉Lodash使用并能实现部分功能
-5 数据结构/算法
-熟悉常见的数据结构（栈、队列、链表、哈希表）性质并能够手动实现
-对常见复杂度有自己的了解
+\documentclass{resume}
+\usepackage{zh_CN-Adobefonts_external} % Simplified Chinese Support using external fonts (./fonts/zh_CN-Adobe/)
+% \usepackage{NotoSansSC_external}
+% \usepackage{NotoSerifCJKsc_external}
+% \usepackage{zh_CN-Adobefonts_internal} % Simplified Chinese Support using system fonts
+\usepackage{linespacing_fix} % disable extra space before next section
+\usepackage{cite}
 
-项目
-1 轮播图
-使用原生JS实现轮播图，代码可维护性强
-实现轮播图自动播放、手动左右控制、导航圆点与图联动等功能
-2 音乐播放器
-使用原生JS实现，代码可维护性强
-实现播放器暂停、播放（循环和随机）、时间显示和音量控制公鸟鞥
-使用Ajax实现开源获取歌词功能，并能使用CSS样式实现滚动效果
-3 Todo列表
-使用原生JS实现LocalStorage版本，使用Node.js实现实现Ajax后端存储版本
-实现添加、删除、编辑（点击和光标两种方式）功能并使用CSS样式
-4 天气预报程序
-使用Node.js、echarts和爬虫技术综合实现
-使用Ajax获取服务器数据，对数据进行序列化后清洗整理并显示
-调用echarts提供函数直接在API当中显示出来
-5 知否问答网站
-使用Node.js、Ajax使用编辑内容
+\begin{document}
+\pagenumbering{gobble} % suppress displaying page number
 
-工作经验（实习经历）
-无
-教育经历
-2015.09-2018.10中国科学院大学（导师韩斌院士） 理学硕士
-2011.08-2015.06 西北农林科技大学（985+211+双一流）农学学士
-两页文字+图片
+\name{韩悠阳}
 
-需要注意的问题：
-1. html css 这些名词都是专有的缩写名词，按照英文的习惯，会使用全大写，比如 HTML CSS，JS 也是这样。另外不应该单独讲 CSS3 新特性而不提 CSS
-2. ajax 有两种缩写，AJAX 和 Ajax 都可以，但是不能用 ajax
-3. react jquery lodash 这三个应该加一些描述，可以参考上课给出的范例
-1. 匿名函数不是 ES6 的新特性
-2. 并能使用原生 JS -&gt; 熟练掌握 JavaScript 并能实现常见标准库函数
-3. 对字符串和数组进行处理 -&gt; 要加上 对象
-4. 5 种常见的复杂度 这个是我们的说法，换成「常用的时间复杂度」，并且数据结构能实现的话也要讲出来
-另外，简历建议带上，不管对方是否帮你打印
-我自己的习惯是面试就会带上 2 份简历，如果对方是一个面试官，那就他一份，我一份。如果对方是两个面试官，那就都给他们
-5. 「掌握 HTTP 协议，了解网址的组成和试试的标准数据传输格式 JSON」
-了解这个词不好，而且这里直接讲掌握 HTTP 协议和 JSON 格式就行，如果要加的的话，补上常见的 HTTP header 字段
-6. 「对前端的请求进行对应的回应」
-熟悉 Node.js，配合 Express 框架，处理前端请求并返回响应
-7. 「熟悉 ECMAScript 的框架」
-不应该刻意强调 ECMAScript 框架，直接说熟悉 React 框架就可以
-8. 「熟悉使用第三方库:cherrio」
-cheerio，不是 cherrio，拼错绝对是减分项
-项目的话，文字可以适当精简一点点，现在描述太过细节，应该概括为主，加上技术名词就可以
-1.  css -&gt; CSS	
+\basicInfo{
+申请前端实习  
+  \email{hanyy@shanghaitech.edu.cn} \textperiodcentered\ 
+  \phone{(+86) 187-9280-5328} \textperiodcentered\ 
+  \linkedin[Youyang Han ]{https://www.linkedin.com/in/youyang-han-4890a27a/}}
+ 
+\section{\faGraduationCap\  教育背景}
+\datedsubsection{\textbf{中国科学院(导师韩斌院士)}, 漕河泾, 上海}{2015 -- 至今}
+\textit{理学硕士}\ 基因组学, 预计 2019 年 2 月毕业
+\datedsubsection{\textbf{西北农林科技大学(985+211+双一流)}, 杨凌, 陕西}{2011 -- 2015}
+\textit{农学学士}\ 农学
 
-2. csrf -&gt; CSRF， xss -&gt; XSS
-「了解网络攻击的基本手段 (csrf 和 xss) 和基本的应对思路 (token &amp; autoescape)」
-去掉基本，把手段换成原理，应对思路换成解决方案
+\section{\faCogs\ 前端技能}
+%\datedsubsection{\textbf{前端} } {2018 -- 至今}
+%\role{实习}{经理: 高富帅}
+1. HTML/CSS
+\begin{itemize}
+  \item 熟练编写语义化HTML，熟悉HTML5/CSS3新特性
+  \item 熟练开发符合W3C标准的页面
+\end{itemize}
 
-3. 了解的地方至少要换成 掌握或者熟悉
+2. ECMAScript(JavaScript)
+\begin{itemize}
+  \item 熟练使用ECMAScript(JavaScript)，了解ES6新特性
+  \item 熟练掌握确定程序bug位置和调试方法
+  \item 有良好的代码封装、缩进习惯，注释规范
+\end{itemize}
 
-4. 单页应用加上 SPA 这个名词，比如单页应用（SPA）
+3. DOM/BOM及常见的Web API
+\begin{itemize}
+  \item 熟悉DOM/BOM使用，能够开发Web端和移动端
+  \item 熟练使用JavaScript对DOM进行事件绑定、委托等功能
+\end{itemize}
 
-5. 用户编辑页面的图片上传实现点击图片上传并且返回上传后的图片
-这一句比较罗嗦，换成
-实现图片上传并且预览的功能
+4. Ajax / HTTP / React / jQuery / Lodash/ ECharts
+\begin{itemize}
+  \item 熟练使用Ajax动态获取服务器数据，熟悉HTTP协议、React组件式开发的功能
+  \item 熟练使用jQuery进行页面元素操作和更改，熟悉Lodash使用并能实现部分功能
+\end{itemize}
 
-6. 通过 ssh 从 git 仓库远程获取代码,
-这样讲太 low，换成「并且通过脚本实现自动化开发部署」
-
-7. 采用 Mongoose 来保存数据
-这里要强调自己使用了 Class 形式的 Mongoose，比如通过使用 Class 封装官方 Mongoose，使用更方便，开发效率更高
-
-8. 并且通过继承父类的方式实现场景自动更新
-并且实现了组件树的继承模型，xxx
-
-9. 初步基本实现了一个小游戏运行机制
-实现了一个小游戏运行机制，不要加 初步、基本、简单这样的词汇
-
-10. 此外还利用 DOM 操作实现 debug 模式 ( 暂停和拖拽 ) 和关卡编辑器
-
-此外还实现了方便的动态 debug 模式 xxx
+5. 数据结构/算法
+\begin{itemize}
+  \item 熟悉常见的数据结构（栈、队列、链表）性质并能够手动实现
+  \item 用原生JavaScript实现哈希表
+\end{itemize}
 
 
-@eddy
+% Reference Test
+%\datedsubsection{\textbf{Paper Title\cite{zaharia2012resilient}}}{May. 2015}
+%An xxx optimized for xxx\cite{verma2015large}
+%\begin{itemize}
+%  \item main contribution
+%\end{itemize}
+
+\section{\faUsers\ 前端项目}
+1. 轮播图
+\begin{itemize}
+  \item 使用原生JavaScript实现轮播图，代码可维护性强
+  \item 实现轮播图自动播放、手动左右控制、导航圆点与图联动、点击圆点切换图片等功能
+\end{itemize}
+2. 音乐播放器
+\begin{itemize}
+  \item 使用原生JavaScript实现，代码可维护性强
+  \item 实现播放器暂停、播放、时间显示、播放列表显示、单曲循环和列表循环、随机播放等功能
+  \item 使用Ajax实现开源获取歌词功能，并能使用CSS样式实现滚动效果
+\end{itemize}
+3. Todo列表
+\begin{itemize}
+  \item 使用原生JavaScript实现LocalStorage版本，使用Node.js实现实现Ajax后端存储版本
+  \item 实现创建、更新、删除、编辑（点击和光标两种方式）功能并使用CSS样式
+\end{itemize}
+4. 爬虫程序
+\begin{itemize}
+  \item 使用原生JavaScript爬取豆瓣TOP100和时光网TOP250电影
+  \item 用原生JavaScript实现哈希表
+\end{itemize}
+5. 天气预报程序
+\begin{itemize}
+  \item 使用Node.js、ECharts和爬虫技术综合实现
+  \item 使用Ajax获取服务器数据，对数据进行序列化后清洗整理并显示
+   \item 调用ECharts提供函数直接在API当中显示出来
+\end{itemize}
+
+\section{\faInfo\ 获奖情况}
+%\datedsubsection{\textbf{荣誉} } {2012 -- 至今}
+1. 荣誉
+%\datedline{\textit{校级三好学生} ，连续三年}{2012 -- 2015}
+%\datedline{\textit{专业一等奖学金} ，连续三年}{2012 -- 2015}
+%\datedline{\textit{拜耳（中国）作物一等奖学金}}{2012}
+%\datedline{\textit{登海种业一等奖学金} }{2013}
+%\datedline{\textit{优秀毕业论文}}{2015}
+\begin{itemize}[parsep=0.5ex]
+  \item  校级三好学生，连续三年，2012 -- 2014
+  \item 专业一等奖学金，连续三年，2012 -- 2014
+  \item 拜耳（中国）作物一等奖学金，2012
+  \item 登海种业一等奖学金，2013
+  \item 优秀毕业论文，2015
+\end{itemize}
+%\datedsubsection{\textbf{社会实践} } {2012 -- 至今}
+2. 社会实践
+%\datedline{\textit{校级二等奖}， “三下乡”社会实践调查报告}{2012}
+%\datedline{\textit{UBC暑期访学} ，通过两门课程考核，温哥华，加拿大}{2013}
+%\datedline{\textit{调研二等奖+先进个人} ，三原县安乐镇发展规划}{2014}
+%\datedline{\textit{学术交流海报} ，上海、武汉国际农业基因组学大会}{2016 -- 2017}
+
+\begin{itemize}[parsep=0.5ex]
+  \item  校级二等奖，“三下乡”社会实践调查报告，2012
+  \item UBC暑期访学，通过两门课程考核，温哥华，加拿大，2013
+  \item 调研二等奖+先进个人，三原县安乐镇发展规划，2014
+  \item 学术交流海报，上海、武汉国际农业基因组学大会，2015
+\end{itemize}
+
+\section{\faHeartO\ 其他技能}
+\begin{itemize}[parsep=0.5ex]
+  \item 英语四六级均一次通过，雅思6.5，听说能力良好
+  \item 熟悉R、Python进行科学计算，获得Udacity机器学习纳米学位证书
+  \item 熟练使用Markdown、LaTex制作简历、编写文档和论文
+  \item 熟练使用小鹤双拼
+  \item GitHub  https://github.com/HanYouyang
+  \item 成长性心智，喜欢学习新潮高效工具
+  \item 体格强健，已坚持两年半每月长跑100公里以上
+\end{itemize}
+
+%% Reference
+%\newpage
+%\bibliographystyle{IEEETran}
+%\bibliography{mycite}
+\end{document}
 </Text>
         </Document>
         <Document ID="5610A1C0-F147-44C0-A209-C134D0DBF104">
@@ -7519,9 +7562,6 @@ https://www.zhihu.com/question/43602052/answer/96481787
 对比错误反应倾向常常被用于从购买商品和服务的顾客身上赚取更多的钱。为了让正常的价格显得很低，商家通常会瞎编一个比正常价格高很多的虚假价格，然后在广告中把他的标准价格显示为其伪造价格的折扣价。人们即使对这种操纵消费者的伎俩心知肚明，也往往忍不住会上当。这种现象部分地解释了报纸上有那么多广告的原因。它还证明了这个道理：了解心理操纵伎俩并非就是一种完美的防御措施。
 当一个人逐步逐步走向灭亡时，如果他每一步都很小，大脑的对比错误反应倾向通常会任由这个人走向万劫不复的境地。这种情况会发生，是因为每一步和他当前位置的对比太小了。</Text>
         </Document>
-        <Document ID="77357161-3FBF-4281-92C8-79D0EFBC6466">
-            <Text>（1）科学方法（Scientific Method） - “系统观察，测量和实验，以及形成，测试和修改假设”（相关：重复性reproducibility）</Text>
-        </Document>
         <Document ID="94AE91A7-1FB3-47D5-BB2D-ADE94A4C1E97">
             <Title>1</Title>
             <Text>《魔鬼经济学》中确立了一个有悖于传统智慧的观点：如果说伦理道德代表了我们心目中理想的社会运行模式的话，那么经济学就是在向我们描述这个社会到底是如何运行的。
@@ -7670,6 +7710,9 @@ https://www.zhihu.com/question/43602052/answer/96481787
 我们找到了一个明显的模式：一旦某个名字被那些收入和教育水平都比较高的家庭使用，它就会很快沿着社会经济阶梯往下流传。
 
 </Text>
+        </Document>
+        <Document ID="77357161-3FBF-4281-92C8-79D0EFBC6466">
+            <Text>（1）科学方法（Scientific Method） - “系统观察，测量和实验，以及形成，测试和修改假设”（相关：重复性reproducibility）</Text>
         </Document>
         <Document ID="686281E0-ED47-4FB2-A6D6-B082ABDDC3E4">
             <Title>正反馈思维模型</Title>
@@ -8436,15 +8479,18 @@ Break就是直接退出循环；
 </Text>
         </Document>
         <Document ID="57F03967-A970-47A6-BA09-575AFE118FB0">
-            <Title>fe5-选择器+事件</Title>
+            <Title>5选择器+事件</Title>
             <Text>第一节
 
 DOM文档对象模型是浏览器对html描述的方式，这样就是一个提供元素的方式；
-API接口可以提供各种方式方法来操作html，总的来说就是“增删查改”，调用哪个元素；
-
+DOM API接口可以提供各种方式方法来操作html，总的来说就是“增删查改”，调用哪个元素；
 选择器目前我们就用三种；
-class可以重复，但是id必须是独一无二的；
-操作元素的默认属性：先拿到元素，用.value获取一个值，首先创建一个按钮之后就可以创建出来然后设置buttion.value，设置子元素和父元素获得；
+
+查：document.querySelector() 函数，三种格式
+获值/设置值：用.value获取一个值，用.innerHTML设置呈现的值
+改：.appendChild 给一个元素添加子元素
+删：.remove
+增子：直接写HTML来增加内容，.insertAdjancentHTML(‘beforeend’, ‘ &lt;button&gt;’)
 
 第二节
 事件是处理响应的机制；
@@ -8530,9 +8576,6 @@ class可以重复，但是id必须是独一无二的；
         </Document>
         <Document ID="96B94C3A-DEC8-48A3-817E-F86514F254B5">
             <Title>历史学</Title>
-        </Document>
-        <Document ID="808C1161-E078-45FE-B66C-8AE30D43DE94">
-            <Title>政经</Title>
         </Document>
         <Document ID="2C895337-6E1C-412D-8A18-51DE64405412">
             <Title>弹性Elasticity</Title>
@@ -8637,21 +8680,6 @@ The concept of price elasticity of demand measures the responsiveness of changes
         <Document ID="A2370251-8E68-40F2-8749-64E00776ABF2">
             <Title>定投</Title>
         </Document>
-        <Document ID="D392D707-EAF7-4477-BB67-4F9A1D867061">
-            <Title>黄章晋</Title>
-        </Document>
-        <Document ID="49B5EF86-966B-4A2D-99A9-5296647EB2E4">
-            <Title>肩+肱二头肌</Title>
-            <Text>肩：
-后束和中束就是靠吊钩；
-前束就是坐举哑铃；
-中束可以使用一定重量的单手哑铃上拉，注意角度和幅度
-后束可以考虑用背后拉伸平杠铃的方式
-
-肩后面是肱二头肌：
-肱二头肌的专门训练，在不借力的情况下，背和胳膊贴着墙壁，然后自己可以在一定范围内训练自己的臂力，而非仅仅是让自己简单实践；
-</Text>
-        </Document>
         <Document ID="DC21D5BE-1E30-4091-8899-AD90C3DE0F33">
             <Title>你可能投了假资：股息分红与三个小矮人</Title>
             <Text>行文至此先下一个结论：股息一定要拿来重新投回你的股票，哪怕你是一个所谓的income investor，把股票当债券来投资（债券的YTM最后能拿到还要靠利息再投资呢，更何况股票乎？）。
@@ -8666,6 +8694,21 @@ The concept of price elasticity of demand measures the responsiveness of changes
 
 
 </Text>
+        </Document>
+        <Document ID="49B5EF86-966B-4A2D-99A9-5296647EB2E4">
+            <Title>肩+肱二头肌</Title>
+            <Text>肩：
+后束和中束就是靠吊钩；
+前束就是坐举哑铃；
+中束可以使用一定重量的单手哑铃上拉，注意角度和幅度
+后束可以考虑用背后拉伸平杠铃的方式
+
+肩后面是肱二头肌：
+肱二头肌的专门训练，在不借力的情况下，背和胳膊贴着墙壁，然后自己可以在一定范围内训练自己的臂力，而非仅仅是让自己简单实践；
+</Text>
+        </Document>
+        <Document ID="D392D707-EAF7-4477-BB67-4F9A1D867061">
+            <Title>黄章晋</Title>
         </Document>
         <Document ID="1F35E4C3-65CD-4C58-8145-233A4644EE0E">
             <Text>二十四
@@ -10879,11 +10922,9 @@ As you approach investing, you need to bring your understanding, not only of mat
 
 很早就开始赚钱，但是**为了复利**实际上很快就把挣到的钱换成别的东西。
 
-
 **两条规则**
 规则一：不要赔钱
 规则二：不要忘记规则一
-
 
 兴趣的链条如果不被打断你根本无法感受。去了卡耐基课程尝试锻炼自己的当众谈话能力，这里取得的证书比我的学位证书更让我珍视。
 
@@ -10893,22 +10934,14 @@ As you approach investing, you need to bring your understanding, not only of mat
 
 **专注**
 专注是我人格中最强大的一部分。如果我对什么事情感兴趣，我就会真的感兴趣，就会不停地想谈论这些事情。
-那些琐碎无聊的事情根本不想谈论，也不会掌握那些技能。
 关注商业宇宙。**因为关于人没有什么好答案，但是关于钱总是有。**
-
-妻子一开始想嫁给医生或者牧师（给人类带来肉体或者精神上好的转变的人），但是后来嫁给巴菲特事实上巴菲特也在用他的方式改变这个世界和这个世界相当多的人。
-
-**这个世界丰富多彩，但是你不可能每天梦游去生活，你需要有一个每天非常喜欢的工作。**
 
 如何成为巴菲特？
 如果你我想成为巴菲特这样的传奇人物，需要做到哪些事情呢？
 首先，基于上文说的，你不仅要抽中卵巢彩票，生在一个好的家庭，还得出生在一个好的年代。巴菲特出生在美国二战后时期，恰逢美国成为全球霸主，进入一个快速发展的上升通道。个人命运是国运的一个缩影，社会经济形势蒸蒸日上，企业盈利源源不断，这是取得成功投资不可或缺的一个大背景条件。当然，在这一点上，你我的运气都不错，出生在仍然处于快速发展趋势的中国。别说自己的国家不好，要知道，“没有一个人能靠做空自己的国家发财”。
 其次，你得精通滚雪球理念－－“人生如滚雪球，重要的是找到很湿的雪和很长的山坡”。还得明白企业的护城河－－强大的竞争力，稳定的现金流、膨胀的市场份额等等。但相比后面几点，这些并不算难。
-
 你要为人谦和，十分重视自己的名誉，总是善待任何人。你收购了许多公司，但那些公司的创始人或管理人并不因此耿耿于怀，相反，他们都愿意成为你的合作伙伴，在你的指导和建议下，他们感觉商业世界从未有过的开阔。他们更加信任你，愿意为了你们共同的美好未来努力。
-
 跳着踢踏舞去上班，工作就是你最大的爱好。除了吃饭睡觉和一点点娱乐，你几乎把所有时间精力都投入在吸取信息和利用信息的过程中。拿起报纸书籍一看就是几个小时，孜孜不倦地徜徉在信息的海洋，从这世间纷繁复杂的资讯中抽丝剥茧般提取出最重要的那几缕信息，再做出胜率最高的投资决策。运筹帷幄之中，决胜千里之外。
-
 这个世界上大概只有少数几个人能够和你在一个思想频道沟通，你足够幸运，早早遇到了一个叫查理芒格，或是查芒里格的挚友。通过和他交流，你进化了投资理念，不再只会抽别人丢在地上的”烟蒂“，你开始愿意为好的烟付出好的价格。这一点转变，帮助你成功投资了诸如可口可乐、吉列这类的知名大牛股，在财富上实现新的飞跃。
 这些还不是最难的。
 难的是，你要能抓住事物的本质。你不仅是个好的投资家，还要是个好的企业家。你知道一个成功的企业需要具备高于行业平均的净资产收益率、较小的资金投入、释放现金的能力、紧凑的公司结构、持续的销售增长能力、好的经营管理和研发能力、合适的前景和优越的行业条件等等因素。你对如何辨别这些因素有着极其深刻的认识和理解。
@@ -11827,6 +11860,16 @@ A股是世界上体量最大的股票市场之一。但当前在世界主要机�
 
 </Text>
         </Document>
+        <Document ID="600FC426-2FCB-48E5-BEBF-72A4D8C0BF20">
+            <Title>打破大类资产边界</Title>
+            <Text>“牛市是用来兑现利润的。”
+
+其实所有具备成熟投资思维的市场参与者都会得到类似的结论，我的资产配置思维脱胎于投资思维，所以整个2015年我也是一直在逐步“兑现利润”，而非追涨上杠杆
+
+因为天平的一端，由于股票价格的快速上涨，自身产出率的下降，股票的长期配置价值相对于其他资产，是变得比以前更低而不是更高。
+
+这其实也解释了我很喜欢的一句话：“牛市不买，熊市不卖。”</Text>
+        </Document>
         <Document ID="98E9B04A-E8A6-44F2-A1D5-12B25E69EFC1">
             <Title>人类误判心理学</Title>
             <Text>人类误判心理学
@@ -12189,24 +12232,14 @@ lollapalooza倾向——数种心理倾向共同作用造成极端后果的倾�
 
 我最后的问题是：这篇演讲稿存在事实上和思考上的错误吗？答案是肯定的，几乎是肯定的。这篇稿件是一个81岁的老人凭记忆花了大概50个小时改定的，而且这个老人从来没有上过一节心理学课，在过去将近15年的时间里，除了一本发展心理学的著作，没有看过任何心理学的书。即使如此，我认为我这篇演讲稿整体上是非常站得住脚的；我希望我的后代和朋友将会认真地考虑我所说的话。我甚至希望会有更多的心理学教授和我一起致力于（1）大量地采用逆向思维；（2）详尽地描绘心理学系统，让它能够像检查清单那样发挥更好的作用；（3）特别强调多种心理倾向共同发挥作用时产生的效应。</Text>
         </Document>
-        <Document ID="D4ADCB0D-B816-437E-9C60-E3DECDA44F12">
-            <Title>记录</Title>
-        </Document>
         <Document ID="86AE7542-00BF-4132-B65F-6D962A6F03AC">
             <Title>决策</Title>
         </Document>
+        <Document ID="D4ADCB0D-B816-437E-9C60-E3DECDA44F12">
+            <Title>记录</Title>
+        </Document>
         <Document ID="D9395843-DA48-47B5-8472-6474B3B0E53C">
             <Text>（1）第一原则 （Arguing from First Principles）- “第一个原则是一个基本的，基础的，不言自明的命题或假设，不能从任何其他命题或假设推论出来”（相关：降维;正交性;“合理的头脑可以不同意“如果基础允许，则是。”</Text>
-        </Document>
-        <Document ID="600FC426-2FCB-48E5-BEBF-72A4D8C0BF20">
-            <Title>打破大类资产边界</Title>
-            <Text>“牛市是用来兑现利润的。”
-
-其实所有具备成熟投资思维的市场参与者都会得到类似的结论，我的资产配置思维脱胎于投资思维，所以整个2015年我也是一直在逐步“兑现利润”，而非追涨上杠杆
-
-因为天平的一端，由于股票价格的快速上涨，自身产出率的下降，股票的长期配置价值相对于其他资产，是变得比以前更低而不是更高。
-
-这其实也解释了我很喜欢的一句话：“牛市不买，熊市不卖。”</Text>
         </Document>
         <Document ID="FAECC5DC-7911-4E11-8B95-6E8058CF05C2">
             <Title>马克思哲学解读当代人类经济生活中的资本逻辑</Title>
@@ -12268,9 +12301,6 @@ Scarcity
         <Document ID="EFF5E41C-5290-4758-84AE-256D851EDE1D">
             <Title>大熊</Title>
         </Document>
-        <Document ID="87A6B15D-0362-491B-91E1-0C905A0115B6">
-            <Title>《您厉害您赚得多》</Title>
-        </Document>
         <Document ID="818944EB-58DA-44CB-A2C1-83CDD92BA352">
             <Title>教育</Title>
         </Document>
@@ -12286,9 +12316,6 @@ How it relates to investing
 Network effects can create a sustainable competitive advantage for a company—one of the elements we look for in high-quality businesses. For example, one of the reasons Microsoft supported such lofty valuations from its IPO until the bursting of the Internet bubble was that its operating system enjoyed such a massive network effect. Customers had accepted its Windows operating system as the default platform and, up till then, no other company had been able to compete with Microsoft in that space.
 What to do
 Always be on the lookout for companies that are moving toward the formation of a network effect. If they can be found and purchased at bargain prices, investors have real opportunities to earn significant long-term rates of return.</Text>
-        </Document>
-        <Document ID="62775713-5A98-4B32-86C8-AC4A0F228905">
-            <Title>记录</Title>
         </Document>
         <Document ID="BBA2412A-3E72-41DB-BF2F-B71FA7DD56EA">
             <Title>科学</Title>
@@ -13554,33 +13581,29 @@ It is important that focus investors understand that chasing recent outperforman
 （3）克拉克的第三定律Clarke’s Third Law - “任何足够先进的技术都与魔法无法区分”。</Text>
         </Document>
         <Document ID="EEE572B7-32F1-4D0B-BA72-65B4FF285663">
-            <Title>代码风格</Title>
-            <Text>编程逻辑：
-你计算各个位置坐标的时候完全可以也有必要把数值对应一下找找函数关系，在函数注释当中写出来，不一定非得让自己忙活着折腾一个逻辑，写出来函数关系也不难的，就算是i也完全可以自己归纳一下就知道了，符合这个归纳结果就可以了；
+            <Title>写与不写</Title>
+            <Text>不追求大而全，追求小而精，解决和实现我们的功能比较好，好比是参考文档或者学习什么知识，就跟认字一样你根本不可能认识的，开始学习的时候是“没有必要完全搞懂”，先搞懂核心的内容而后慢慢扩展；
 
-做到一个新内容要考虑与旧内容之间的关系，而不能上来就陷入到细节当中，其实你只要知道给什么样的参数画什么样的方块就行了，不要给什么画什么；
+做到一个新内容要考虑与旧内容之间的关系，而不能上来就陷入到细节当中；
 
-模块化思想：写what，不写how（你应该关心做什么而不是怎么做，具体到square_line里面画square就不用关心怎么实现square，很多程序员就不明白这一点，在两个月的学习过程当中，你尽可能学会这种方法能够写的非常漂亮）；
+模块化思想：写what，不写how
 
-选择控制：根据情况返回合适的情况；
-
-比较运算和逻辑运算：两者都有一个结果，优先级不能理解就用一个括号括起来就好了；
-
-永远不写三重逻辑。
-
-递加的时候就用+=不要用此外任何一种方式，不要总是想到一种劣势或者知道有什么好处就去用，无论如何现在和将来都不能说后来就不用了；
-
-
-不追求大而全，追求小而精，解决和实现我们的功能比较好，好比是参考文档或者学习什么知识，就跟认字一样你根本不可能认识的，开始学习的时候是“没有必要完全搞懂”，先搞懂核心的内容而后慢慢扩展；
-2018年10月1日星期几自己怎么写，日历这个功能也很勉强的自己开发一个库何必呢？自己用什么直接开发什么不就得了，不然又是何必呢？再比如得到一个随机的小数怎么去随机算呢？你直接就用标准库实现就可以了，不用关心别的情况。
-
-能加空格尽量加空格，function()后面与{也要有空格，默认参数两边不加空格，这是个人代码风格必须得有自己的内容；
-段与段之间尽可能要有空行，这样的分块让人看起来更加清爽；
+写和不写：
+只写i++和n+=1
+就算是i也完全可以自己归纳一下就知道了，符合这个归纳结果就可以了
+比较运算和逻辑运算，两者都有一个结果，优先级不能理解就用一个括号括起来就好了
+能加空格尽量加空格，function()后面与{也要有空格，默认参数两边不加空格
+段与段之间尽可能要有空行
+Js文件最外层只应该有函数的定义，其他的不应该有，即使是调用也是在__main函数里面调用我们的函数，最后在最外面才能只调用__main函数，“走飞线”
+对象最后一行加“，”
+对象只写key语法
+你直接就用标准库实现就可以了，不用关心别的情况
 
 
-Js文件最外层只应该有函数的定义，其他的不应该有，即使是调用也是在__main函数里面调用我们的函数，最后在最外面才能只调用__main函数，你焊电路板当然可以“走飞线”，但是这就是丑的就是不应该的，js里面一行一行执行，执行到js里面的哪些元素没有生成就会报错；
+永远不写三重循环
+永远不写三元表达式
+Log函数一定要自己直接复制过来，在你不确定什么内容的情况下就复制粘贴就可以了，复制粘贴是可以保证你自己不会出错的
 
-Log函数一定要自己直接复制过来，在你不确定什么内容的情况下就复制粘贴就可以了，复制粘贴是可以保证你自己不会出错的；
 </Text>
         </Document>
         <Document ID="2EB42484-B06B-4A5E-9EAE-EB021B1A62F6">
@@ -13602,7 +13625,7 @@ Log函数一定要自己直接复制过来，在你不确定什么内容的情�
 还有一个我认为更重要的问题，也就是对于现代通讯技术，比方说当下移动互联网，我们应如何建立一个与它自由的关系，我们如何建立起与现代通信的自由关系，我认为这是当代青年成长过程中一个极为重要的过程，一切技术都可以是双刃剑，大家都明白这个道理的，现在一个非常重要的问题就是我们来理解互联网，他是不是构成了另一个世界，是不是一个可以自身独立的世界，我们来想这个问题，有许多人对互联网对人类世界产生的影响讲得过于大了，如果互联网是一个世界的话，那这个世界是一个静像的世界，静止中当然有物象，但是物象不是物本身，所以如果他是一个世界，合适的存法应该是虚拟世界，无论虚拟世界如何影响我们的生活，但是它还是虚拟的，说它是虚拟世界是完全恰当的，因为在一个虚拟世界中我们不可能去改变现实世界，我们不可能根据互联网来改变现实世界，我们现实世界当中人与人之间感性的冲突或者国与国之间感性的冲突和合作都不是互联网带来的，互联网可以表达这种斗争也可以表达这种合作，但是互联网不是斗争的舞台，而真实的斗争在现实世界中，在互联网这个虚拟世界中我们可能对现实世界中的斗争产生了观念上的预演，我现在感受很深的一点是许多年轻人的网络依赖症，包括我们复旦大学都有的，他为什么考进复旦大学以后为什么经常翘课?最可怕的是网络游戏，我有一个朋友他孩子去英国留学，但是一年以后他每科都不及格，但是得了全英的游戏冠军，他回来了，他父母亲非常愤怒，跟他讲我们花了那么多钱期待着你，他说我不是一无所获，我会跟他说在网络游戏中我们陷入了恶性循环，打个简单的比方，我们有各种比赛，不仅有网络游戏比赛，还有打喷嚏比赛，这个比赛有意义吗?网络依赖病症的现象表明了我们对互联网这种现代信息技术的平台没有建立起一个自由的关系，我们反过来依赖它，被它所支配，这意味着创造性的衰退，我们对互联网的应用方式甚至在大学的学术过程当中，研究生的学术论文写作过程中有时候都起到了很不好的影响，它变成了现成知识的收集和排列，所以如何看待互联网与我们当代生活的关系，青年人在上网的时候摆脱了孤独，但是一下网孤独感油然而生，我们小时候没有网络，我们上海的小孩子在弄堂里成长，意味着人与人直接的面对面的感性的交流，而不是在网络中通过符号来交流，恋爱比如说该怎么谈?网络恋爱是否可能?网络可以作为恋爱沟通的手段但不是恋爱的本身，我是小时候在弄堂里长大的，在弄堂里会有两个男孩子的对抗，两个男孩子在面对面的对抗当中我从你的眼神中看到了胆怯，我的基本认识是我们不应当在互联网的运用当中失去了我们感性的创造性，失去了我们感性上真实的奋斗，我们的心跟我们的头脑的区分在哪里?心是生命情感所在的地方，真正的人的生命实践就是在人与人的直面中发生的，无论这个交往是争论还是斗争，当然这一切并不是意味着我对现代移动互联网为特征的现代通信技术的批判，不是批判这个技术本身，而是要通过对互联网进入我们的生活，在我们的手机当中改变了我们的生活方式在某种程度上，它意味着什么，以及我们对这种已经产生出来的异化如何扬弃它。我很快发现了我跟我们朋友约在一起吃饭，我们获得了难得的机会彼此交流，但是前面一段时间是长久的沉默，因为每个人手里都拿着手机，你为什么不跟我交流?每个人都携带着一个朋友圈，我们在实际的面对面的交流中我们疏远了，在观念的交往中拥有了朋友，这个怎么理解?这都是放在我们面前的困惑，总而言之，我想表达的一层意思是21世纪两个推动社会的飞轮一个是金融，一个是通讯，金融其实也是现代经济的虚拟的舞台，叫虚拟经济，现代技术也同样有一个虚拟的舞台就是现代通信技术，所有的技术都离不开这个舞台，但是这个舞台不能变成主体，它是手段，现代金融不能成为经济的主体，经济的主体还是血肉、骨骼，上帝看当代的人类他会发笑的，如此聪明的人类创造出迷惑自己的东西，这是我的一个感受，我就讲到这里。</Text>
         </Document>
         <Document ID="8395D6BF-BA44-42B0-9073-928F7595B7AF">
-            <Title>《财富自由之路》1711-融会贯通</Title>
+            <Title>《财富自由之路》</Title>
             <Text>“软件升级”：学习一项重大技能。
 “硬件升级”：锻炼让自己更强壮。
 快乐：在于我看到有很多人发生了变化。
@@ -15520,7 +15543,7 @@ When you purchase an investment, you commit yourself to a certain course, even t
             <Title>足球-意志，中国哲学-马哲</Title>
         </Document>
         <Document ID="A1416F0E-CB12-4944-BAE8-F8F7149CD3D9">
-            <Title>《穷查理宝典》1801</Title>
+            <Title>《穷查理宝典》</Title>
             <Text>“鞋扣情结”。这个名字来自他的一位世交，那人在鞋扣行业取得领先地位之后，不管聊到什么话题总是一副无所不知的口气。（自己说话也应该考量到底是不是在自己能力圈范围内，不懂的就不要说了，固然有些你也懂得了，但是也不必非得去说，因为事实上的价值本身就是有限的）
 
 “铁锤人倾向”，因为有句谚语说：“在只有铁锤的人看来，所有问题都特别像钉子。”许多学者就像寻菇犬，人们喂养和训练这种动物来寻找地下的块菌，除了这项专长，它别的什么都不会。
@@ -18393,7 +18416,7 @@ Cohen, Allan R./ Bradford, David L.,Influence Without Authorit , John Wiley &amp
             <Title>刘鹤</Title>
         </Document>
         <Document ID="07179FC7-1002-4AFA-BA19-ECA2CF90C769">
-            <Title>1消除重复-函数变量循环</Title>
+            <Title>1消除重复</Title>
             <Text>函数
 
 函数是用来消除大段代码重复的功能，变量用来消除重复，循环用来消除重复；

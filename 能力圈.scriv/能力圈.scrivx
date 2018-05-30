@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2018-05-29 19:21:50 +0800" ModID="39803EDE-0ED1-4A8F-944D-E4FD9534B08F">
+<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.0.2-1506" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2018-05-30 13:56:23 +0800" ModID="6FEE2A2C-5FD8-421B-B4AE-4CD62D32696B">
     <Binder>
         <BinderItem UUID="F573BF27-9E87-4C46-95F3-2DC49E23FA72" Type="DraftFolder" Created="2017-12-19 23:01:40 +0800" Modified="2018-03-27 13:42:40 +0800">
             <Title>形而下者-器</Title>
@@ -90,6 +90,26 @@
                                 </BinderItem>
                             </Children>
                         </BinderItem>
+                        <BinderItem UUID="935F40ED-4DE7-4F4D-A68C-133C3BAE84E9" Type="Folder" Created="2018-05-29 20:27:56 +0800" Modified="2018-05-29 20:28:06 +0800">
+                            <Title>左耳听风</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="51A62497-4360-45C2-B7E9-DC9DEFDDB8C6" Type="Text" Created="2018-05-29 20:28:23 +0800" Modified="2018-05-29 20:33:33 +0800">
+                                    <Title>程序员用自己的技术变现</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>72,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
                         <BinderItem UUID="01190262-F066-4F97-AC5B-240BB1B127DD" Type="Folder" Created="2018-05-09 10:36:20 +0800" Modified="2018-05-09 10:36:24 +0800">
                             <Title>前端</Title>
                             <MetaData>
@@ -117,22 +137,22 @@
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                     <Children>
-                                        <BinderItem UUID="FBC19F22-11FC-48D8-96D4-7DD569FA1799" Type="Text" Created="2018-05-26 12:57:49 +0800" Modified="2018-05-29 17:59:04 +0800">
+                                        <BinderItem UUID="FBC19F22-11FC-48D8-96D4-7DD569FA1799" Type="Text" Created="2018-05-26 12:57:49 +0800" Modified="2018-05-30 13:55:40 +0800">
                                             <Title>编程认识</Title>
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>1941,0</TextSelection>
+                                                <TextSelection>1583,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
-                                        <BinderItem UUID="EEE572B7-32F1-4D0B-BA72-65B4FF285663" Type="Text" Created="2018-05-26 13:23:28 +0800" Modified="2018-05-28 15:32:36 +0800">
+                                        <BinderItem UUID="EEE572B7-32F1-4D0B-BA72-65B4FF285663" Type="Text" Created="2018-05-26 13:23:28 +0800" Modified="2018-05-30 13:53:36 +0800">
                                             <Title>写与不写</Title>
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>130,0</TextSelection>
+                                                <TextSelection>480,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                         <BinderItem UUID="FDBED880-941C-4D75-8264-664A3F252A51" Type="Text" Created="2018-03-28 10:41:03 +0800" Modified="2018-05-28 15:34:18 +0800">
@@ -166,40 +186,22 @@
                                         </BinderItem>
                                     </Children>
                                 </BinderItem>
-                                <BinderItem UUID="57F03967-A970-47A6-BA09-575AFE118FB0" Type="Text" Created="2018-03-21 19:30:39 +0800" Modified="2018-05-28 16:14:15 +0800">
-                                    <Title>5选择器+事件</Title>
+                                <BinderItem UUID="57F03967-A970-47A6-BA09-575AFE118FB0" Type="Text" Created="2018-03-21 19:30:39 +0800" Modified="2018-05-30 13:55:51 +0800">
+                                    <Title>选择器+事件</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>145,0</TextSelection>
+                                        <TextSelection>3,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="110DB0F5-E5DA-46F7-9F05-F5C2A0CA3913" Type="Text" Created="2018-03-23 19:37:23 +0800" Modified="2018-05-25 21:59:47 +0800">
-                                    <Title>fe6-CSS</Title>
+                                <BinderItem UUID="110DB0F5-E5DA-46F7-9F05-F5C2A0CA3913" Type="Text" Created="2018-03-23 19:37:23 +0800" Modified="2018-05-30 13:55:40 +0800">
+                                    <Title>CSS</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>1275,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem UUID="A196E657-F310-4CE7-B3FC-B8943CD2DE6A" Type="Text" Created="2018-03-26 19:35:20 +0800" Modified="2018-05-26 12:55:10 +0800">
-                                    <Title>前端7</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>107,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem UUID="A01A9B2E-DB8C-4F0B-9650-2AF267FA6096" Type="Text" Created="2018-03-28 19:37:56 +0800" Modified="2018-05-26 12:58:06 +0800">
-                                    <Title>前端8</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>640,0</TextSelection>
+                                        <TextSelection>992,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="99F8B4B2-E503-4032-83FF-3EB8615499BF" Type="Text" Created="2018-03-30 19:32:43 +0800" Modified="2018-03-30 21:32:41 +0800">
@@ -208,7 +210,7 @@
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>763,0</TextSelection>
+                                        <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="A31B40D7-6FCC-4B5F-8A40-5F2ADC3C82FF" Type="Text" Created="2018-04-02 19:36:09 +0800" Modified="2018-04-02 21:43:41 +0800">
@@ -828,13 +830,13 @@
                                 <SelectedSubdocumentUUIDs>F41A52F1-5C7B-4AB5-88B0-063EDC754EB5</SelectedSubdocumentUUIDs>
                             </CorkboardAndOutliner>
                             <Children>
-                                <BinderItem UUID="F41A52F1-5C7B-4AB5-88B0-063EDC754EB5" Type="Text" Created="2018-02-25 22:34:28 +0800" Modified="2018-05-29 19:08:33 +0800">
+                                <BinderItem UUID="F41A52F1-5C7B-4AB5-88B0-063EDC754EB5" Type="Text" Created="2018-02-25 22:34:28 +0800" Modified="2018-05-30 10:06:41 +0800">
                                     <Title>大法鼓</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>1417,0</TextSelection>
+                                        <TextSelection>8399,46</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="3A784C68-43F4-4EB2-BDB0-A2DBE7BFBDF6" Type="Text" Created="2018-02-25 14:21:38 +0800" Modified="2018-03-18 20:43:05 +0800">
@@ -6043,6 +6045,24 @@
                         <TextSelection>23,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem UUID="A01A9B2E-DB8C-4F0B-9650-2AF267FA6096" Type="Text" Created="2018-03-28 19:37:56 +0800" Modified="2018-05-30 13:53:54 +0800">
+                    <Title>前端8</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="A196E657-F310-4CE7-B3FC-B8943CD2DE6A" Type="Text" Created="2018-03-26 19:35:20 +0800" Modified="2018-05-30 13:54:34 +0800">
+                    <Title>前端7</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,574</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
     </Binder>
@@ -6101,13 +6121,13 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2017-12-19 23:01:39 +0800" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="-1013" Characters="-1796" Date="2018-05-29 10:32:28 +0800"></PreviousSession>
+        <PreviousSession Words="-1048" Characters="-1899" Date="2018-05-29 20:27:36 +0800"></PreviousSession>
     </ProjectTargets>
-    <RecentWritingHistory Date="2018-05-29 00:00:00 +0800">
-        <DraftWordCount>-1013</DraftWordCount>
-        <DraftCharCount>-1796</DraftCharCount>
-        <OtherWordCount>6853</OtherWordCount>
-        <OtherCharCount>12382</OtherCharCount>
+    <RecentWritingHistory Date="2018-05-30 00:00:00 +0800">
+        <DraftWordCount>-419</DraftWordCount>
+        <DraftCharCount>-774</DraftCharCount>
+        <OtherWordCount>305</OtherWordCount>
+        <OtherCharCount>731</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>

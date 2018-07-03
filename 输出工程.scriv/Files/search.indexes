@@ -6242,6 +6242,9 @@ If a set of normally distributed data was presented graphically, it would resemb
         <Document ID="E09CFF04-8871-41EC-9254-ABBC9CA1C1BD">
             <Title>思维模型</Title>
         </Document>
+        <Document ID="DB99E6C6-3CB8-4DFA-805C-1B55EE34BA29">
+            <Text>https://juejin.im/post/5a0c1956f265da430a501f51</Text>
+        </Document>
         <Document ID="A25040BB-F167-4734-9004-4FC9646B244A">
             <Text>五
 避免不一致性倾向（认知失调的调节作用）
@@ -6261,6 +6264,26 @@ If a set of normally distributed data was presented graphically, it would resemb
 
 在心理学上，有一个概念叫“认知失调”。当我们的认知和行为不一致时，我们往往会扭曲我们的想法，使之符合我们的认知，从而减少“失调”所带来的不舒服。
 </Text>
+        </Document>
+        <Document ID="84DF8658-A355-47A7-9C12-57F6C2B6F88E">
+            <Text>Why did you get into development?
+　　你为什么开发软件？
+　　How many technical books did you read in the past year?
+　　去年你读了几本技术书籍？
+　　What was your favorite technical book in the past year? What did you learn from it?
+　　去年你最喜欢的技术书籍是哪本？你从中学到了什么？
+　　What websites do you read regularly, related to development?
+　　平时你经常访问哪些编程类网站？
+　　Do you maintain any open-source projects?
+　　你有自己的开源项目吗？
+　　Do you code in your spare-time?
+　　业余时间你编程吗？
+　　Do you love programming, or do you do it for the money?
+　　对于你来说，编程是一种爱好，还是一种谋生手段？
+　　Have you accomplished anything important in your career yet? Do you want to? 
+　　你的职业生涯之中有什么重要的成就？它是你主导的吗？
+　　What would make you feel that you have done something important?
+　　什么事情会让你很有成就感？</Text>
         </Document>
         <Document ID="F13183B3-1998-45CE-B1F9-B5F9D3A2202B">
             <Synopsis>以结果为导向：时间分配和注意力分配的策略是积累竞争力而不是积累“能力”</Synopsis>
@@ -12570,6 +12593,72 @@ F(n)对问题的判断时间
 
 1.12数组
 和动态数组、哈希表、链表的区别
+数组：内存形态、索引、边界、长度
+
+一般Int 32位，py支持大数字转为字符串存储
+
+
+
+2.1
++1洗牌问题：思路、时间复杂度、测试
+1.random
+2、3.交换位置方法洗牌（一定要想好测试的方法）和随机找位置，都不好
+4.找牌随机来不断看
+
++2计算质数
+不能在思考问题的时候冷场
+可能考官也是做了帮助的准备的
+1.循环方法
+2.设定数组一个个符合的就划掉（用空间换时间）
+
++3哥德巴赫猜想
+想不到方法先写暴力解
+1.先找到质数表，维护两个指针判断大小（复杂度On）
+
+Py数组可以自定义类型，用各种字符，自己运行一下可以知道
+
+
+动态数组（白纸手写）
+成员+操作
+数组列表、实例、练习
+
+创建的时候如何动态扩大，开辟空间容量
+拷贝空间并且复制，原有的被垃圾回收
+
+创建空的列表
+判空，return size
+确定个数，return size
+Append，选择某个位置不花时间，O1，pop也是如此（满数组的时候再append需要时间复杂度On，分期复杂度！）
+Insert，delete选完还要挪动（倒着循环插入，正着循环删除）
+复杂度：相当于for内部主体的情况再去乘n这个数
+
+
+根据各种操作的内容自己去写一个自己的动态数
+
+深拷贝和浅拷贝：
+切片需要改掉很多东西
+
+理解List时间复杂度
+sort下节课讲
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -20128,17 +20217,27 @@ A（Appropriation，拆为己用），拆书家催化促动，促进学习者将
         </Document>
         <Document ID="D8EB2410-AC81-4D02-BD82-957A5A6164F9">
             <Title>认识自己+big picture-why+what</Title>
-            <Text>2018年目标是进入BAT这样的企业工作+硕士毕业
-每个月工作日时间看完1本书技术书+看完1本魔兽书
-每周找1个工作日晚上写完1篇英文作文的思考
-每周有2个晚上和周末1天完成下列月任务
-周末另外1天整理1小时本周内容
-6月完成
-7月完成论文+实验
-8月完成论文修改
+            <Text>Big picture:
+
+短期任务（7/12）：
+2018年目标是实习半年开始写自己的诗词项目+硕士毕业
+每个月时间看完1本书英文书
+7月完成论文+实验+诗词项目入手
+8月完成论文修改+诗词项目理解
+
+
+中期任务（2/5）：
+拿到CSmaster
+实现博士方向的思考
+
+长期杠杆：
+对世界文明图景做出自己的贡献
 
 
 
+认识自己：
+
+我不是那种精细人
 
 我在压力之下会变笨
 

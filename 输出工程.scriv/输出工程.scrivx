@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.0.3-3032" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2018-07-02 18:51:28 +0800" ModID="2D6502A9-588F-4528-AADC-9AE79FD3DC66">
+<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.0.3-3032" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2018-07-03 11:36:04 +0800" ModID="C8D75DAD-FFA4-43F9-BB32-9FD90F4D05F9">
     <Binder>
-        <BinderItem UUID="D8EB2410-AC81-4D02-BD82-957A5A6164F9" Type="Text" Created="2018-06-07 15:23:26 +0800" Modified="2018-06-24 13:59:47 +0800">
+        <BinderItem UUID="D8EB2410-AC81-4D02-BD82-957A5A6164F9" Type="Text" Created="2018-06-07 15:23:26 +0800" Modified="2018-07-03 11:36:04 +0800">
             <Title>认识自己+big picture-why+what</Title>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
             <TextSettings>
-                <TextSelection>132,0</TextSelection>
+                <TextSelection>84,0</TextSelection>
             </TextSettings>
         </BinderItem>
         <BinderItem UUID="648C787D-5F87-4AD9-A1FC-60B724DB9D32" Type="Text" Created="2018-06-09 13:14:51 +0800" Modified="2018-06-24 14:00:46 +0800">
@@ -37,22 +37,22 @@
                 <TextSelection>13,0</TextSelection>
             </TextSettings>
         </BinderItem>
-        <BinderItem UUID="23425068-7B17-42AB-8F3E-4AF19758E977" Type="Text" Created="2018-06-12 18:17:13 +0800" Modified="2018-07-02 18:51:28 +0800">
+        <BinderItem UUID="23425068-7B17-42AB-8F3E-4AF19758E977" Type="Text" Created="2018-06-12 18:17:13 +0800" Modified="2018-07-03 09:27:53 +0800">
             <Title>英文例句</Title>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
             <TextSettings>
-                <TextSelection>153137,0</TextSelection>
+                <TextSelection>153229,43</TextSelection>
             </TextSettings>
         </BinderItem>
-        <BinderItem UUID="35E63B0E-B212-48E1-8573-7DD09F00728B" Type="Text" Created="2018-06-25 13:16:37 +0800" Modified="2018-06-29 08:23:41 +0800">
+        <BinderItem UUID="35E63B0E-B212-48E1-8573-7DD09F00728B" Type="Text" Created="2018-06-25 13:16:37 +0800" Modified="2018-07-03 10:53:41 +0800">
             <Title>一月算法特训班</Title>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
             <TextSettings>
-                <TextSelection>561,0</TextSelection>
+                <TextSelection>1130,0</TextSelection>
             </TextSettings>
         </BinderItem>
         <BinderItem UUID="61503EB6-CCA4-43E2-AD05-CC3DC77E8CD1" Type="Folder" Created="2018-06-23 21:23:47 +0800" Modified="2018-06-23 21:23:50 +0800">
@@ -79,7 +79,7 @@
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>718,36</TextSelection>
+                        <TextSelection>166,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="783EDE6C-75D1-42B7-9C1E-3C5C322430F9" Type="Text" Created="2018-06-23 21:21:32 +0800" Modified="2018-06-23 21:21:58 +0800">
@@ -1837,6 +1837,22 @@
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>15,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="84DF8658-A355-47A7-9C12-57F6C2B6F88E" Type="Text" Created="2018-07-03 09:58:37 +0800" Modified="2018-07-03 09:58:40 +0800">
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>403,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="DB99E6C6-3CB8-4DFA-805C-1B55EE34BA29" Type="Text" Created="2018-07-03 09:58:55 +0800" Modified="2018-07-03 09:58:58 +0800">
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>47,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -6922,13 +6938,13 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2017-12-19 23:01:39 +0800" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="440" Characters="965" Date="2018-06-25 23:13:27 +0800"></PreviousSession>
+        <PreviousSession Words="183" Characters="738" Date="2018-07-03 09:27:23 +0800"></PreviousSession>
     </ProjectTargets>
-    <RecentWritingHistory Date="2018-07-02 00:00:00 +0800">
-        <DraftWordCount>0</DraftWordCount>
-        <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>-5130</OtherWordCount>
-        <OtherCharCount>-24933</OtherCharCount>
+    <RecentWritingHistory Date="2018-07-03 00:00:00 +0800">
+        <DraftWordCount>183</DraftWordCount>
+        <DraftCharCount>738</DraftCharCount>
+        <OtherWordCount>224</OtherWordCount>
+        <OtherCharCount>540</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SearchIndexes Version="1.0">
     <Documents>
-        <Document ID="A01A9B2E-DB8C-4F0B-9650-2AF267FA6096">
-            <Title>前端8</Title>
+        <Document ID="A9B1F13D-4A81-4954-B996-5FEA25084339">
+            <Title>论文</Title>
         </Document>
         <Document ID="C3B8C0C6-7EEA-4188-82BD-55151102F1BD">
             <Title>建模</Title>
@@ -986,16 +986,6 @@ X+模型
 
 （3）无知的面纱Veil of Ignorance - “基于以下的思想实验来确定某个问题（如奴隶制）的道德的一种方法：原来的立场各方对个人所具有的特定能力，品味和职位一无所知在社会秩序内。当这些政党正在选择他们所居住的社会中的权利，职位和资源分配原则时，无知的面纱阻碍了他们知道在这个社会中谁将获得一定的权利，职位和资源分配。 ”</Text>
         </Document>
-        <Document ID="24CDBF96-249B-4ADE-8F4D-CA09EAA45BE7">
-            <Text>
-（2）内向与外向（Introversion vs Extraversion） - “外向性倾向于表现在外向的，健谈的，精力充沛的行为中，而内向则表现为更为保守的独立行为。 几乎所有的人格综合模型都以各种形式包含这些概念。“
-
-（2）智商与情商（IQ vs EQ） - “智商是从多个标准化测试中的一个得出的总分，旨在评估人的智力。”“情商是个人认识自己和他人情绪，区分不同情绪的能力并贴上标签，用情绪信息指导思想和行为。“
-
-（2）成长思维与固定思维（Growth Mindset vs Fixed Mindset） - “思维定势”的人认为，能力大多是天生的，因为缺乏必要的基本能力而解释失败，而那些具有“成长思维”的人相信他们可以获得任何给定的能力，只要他们投资精力或学习。“
-
-（2）事后偏见（Hindsight Bias） - 事件发生后，倾向认为事件是可预见的，尽管事先没有客观的基础来预测事件。“（相关：波莉安娜原理Pollyanna principle - ”人们倾向比不愉快的东西更准确地记住愉快的物品“）</Text>
-        </Document>
         <Document ID="D26745D8-F106-46A6-8B8F-5F4C636C8AE1">
             <Title>《不上班也有钱》</Title>
             <Text>财务自由：有一天你的被动收入可以支付你的支出
@@ -1734,11 +1724,6 @@ When examining companies, you must make a series of decisions with an eye toward
         <Document ID="E12DD093-10B7-4663-9A90-5B4037B8CBB0">
             <Title>汤姆索维尔</Title>
         </Document>
-        <Document ID="6A52734D-4892-4BD1-850C-197D5DE23FC9">
-            <Text>
-（1）皮格马利翁效应（Pygmalion Effect） - “高期望导致业绩增长的现象”（相关：市场拉动技术政策market pull technology policy - 政府将未来标准设定为超出当前市场能够提供的水平，市场将这一技术转化为存在;激进的坦率Radical Candor）
-</Text>
-        </Document>
         <Document ID="194E9D82-8110-4C89-A1B7-6D394DC1BFD9">
             <Title>天文周期</Title>
             <Text>太阳活动对地球的影响被称为"太阳驱动力"。
@@ -1800,7 +1785,6 @@ With a little help from Charlie Munger, you can see how the many factors that we
 1.try to understand尽可能深入思考一个观点，包容地理解
 2.critical evaluation调整自己进行严肃性评价，对他人的观点进行批评形成自己的看法
 
-
 2
 理性被亚里士多德认为“人与野兽区分之处”
 人因为理性可以被“论证”说服，论证需要“坚实的逻辑基础”
@@ -1814,7 +1798,6 @@ With a little help from Charlie Munger, you can see how the many factors that we
 有效不等于“真实”-论证无效也并不意味虚假
 前提是错误的，也是错误的
 “可靠”-所有前提真实同时，有效
-
 
 3
 归纳推理（也是论证）（词根in是加的意思）-基于自然的可预测性，过去经验符合未来，并不具有确定性而是关注可能性
@@ -4455,7 +4438,73 @@ Perspectives for families
 </Text>
         </Document>
         <Document ID="50FD39E9-684E-439A-9FB7-F06FE59F31A5">
-            <Text>（1）汉隆的剃刀 （Hanlon’s Razor）- “如果能够被粗心和愚蠢充分解释的不应加以恶意”（相关：基本归因错误 - “人们倾向于强调代理人的内在特征（性格或意图）而不是外在的因素，在一个特定的情况下解释另一个人的行为。“）</Text>
+            <Text>（1）认知偏误（Cognitive Biases） - “以某种方式思考可能导致标准理性或良好判断标准的系统性偏差的倾向”（见认知偏见列表）
+
+
+（1）选择偏倚（Selection Bias） - “选择个人，群体或数据进行分析的方式不能实现应当的随机化，使得所获的样本不能代表要分析的群体。”（相关：取样偏差sampling bias）
+
+（1）反应偏差（Response Bias） - “各种各样的认知偏差，使得参与者的反应远离准确或真实的反应。”
+
+（2）观察者效应（Observer Effect）- “观察行为会改变观察现象Changes that the act of observation will make on a phenomenon being observed.””（相关：薛定谔的猫Schrödinger’s cat）
+
+（2）生存偏见（Survivorship Bias） - 专注于“存活下来的”人或事物而无意地忽略了那些未存活下来而缺乏可见性的事物的逻辑错误。
+
+
+（1）沉没成本（Sunk Cost） - “已经发生，不能收回的成本”（相关：“坏钱后抛钱”throwing good money after bad，“一分钱一英镑”n for a penny, in for a pound）
+
+（1）可用性偏见（Availability Bias） - “人们倾向于将他们的判断严重地压向更新的信息，使新的观点偏向于最新的消息。”
+
+（1）确认偏见（Confirmation Bias） - 倾向于寻求，解释，支持和回忆信息，以此来证明自己先前的信念或假设，同时对可供选择的可能性给予不成比例的考虑。“（相关：认知失调cognitive dissonance）
+
+（3）损失厌恶 - “人们倾向于避免损失而获得收益”（相关：边际效用递减diminishing marginal utility）
+
+（1）机会成本（Opportunity Cost） - “在有限资源的情况下放弃最佳备选的价值，需要在几个相互排斥的选择之间做出选择。 假设做出最好的选择，那就是不能享受第二好的可用选择所带来的“成本”。（相关：资本成本cost of capital）
+
+（1）直觉（Intuition） - 编入个人神经网络的个人经验，这意味着你的直觉在你的个人经验范围之外是危险的。 （相关：思维快速思维缓慢thinking fast vs thinking slow—两种思维模式之间的二分法：”系统1“是快速的，本能的和情感的;”系统2“更慢，更审慎，更合乎逻辑。
+
+
+
+（1）主动聆听（Active Listening）- “要求聆听者完全集中，理解，回应，然后记住所说的话”。
+
+（1）激励措施（Incentives）- “激励个人采取行动的动机的事物”（相关：胡萝卜和大棒carrot and stick - “奖励和惩罚相结合的诱导行为的政策”）
+
+
+（1）皮格马利翁效应（Pygmalion Effect） - “高期望导致业绩增长的现象”（相关：市场拉动技术政策market pull technology policy - 政府将未来标准设定为超出当前市场能够提供的水平，市场将这一技术转化为存在;激进的坦率Radical Candor）
+
+
+（1）直接负责任的个人（Directly Responsible Individual） - 最初由苹果公司倡导的管理理念，如果某人明确地对某事负责，就会有好事发生。 （相关：责任分工dilusion of responsibility - “社会心理学现象，即当其他人在场时，一个人不太可能为行动或不作为负责”;旁观者效应bystander effect - 一种社会心理现象，指的是个人不 或在其他人在场时向受害人提供任何帮助。“）
+
+
+
+
+
+（2）内向与外向（Introversion vs Extraversion） - “外向性倾向于表现在外向的，健谈的，精力充沛的行为中，而内向则表现为更为保守的独立行为。 几乎所有的人格综合模型都以各种形式包含这些概念。“
+
+（2）智商与情商（IQ vs EQ） - “智商是从多个标准化测试中的一个得出的总分，旨在评估人的智力。”“情商是个人认识自己和他人情绪，区分不同情绪的能力并贴上标签，用情绪信息指导思想和行为。“
+
+（2）成长思维与固定思维（Growth Mindset vs Fixed Mindset） - “思维定势”的人认为，能力大多是天生的，因为缺乏必要的基本能力而解释失败，而那些具有“成长思维”的人相信他们可以获得任何给定的能力，只要他们投资精力或学习。“
+
+（2）事后偏见（Hindsight Bias） - 事件发生后，倾向认为事件是可预见的，尽管事先没有客观的基础来预测事件。“（相关：波莉安娜原理Pollyanna principle - ”人们倾向比不愉快的东西更准确地记住愉快的物品“）
+
+
+（3）马斯洛的需求层次（Maslow’s Hierarchy of Needs）- 马斯洛用“生理”，“安全”，“归属”和“爱”，“自尊”，“自我实现”和“自我超越”来描述模式人类的动机通常是由此递增的… 虽然没有什么证据显示马斯洛所描述的需求排名或是存在一个确定的等级。
+
+
+（3）邓巴的数字（Dunbar’s Number） - “对于可以保持稳定社会关系的人数的一个建议的认知限制，常用的值是150。
+
+（3）零容忍（Zero Tolerance） - “严格惩治违反规定的行为，以消除不良行为。”
+
+
+（3）克拉克的第三定律Clarke’s Third Law - “任何足够先进的技术都与魔法无法区分”。
+
+
+　　这种被“逼出来”的教育生态，舆论称之为“剧场效应“，是由严重的应试教育、课外补习和择校竞争导致的，21世纪教育研究院院长杨东平解释道：”就好比前排少数不守规则的观众站了起来，结果所有人都被‘绑架’，不得不站起来“。
+
+
+
+
+
+汉隆的剃刀 （Hanlon’s Razor）- “如果能够被粗心和愚蠢充分解释的不应加以恶意”（相关：基本归因错误 - “人们倾向于强调代理人的内在特征（性格或意图）而不是外在的因素，在一个特定的情况下解释另一个人的行为。“）</Text>
         </Document>
         <Document ID="5BDE23B5-B99E-4B9F-A076-67AD2BADA71D">
             <Title>3预处理</Title>
@@ -5407,10 +5456,6 @@ Can one person make a difference? What the evidence says.
 用复利的思路思考生活（结构洞+投资自己）
 有些人一心想要拓展人脉，他们采取的方式往往是参加各种活动、沙龙，四处发名片。但是，其实这是一种效率极其低下的做法。因为拓展人脉的关键利率不是发更多名片，而是让自己变得有价值，让人们愿意把你推荐给别人。所以拓展人脉的关键，首先是不断地提升自己的价值，让自己变得对他人有帮助；其次，才是让别人知道自己的价值。
 说到这里，我想再说说前文提到的用复利模型去投资的事情。其实对于没有太多钱的年轻人而言，真正有复利效应的不是年化10%的收益，因为在起步期，你的投资利率其实可以非常高。你把1万元钱投入个人的学习、自我成长、能力提升等方面，带来的年化收益可能是5000%；而买年化10%的理财产品，一年也不过1000元。这个账不好算吗？什么时候你才应该把钱投资到理财产品上呢？当你的收入扣除生活成本和自我成长之外，还有闲置资金的时候。这些钱，才是应该拿去理财投资的。这才是真正地理解了复利模型。
-</Text>
-        </Document>
-        <Document ID="52763EDC-5EB2-41AD-8ACC-2D136278A1C3">
-            <Text>　　这种被“逼出来”的教育生态，舆论称之为“剧场效应“，是由严重的应试教育、课外补习和择校竞争导致的，21世纪教育研究院院长杨东平解释道：”就好比前排少数不守规则的观众站了起来，结果所有人都被‘绑架’，不得不站起来“。
 </Text>
         </Document>
         <Document ID="0A885684-9BCB-46EA-BAA5-E13D70869059">
@@ -10788,11 +10833,6 @@ If a set of normally distributed data was presented graphically, it would resemb
 毫无疑问，我跟你讲真的是毫无疑问的，只要你继续这么干下去就行，一年两年也是不可能的，二十年你绝对洞穿这个世界了。
 也许用不了二十年，只是到底在哪一年实现，你要自己面对那个惊喜的日子，或许会来得非常非常早，会让你非常意外原来这么简单就做到了。</Text>
         </Document>
-        <Document ID="EC59C468-B95A-4623-8F22-D4168348EBC5">
-            <Text>
-（1）直接负责任的个人（Directly Responsible Individual） - 最初由苹果公司倡导的管理理念，如果某人明确地对某事负责，就会有好事发生。 （相关：责任分工dilusion of responsibility - “社会心理学现象，即当其他人在场时，一个人不太可能为行动或不作为负责”;旁观者效应bystander effect - 一种社会心理现象，指的是个人不 或在其他人在场时向受害人提供任何帮助。“）
-</Text>
-        </Document>
         <Document ID="F2F813CB-3F5C-472E-BFCA-C24E44CA6A10">
             <Title>逻辑</Title>
         </Document>
@@ -10877,6 +10917,24 @@ const可修数组但不能赋值，let作用域内，var全局
 遍历对象方式
 
 
+《JS精粹》
+第三章 对象
+JS除了五个基本元素一切都是对象
+只用点语法
+复制只是引用永远不会复制内容
+原型链：
+1委托（寻找）
+2反射function
+3数组依次枚举
+4删除暴露
+5程序只用一个全局变量对象
+
+
+
+
+
+
+《JS高级编程》
 第一章随便看看，了解历史
 第二章简单看看，script 里的 defer 和 async 属性了解下就好了，noscript 不用看
 第三章位运算、label、with 不用看
@@ -10905,14 +10963,14 @@ const可修数组但不能赋值，let作用域内，var全局
 
 第四章
 Js中复制：数字、字符串是把值直接复制进去了，而数组、对象是把变量地址复制进去的。
-JavaScript 函数传递参数时，都是值传递。
+JS函数传递参数时，都是传值。
 引用类型的值实际上是对其引用对象的一个指针，在内存中。
-基本类型的值就是那5种。
-实际上是四个概念，有点混乱但是不影响理解。
+基本类型的值就5种。
+实际上是四个概念组合，有点混乱但是不影响理解。
 
 堆内存和栈内存（需要看书解决）
-栈区（stack）—由编译器自动分配释放，类似栈
-堆区（heap）— 一般由程序员分配释放，不是堆
+栈区（stack）由编译器自动分配释放，类似栈
+堆区（heap）一般由程序员分配释放，不是堆
 
 环境作用域
 内部可以访问外部，后面可以访问前面， 其他不可以
@@ -11213,11 +11271,6 @@ GitHub上传项目一定要放贴图，截图也要截好的；
 
 </Text>
         </Document>
-        <Document ID="3E2D9B32-DDEA-4325-9927-57AA799EB800">
-            <Text>（1）机会成本（Opportunity Cost） - “在有限资源的情况下放弃最佳备选的价值，需要在几个相互排斥的选择之间做出选择。 假设做出最好的选择，那就是不能享受第二好的可用选择所带来的“成本”。（相关：资本成本cost of capital）
-
-（1）直觉（Intuition） - 编入个人神经网络的个人经验，这意味着你的直觉在你的个人经验范围之外是危险的。 （相关：思维快速思维缓慢thinking fast vs thinking slow—两种思维模式之间的二分法：”系统1“是快速的，本能的和情感的;”系统2“更慢，更审慎，更合乎逻辑。</Text>
-        </Document>
         <Document ID="BBF9B4D1-61BB-476B-942C-5107EE6659C8">
             <Synopsis>有时候成本本身就是回报，不是说得开花结果才是回报，能够存在就是回报</Synopsis>
         </Document>
@@ -11230,17 +11283,6 @@ GitHub上传项目一定要放贴图，截图也要截好的；
         </Document>
         <Document ID="945F5CA6-0A66-42E1-BADB-61189CAEBB88">
             <Synopsis>所谓“做你喜欢的事”无非就是因为不知道什么能够让你的多巴胺持续分泌所以你要做能让你成瘾的事情。</Synopsis>
-        </Document>
-        <Document ID="912FEE0A-776C-40B0-843B-BDAFCA094799">
-            <Text>
-（3）马斯洛的需求层次（Maslow’s Hierarchy of Needs）- 马斯洛用“生理”，“安全”，“归属”和“爱”，“自尊”，“自我实现”和“自我超越”来描述模式人类的动机通常是由此递增的… 虽然没有什么证据显示马斯洛所描述的需求排名或是存在一个确定的等级。
-
-
-（3）邓巴的数字（Dunbar’s Number） - “对于可以保持稳定社会关系的人数的一个建议的认知限制，常用的值是150。
-
-（3）零容忍（Zero Tolerance） - “严格惩治违反规定的行为，以消除不良行为。”
-
-</Text>
         </Document>
         <Document ID="0C146ABE-5EB2-45DB-B548-4CFC53E65D80">
             <Synopsis>思想就是人的行为的函数</Synopsis>
@@ -12533,10 +12575,8 @@ PS：你们的关注点能在答案本身吗？
 </Text>
         </Document>
         <Document ID="35E63B0E-B212-48E1-8573-7DD09F00728B">
-            <Title>一月算法特训班</Title>
-            <Text>第一讲
-
-1.1简介
+            <Title>算法</Title>
+            <Text>1.1简介
 60课时
 300+题目
 4个面试考察方向：
@@ -12589,7 +12629,7 @@ PS：你们的关注点能在答案本身吗？
 解释语言和编译语言
 现成的库用C++写的会快很多
 
-1.11主项定理
+1.11主项定理（万物方法）
 P与NP自行理解
 定理三种情况
 A剩余问题数
@@ -12608,7 +12648,7 @@ F(n)对问题的判断时间
 2.1
 +1洗牌问题：思路、时间复杂度、测试
 1.random
-2、3.交换位置方法洗牌（一定要想好测试的方法）和随机找位置，都不好
+2、3.交换位置方法洗牌（一定要想好测试的方法）和随机找位置，都不对
 4.找牌随机来不断看
 
 +2计算质数
@@ -12636,6 +12676,7 @@ Py数组可以自定义类型，用各种字符，自己运行一下可以知道
 确定个数，return size
 Append，选择某个位置不花时间，O1，pop也是如此（满数组的时候再append需要时间复杂度On，分期复杂度！）
 Insert，delete选完还要挪动（倒着循环插入，正着循环删除）
+Remove两种，如果是删除所有就是n2，不然就是n（找到就删除）
 复杂度：相当于for内部主体的情况再去乘n这个数
 
 
@@ -12646,6 +12687,10 @@ Insert，delete选完还要挪动（倒着循环插入，正着循环删除）
 
 理解List时间复杂度
 sort下节课讲
+
+一共五中数据结构可以resize
+
+扫雷
 
 
 
@@ -13905,18 +13950,6 @@ Log的两个作用：
 
 </Text>
         </Document>
-        <Document ID="4E6B0EA4-4D9E-4307-A4CC-A5324A768D76">
-            <Text>
-（1）沉没成本（Sunk Cost） - “已经发生，不能收回的成本”（相关：“坏钱后抛钱”throwing good money after bad，“一分钱一英镑”n for a penny, in for a pound）
-
-（1）可用性偏见（Availability Bias） - “人们倾向于将他们的判断严重地压向更新的信息，使新的观点偏向于最新的消息。”
-
-（1）确认偏见（Confirmation Bias） - 倾向于寻求，解释，支持和回忆信息，以此来证明自己先前的信念或假设，同时对可供选择的可能性给予不成比例的考虑。“（相关：认知失调cognitive dissonance）
-
-（3）损失厌恶 - “人们倾向于避免损失而获得收益”（相关：边际效用递减diminishing marginal utility）
-
-</Text>
-        </Document>
         <Document ID="99F8B4B2-E503-4032-83FF-3EB8615499BF">
             <Title>前端9</Title>
         </Document>
@@ -13934,17 +13967,6 @@ Log的两个作用：
         </Document>
         <Document ID="46030F51-8047-4BCC-9579-27775F72EC24">
             <Title>算法</Title>
-        </Document>
-        <Document ID="4714823B-81CD-402D-9F44-014F40C65102">
-            <Text>（1）选择偏倚（Selection Bias） - “选择个人，群体或数据进行分析的方式不能实现应当的随机化，使得所获的样本不能代表要分析的群体。”（相关：取样偏差sampling bias）
-
-（1）反应偏差（Response Bias） - “各种各样的认知偏差，使得参与者的反应远离准确或真实的反应。”
-
-（2）观察者效应（Observer Effect）- “观察行为会改变观察现象Changes that the act of observation will make on a phenomenon being observed.””（相关：薛定谔的猫Schrödinger’s cat）
-
-（2）生存偏见（Survivorship Bias） - 专注于“存活下来的”人或事物而无意地忽略了那些未存活下来而缺乏可见性的事物的逻辑错误。
-
-</Text>
         </Document>
         <Document ID="3B9BB359-CB86-405B-B664-C2659C0F9681">
             <Title>工作上的策略</Title>
@@ -15861,10 +15883,6 @@ Struct有函数就是类，没有函数就是结构，但是类内不加访问�
         </Document>
         <Document ID="5243BE49-808E-4883-B196-5685AFF8DFA2">
             <Title>11产品思维</Title>
-        </Document>
-        <Document ID="6E656D1E-4C43-4B62-9713-F8F0CDE8C8B9">
-            <Text>
-（3）克拉克的第三定律Clarke’s Third Law - “任何足够先进的技术都与魔法无法区分”。</Text>
         </Document>
         <Document ID="6B2C206F-9A3E-4E34-AD86-749E78588BB2">
             <Title>Denial</Title>
@@ -18225,10 +18243,6 @@ Linkedin的老总霍夫曼，人很朴素，在小破房里面开着小破车，
         <Document ID="A52EE831-08EF-4723-AAE2-31DBBC181195">
             <Title>阳志平</Title>
         </Document>
-        <Document ID="A07E5BC1-4B86-4E3F-A091-BF670745C40B">
-            <Text>（1）认知偏误（Cognitive Biases） - “以某种方式思考可能导致标准理性或良好判断标准的系统性偏差的倾向”（见认知偏见列表）
-</Text>
-        </Document>
         <Document ID="4AA28694-B16A-48D1-9257-ABF4050915CF">
             <Text>（1）意想不到的后果（Unintended Consequences） - “不是有目的的行动能预见和预期的结果”（相关：附带损害collateral damage - “在意外目标上造成的死亡，受伤或其他损害”，Goodhart法律Goodhart’s law - 当一项措施成为一个目标时，它就不再是一个好的措施“;坎贝尔定律Campbell’s law;史翠珊效应Streisand Effect - ”试图隐藏，删除或审查一条信息的现象，会导致更广泛地公布信息的意外后果 ，通常是由互联网产生的。“眼镜蛇效应”cobra effect - 当试图解决问题实际上使问题变得更糟时“;”踢马蜂窝“Kick a hornet’s nest）。</Text>
         </Document>
@@ -20222,14 +20236,20 @@ A（Appropriation，拆为己用），拆书家催化促动，促进学习者将
             <Title>编程范式游记（1）- 起源</Title>
         </Document>
         <Document ID="D8EB2410-AC81-4D02-BD82-957A5A6164F9">
-            <Title>认识自己+big picture-why+what</Title>
+            <Title>认识自己+Big picture-why+what</Title>
             <Text>Big picture:
 
-短期任务（7/12）：
-2018年目标是实习半年开始写自己的诗词项目+硕士毕业
-每个月时间看完1本书英文书
+
+
+
+
+
+交集：
+短期任务（7/12）：写自己的诗词项目+硕士毕业
 7月完成论文+实验+诗词项目入手
 8月完成论文修改+诗词项目理解
+每个月时间看完1本书英文书+一本中文书（）
+
 
 
 中期任务（2/5）：
@@ -20241,10 +20261,14 @@ A（Appropriation，拆为己用），拆书家催化促动，促进学习者将
 
 
 
+
+
+
+
+
+
 认识自己：
-
 我不是那种精细人
-
 我在压力之下会变笨
 
 
@@ -22001,7 +22025,7 @@ Entry into the market is restricted in some manner.
         </Document>
         <Document ID="E88C71B7-CB1A-4CD1-9FC7-591CB5A4FD6D">
             <Title>《写托福作文》</Title>
-            <Text>托福作文也是可以出书的，这样的内容是可以让自己怎么样实现出来一个自己喜欢喝有关的内容而非仅仅让自己喜欢什么事情而没有产出</Text>
+            <Text>托福作文+时事热点</Text>
         </Document>
         <Document ID="A9FDDB38-7E86-44D3-A574-C64230543274">
             <Synopsis>工作：自己全部时间和注意力产出的时间，与之对应是童年会让人没有能够把握自己注意力机会的时间</Synopsis>
@@ -22410,6 +22434,8 @@ The concept of price elasticity of demand measures the responsiveness of changes
         <Document ID="E1102D02-6769-49BC-BC6E-E77337B92EA0">
             <Title>《写书评》</Title>
             <Text>写书评创作节目或许也是我能够做到的一个方向，这个方向本身并不伤害人，但是可以促进思考。
+但是这些应该是我长期自己思考并且写出来作文之后的结果，这个内容本身就是一种自己学会思考的方式和结果，有趣味的事情是可以帮助到大家的。
+
 
 </Text>
         </Document>
@@ -23432,6 +23458,439 @@ GRE的Argument题目
 6
 最后，说说为什么承载信息的人大于信息。在前文《好思想，坏思想之三》中已经详细论述，此文不再累述。在一个信息过载时代如何应对信息洪流，你需要铭记：
 我现在面对信息过载的方法是：不要面对信息，而要面对人。比如如果我自己去看人工智能的报道，我效率很慢，但在开智社群，我就不会丢掉最重要的信息。也就是说，到头来，信息不重要，信息承载人最重要。这是我沉浸在信息过载社会多年的体会：信息原来不重要。所以我现在反而更加强调时间超前的地理性。 信息过载的解决方案是什么？就是信息不重要，信息承载人才最重要，你得去和时间最前端的人群连成小社群。</Text>
+        </Document>
+        <Document ID="2C4B52AC-808A-48C5-B3A5-D71CE4183FD7">
+            <Text>考满分 GRE 作文系列(1) 
+#
+考满分 GRE 作文系列(1) 
+新 GRE Issue 题库 (2015-11-16 更新) 
+By 考满分 GRE 
+考满分 GRE 作文系列(1) 
+￼
+写在前面的话 
+新 GRE 写作题库，在约 1 个月前更新之后，目前 Issue 共 152 篇，Argument 共 177 篇。最好的备考方式，理应是对每道题进行思考、提纲，再精选 20-30 道题进行全文练习。 写作部分完整的备考时间以 1-1.5 个月为宜。 
+当然如果你时间不够，那么请努力搜寻我的另一份文档《考满分备考 GRE 作文系列(3) -最新高频题》。 
+因为不少同学已经懒到不愿意上官网下载题库了，所以我当了一回搬运工。从官网上下 载全部题目后，又按顺序进行了编号和翻译，翻译仅供参考。 
+各位在考前无论如何一定要熟读题库!一定要熟读题库!一定要熟读题库! 
+最后，也不能免俗的，祝各位有幸看到这份文档的同学，梦想成真，生活幸福:) 
+改版说明 
+10 月份的版本每道题目后面没有写作要求。这版都附上了写作要求。 
+考满分 GRE 作文系列(1) 
+￼
+ETS 官网公布的 ISSUE 新题库This page contains the Issue topics for the Analytical Writing section of the GRE? revised General Test. When you take the test, you will be presented with one Issue topic from this pool. Each Issue topic consists of an issue statement or statements followed by specific task instructions that tell you how to respond to the issue. The wording of some topics in the test might vary slightly from what is presented here. Also, because there may be multiple versions of some topics with similar or identical wording but with different task instructions, it is very important to read your test topic and its specific task directions carefully and respond to the wording as it appears in the actual test. 
+1 As people rely more and more on technology to solve problems, the ability of humans to think for themselves will surely deteriorate. 当人们越来越依赖技术去解决问题，人类独立思考能力却退化。 
+Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position. 
+2 To understand the most important characteristics of a society, one must study its major cities. 
+要想了解一个社会最重要的特征，人们必须研究这个社会主要的城市。 
+Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position. 
+3 Educational institutions have a responsibility to dissuade students from pursuing fields of study in which they are unlikely to succeed. 教育机构有责任劝阻学生不要从事不太可能成功的科学研究。 
+Write a response in which you discuss the extent to which you agree or disagree with the claim. In developing and supporting your position, be sure to address the most compelling reasons and/or examples that could be used to challenge your position. 
+4 Scandals are useful because they focus our attention on problems in ways that no speaker or reformer ever could. 丑闻是有裨益的，因为它们让人们注意到一些任何演说家和改革家都无法做到的问题。 
+Write a response in which you discuss the extent to which you agree or disagree with the claim. In developing and supporting your position, be sure to address the most compelling reasons and/or 
+考满分 GRE 作文系列(1)examples that could be used to challenge your position. 
+5 Claim: Governments must ensure that their major cities receive the financial support they need in order to thrive. Reason: It is primarily in cities that a nation's cultural traditions are preserved and generated. 结论:政府需要给社会主要城市提供财政支持，来保证其繁荣发展。 原因:一个国家的文化传统主要是在城市中得以传承和发展。 
+Write a response in which you discuss the extent to which you agree or disagree with the claim and the reason on which that claim is based. 
+6 A nation should require all of its students to study the same national curriculum until they enter college. 在进行大学教育以前，国家应该要求所有的学生学习统一的国家课程。 
+Write a response in which you discuss the extent to which you agree or disagree with the recommendation and explain your reasoning for the position you take. In developing and supporting your position, describe specific circumstances in which adopting the recommendation would or would not be advantageous and explain how these examples shape your position. 
+7 Some people believe that government funding of the arts is necessary to ensure that the arts can flourish and be available to all people. Others believe that government funding of the arts threatens the integrity of the arts. 有些人认为政府对艺术的资助是有必要的，资助能够保证艺术繁荣发展，并且让所有人享受 艺术。也有人认为政府对艺术的资助会威胁到艺术的完整性。 
+Write a response in which you discuss which view more closely aligns with your own position and explain your reasoning for the position you take. In developing and supporting your position, you should address both of the views presented. 
+8 Claim: In any field—business, politics, education, government—those in power should step down after five years. Reason: The surest path to success for any enterprise is revitalization through new leadership. 结论:如商业、政治、教育、政府，在任何领域中的掌权者应该在五年后就让位。 原因:对于任何机构，最可靠的成功途径是通过新领导阶层带来革新。 
+Write a response in which you discuss the extent to which you agree or disagree with the claim and the reason on which that claim is based. 
+9 In any field of endeavor, it is impossible to make a significant contribution without first being strongly influenced by past achievements within that field. 任何研究领域，如果不首先接受该领域中过去成就的影响，就不可能会有意义重大的成功。 
+Write a response in which you discuss the extent to which you agree or disagree with the 
+￼ 
+考满分 GRE 作文系列(1) 
+￼
+statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position. 
+10 Nations should pass laws to preserve any remaining wilderness areas in their natural state, even if these areas could be developed for economic gain. 国家应该通过法令保护任何存留的原生态地区保持原状，即便这些地区可以用作商业开发。 
+Write a response in which you discuss your views on the policy and explain your reasoning for the position you take. In developing and supporting your position, you should consider the possible consequences of implementing the policy and explain how these consequences shape your position. 
+11 People's behavior is largely determined by forces not of their own making. 
+人们的行为多是被外界力量所左右，难以被自己控制。 
+Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position. 
+12 Governments should offer a free university education to any student who has been admitted to a university but who cannot afford the tuition. 对任何被大学录取但无法承担学费的学生，政府应该为他们提供免费大学教育。 
+Write a response in which you discuss your views on the policy and explain your reasoning for the position you take. In developing and supporting your position, you should consider the possible consequences of implementing the policy and explain how these consequences shape your position. 
+13 Universities should require every student to take a variety of courses outside the student's field of study. 大学应该要求每个学生选修自己专业以外的各种学科。 
+Write a response in which you discuss the extent to which you agree or disagree with the claim. In developing and supporting your position, be sure to address the most compelling reasons and/or examples that could be used to challenge your position. 
+14 A nation should require all of its students to study the same national curriculum until they enter college. 在进行大学教育以前，国家应该要求所有的学生学习统一的国家课程。 
+Write a response in which you discuss your views on the policy and explain your reasoning for the position you take. In developing and supporting your position, you should consider the possible 
+考满分 GRE 作文系列(1)consequences of implementing the policy and explain how these consequences shape your 
+position. 
+15 Educational institutions should actively encourage their students to choose fields of study that will prepare them for lucrative careers. 教育机构应该积极鼓励学生选择那些为将来高收入工作铺路的研究领域。 
+Write a response in which you discuss the extent to which you agree or disagree with the claim. In developing and supporting your position, be sure to address the most compelling reasons and/or examples that could be used to challenge your position. 
+16 Some people believe that in order to be effective, political leaders must yield to public opinion and abandon principle for the sake of compromise. Others believe that the most essential quality of an effective leader is the ability to remain consistently committed to particular principles and objectives. 有些人认为，为了保证效力，政治领袖一定要屈从民众意见，为妥协而放弃原则。也有人认 为，有效力的领导者一定具备持续坚定自己原则和目标的能力。 
+Write a response in which you discuss which view more closely aligns with your own position and explain your reasoning for the position you take. In developing and supporting your position, you should address both of the views presented. 
+17 Formal education tends to restrain our minds and spirits rather than set them free. 
+正规教育往往遏制学生的思维和精神，而不是解放思维和精神。 
+Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position. 
+18 The well-being of a society is enhanced when many of its people question authority. 
+当很多人都质疑权威时，社会才会繁荣昌盛。 
+Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position. 
+19 Governments should focus on solving the immediate problems of today rather than on trying to solve the anticipated problems of the future. 政府应该把更多的精力放在解决当务之急上，而不是试图解决未来预期问题上。 
+Write a response in which you discuss the extent to which you agree or disagree with the recommendation and explain your reasoning for the position you take. In developing and 
+￼ 
+考满分 GRE 作文系列(1)supporting your position, describe specific circumstances in which adopting the recommendation 
+would or would not be advantageous and explain how these examples shape your position. 
+20 Some people believe that college students should consider only their own talents and interests when choosing a field of study. Others believe that college students should base their choice of a field of study on the availability of jobs in that field. 有些人认为大学生应该根据自己的才能和兴趣选择研究领域。也有人认为大学生应该选择那 些容易找到工作的研究领域。 
+Write a response in which you discuss which view more closely aligns with your own position and explain your reasoning for the position you take. In developing and supporting your position, you should address both of the views presented. 
+21 Laws should be flexible enough to take account of various circumstances, times, and places. 
+法律应该根据不同的环境、时期和地点而足够灵活。 
+Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position. 
+22 Claim: The best way to understand the character of a society is to examine the character of the men and women that the society chooses as its heroes or its role models. Reason: Heroes and role models reveal a society's highest ideals. 结论:了解一个社会特点的最好方法是，考察这个社会标榜的英雄人物和模范榜样的特点。 原因:英雄人物和模范榜样揭示了一个社会的最高理念。 
+Write a response in which you discuss the extent to which you agree or disagree with the claim and the reason on which that claim is based. 
+23 Governments should place few, if any, restrictions on scientific research and development. 
+政府应该尽量不去限制科学研究和发展。 
+Write a response in which you discuss the extent to which you agree or disagree with the recommendation and explain your reasoning for the position you take. In developing and supporting your position, describe specific circumstances in which adopting the recommendation would or would not be advantageous and explain how these examples shape your position. 
+24 The best way to teach is to praise positive actions and ignore negative ones. 
+教育的最佳方式是赞扬积极的行为，忽视消极的行为。 
+Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and 
+￼ 
+考满分 GRE 作文系列(1) 
+￼
+explain how these considerations shape your position. 
+25 Governments should offer college and university education free of charge to all students. 
+政府应该为所有的学生提供免费的大学教育。 
+Write a response in which you discuss the extent to which you agree or disagree with the recommendation and explain your reasoning for the position you take. In developing and supporting your position, describe specific circumstances in which adopting the recommendation would or would not be advantageous and explain how these examples shape your position. 
+26 The luxuries and conveniences of contemporary life prevent people from developing into truly strong and independent individuals. 现代生活的奢华和便利，让人们无法成为真正强大、独立的个体。 
+Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position. 
+27 In any field of inquiry, the beginner is more likely than the expert to make important contributions. 在所有的研究领域中，新手要比专家更有可能获得重要的发现。 
+Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position. 
+28 The surest indicator of a great nation is represented not by the achievements of its rulers, artists, or scientists, but by the general welfare of its people. 一个国家的伟大体现在国民的安乐上，而不是体现在统治者、艺术家或科学家的成就上。 
+Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position. 
+29 The best way to teach—whether as an educator, employer, or parent—is to praise positive actions and ignore negative ones. 无论是教育工作者、雇主，还是父母，教育的最佳方法是是赞扬积极的行为，忽视消极的行 为。 
+Write a response in which you discuss the extent to which you agree or disagree with the claim. In developing and supporting your position, be sure to address the most compelling reasons and/or 
+考满分 GRE 作文系列(1) 
+￼
+examples that could be used to challenge your position. 
+30 Teachers' salaries should be based on their students' academic performance. 
+教师的薪水应该基于学生的学业成绩。 
+Write a response in which you discuss the extent to which you agree or disagree with the claim. In developing and supporting your position, be sure to address the most compelling reasons and/or examples that could be used to challenge your position. 
+31 Society should make efforts to save endangered species only if the potential extinction of those species is the result of human activities. 社会应该努力拯救濒危物种，只要这些物种的灭绝是人类活动的结果。 
+Write a response in which you discuss your views on the policy and explain your reasoning for the position you take. In developing and supporting your position, you should consider the possible consequences of implementing the policy and explain how these consequences shape your position. 
+32 College students should base their choice of a field of study on the availability of jobs in that field. 大学生应该选择那些就业前景好的研究领域。 
+Write a response in which you discuss the extent to which you agree or disagree with the claim. In developing and supporting your position, be sure to address the most compelling reasons and/or examples that could be used to challenge your position. 
+33 As we acquire more knowledge, things do not become more comprehensible, but more complex and mysterious. 当人们获得越来越多的知识时，事情非但没有变得更加透彻，反而更加复杂神秘。 
+Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position. 
+34 In any situation, progress requires discussion among people who have contrasting points of view. 在任何情况下，持有不同意见的人讨论过程中才会有进步。 
+Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position. 
+考满分 GRE 作文系列(1) 
+￼
+35 Educational institutions should dissuade students from pursuing fields of study in which they are unlikely to succeed. 教育机构有责任劝阻学生不要从事不太可能成功的科学研究。 
+Write a response in which you discuss your views on the policy and explain your reasoning for the position you take. In developing and supporting your position, you should consider the possible consequences of implementing the policy and explain how these consequences shape your position. 
+36 Governments should not fund any scientific research whose consequences are unclear. 
+政府不应该资助任何后果不明的科学研究。 
+Write a response in which you discuss the extent to which you agree or disagree with the recommendation and explain your reasoning for the position you take. In developing and supporting your position, describe specific circumstances in which adopting the recommendation would or would not be advantageous and explain how these examples shape your position. 
+37 Society should identify those children who have special talents and provide training for them at an early age to develop their talents. 社会应该甄别那些天资聪颖的孩子，并且年幼的时候就开始提供训练培养它们的才能。 
+Write a response in which you discuss the extent to which you agree or disagree with the recommendation and explain your reasoning for the position you take. In developing and supporting your position, describe specific circumstances in which adopting the recommendation would or would not be advantageous and explain how these examples shape your position. 
+38 It is primarily through our identification with social groups that we define ourselves. 
+人们主要通过认同社会群体来定位自己。 
+Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position. 
+39 College students should be encouraged to pursue subjects that interest them rather than the courses that seem most likely to lead to jobs. 应该鼓励大学生选择自己感兴趣的课程，而不是那些容易找到工作的课程。 
+Write a response in which you discuss the extent to which you agree or disagree with the recommendation and explain your reasoning for the position you take. In developing and supporting your position, describe specific circumstances in which adopting the recommendation would or would not be advantageous and explain how these examples shape your position. 
+40 Claim: When planning courses, educators should take into account the interests and 
+考满分 GRE 作文系列(1) 
+￼
+suggestions of their students. Reason: Students are more motivated to learn when they are interested in what they are studying. 结论:在编制教学课程时，教育工作者应该考虑学生的兴趣和建议。 原因:当学生对所学的内容感兴趣时，他们学习的动力更强。 
+Write a response in which you discuss the extent to which you agree or disagree with the claim and the reason on which that claim is based. 
+41 The greatness of individuals can be decided only by those who live after them, not by their contemporaries. 个人的伟大是由后来人评判，不是由同时代的人来评判。 
+Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position. 
+42 Students should always question what they are taught instead of accepting it passively. 
+学生应该质疑所学的知识，而不是被动的接受。 
+Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position. 
+43 The increasingly rapid pace of life today causes more problems than it solves. 
+如今节奏日益加快的生活解决的问题，远不及带来的麻烦。 
+Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position. 
+44 Claim: It is no longer possible for a society to regard any living man or woman as a hero. Reason: The reputation of anyone who is subjected to media scrutiny will eventually be diminished. 结论:当今任何社会已经不再可能将任何在世的人标榜为英雄人物。 原因:任何人遭受媒体的监察，必定会声名扫地。 
+Write a response in which you discuss the extent to which you agree or disagree with the claim and the reason on which that claim is based. 
+45 Competition for high grades seriously limits the quality of learning at all levels of education. 
+追求高分数严重地限制各阶段的学习质量。 
+考满分 GRE 作文系列(1) 
+￼
+Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position. 
+46 Universities should require every student to take a variety of courses outside the student's field of study. 大学应该要求每个学生选修自己专业以外的各种学科。 
+Write a response in which you discuss the extent to which you agree or disagree with the recommendation and explain your reasoning for the position you take. In developing and supporting your position, describe specific circumstances in which adopting the recommendation would or would not be advantageous and explain how these examples shape your position. 
+47 Educators should find out what students want included in the curriculum and then offer it to them. 教育工作者应该发掘学生对课程的需求，并满足他们。 
+Write a response in which you discuss the extent to which you agree or disagree with the recommendation and explain your reasoning for the position you take. In developing and supporting your position, describe specific circumstances in which adopting the recommendation would or would not be advantageous and explain how these examples shape your position. 
+48 Educators should teach facts only after their students have studied the ideas, trends, and concepts that help explain those facts. 学生应该先学习有助于解释知识的理念、趋势和概念后，教育工作者再教学生知识。 
+Write a response in which you discuss the extent to which you agree or disagree with the recommendation and explain your reasoning for the position you take. In developing and supporting your position, describe specific circumstances in which adopting the recommendation would or would not be advantageous and explain how these examples shape your position. 
+49 Claim: We can usually learn much more from people whose views we share than from those whose views contradict our own. Reason: Disagreement can cause stress and inhibit learning. 结论:相比意见不同的人来说，通常，我们从意见相同的人那里学的更多。 原因:意见不统一会导致压力，阻碍学习。 
+Write a response in which you discuss the extent to which you agree or disagree with the claim and the reason on which that claim is based. 
+50 Government officials should rely on their own judgment rather than unquestioningly carry out the will of the people they serve. 
+考满分 GRE 作文系列(1) 
+￼
+政府官员应该依靠自己的判断做决定，而不是不假思索地遵从大众的意愿。 
+Write a response in which you discuss the extent to which you agree or disagree with the recommendation and explain your reasoning for the position you take. In developing and supporting your position, describe specific circumstances in which adopting the recommendation would or would not be advantageous and explain how these examples shape your position. 
+51 Young people should be encouraged to pursue long-term, realistic goals rather than seek immediate fame and recognition. 应该鼓励年轻人追寻长期的、现实的目标，而不是寻求短期的声名。 
+Write a response in which you discuss the extent to which you agree or disagree with the recommendation and explain your reasoning for the position you take. In developing and supporting your position, describe specific circumstances in which adopting the recommendation would or would not be advantageous and explain how these examples shape your position. 
+52 The best way to teach is to praise positive actions and ignore negative ones. 
+教育的最佳方式是赞扬积极的行为，忽视消极的行为。 
+Write a response in which you discuss the extent to which you agree or disagree with the recommendation and explain your reasoning for the position you take. In developing and supporting your position, describe specific circumstances in which adopting the recommendation would or would not be advantageous and explain how these examples shape your position. 
+53 If a goal is worthy, then any means taken to attain it are justifiable. 
+只要值得，不择手段达到目的是合理的。 
+Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position. 
+54 In order to become well-rounded individuals, all college students should be required to take courses in which they read poetry, novels, mythology, and other types of imaginative literature. 为了成为全面发展的个体，应该要求所有的大学生选择可以阅读诗歌、小说、神话等想象力 文学的课程。 
+Write a response in which you discuss the extent to which you agree or disagree with the recommendation and explain your reasoning for the position you take. In developing and supporting your position, describe specific circumstances in which adopting the recommendation would or would not be advantageous and explain how these examples shape your position. 
+55 In order for any work of art—for example, a film, a novel, a poem, or a song—to have merit, it must be understandable to most people. 
+考满分 GRE 作文系列(1) 若是任何艺术作品(例如，电影、文学、雕塑或者歌曲)存在价值，都必须易于大多数人理 
+解。 
+Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position. 
+56 Many important discoveries or creations are accidental: it is usually while seeking the answer to one question that we come across the answer to another. 很多重要的发现或创造都是偶然的:通常，人们为一个问题寻求答案时，通常获得其他问题 的答案。 
+Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position. 
+57 The main benefit of the study of history is to dispel the illusion that people living now are significantly different from people who lived in earlier times. 研究历史的最大益处在于打破这样的幻想:现代人和历史上的人有很大不同。 
+Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position. 
+58 Learning is primarily a matter of personal discipline; students cannot be motivated by school or college alone. 从根本上讲，教育是个人的事情。学校不可能单方面激励学生。 
+Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position. 
+59 Scientists and other researchers should focus their research on areas that are likely to benefit the greatest number of people. 科学家和科研人员应该研究更容易造福大众的领域。 
+Write a response in which you discuss the extent to which you agree or disagree with the recommendation and explain your reasoning for the position you take. In developing and supporting your position, describe specific circumstances in which adopting the recommendation would or would not be advantageous and explain how these examples shape your position. 
+￼ 
+考满分 GRE 作文系列(1) 
+￼
+60 Politicians should pursue common ground and reasonable consensus rather than elusive ideals. 
+政治家应该寻求共同点和理性的一致，而不是深奥的理想。 
+Write a response in which you discuss the extent to which you agree or disagree with the recommendation and explain your reasoning for the position you take. In developing and supporting your position, describe specific circumstances in which adopting the recommendation would or would not be advantageous and explain how these examples shape your position. 
+61 People should undertake risky action only after they have carefully considered its consequences. 人们在从事危险活动之前应该认真地考虑一下后果。 
+Write a response in which you discuss the extent to which you agree or disagree with the recommendation and explain your reasoning for the position you take. In developing and supporting your position, describe specific circumstances in which adopting the recommendation would or would not be advantageous and explain how these examples shape your position. 
+62 Leaders are created by the demands that are placed on them. 
+领导者主要是由身负的责任所造就的。 
+Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position. 
+63 There is little justification for society to make extraordinary efforts—especially at a great cost in money and jobs—to save endangered animal or plant species. 特别是考虑到花费代价和精力，对于任何社会，投入巨大的努力拯救濒危的动植物是不合理 的。 
+Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position. 
+64 The human mind will always be superior to machines because machines are only tools of human minds. 人类智慧终将优于机器，因为机器只是人类智慧的工具。 
+Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position. 
+考满分 GRE 作文系列(1) 
+￼
+65 Every individual in a society has a responsibility to obey just laws and to disobey and resist unjust laws. 每个社会成员都有责任遵守公正的法律，违抗不公平的法律。 
+Write a response in which you discuss the extent to which you agree or disagree with the claim. In developing and supporting your position, be sure to address the most compelling reasons and/or examples that could be used to challenge your position. 
+66 People who are the most deeply committed to an idea or policy are also the most critical of it. 
+对于一种想法或者政策最忠实的人往往是那些对其最严厉的人。 
+Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position. 
+67 Some people believe that society should try to save every plant and animal species, despite the expense to humans in effort, time, and financial well-being. Others believe that society need not make extraordinary efforts, especially at a great cost in money and jobs, to save endangered species. 有些人认为，社会应该拯救所有濒危的动植物，尽管花费人类的精力、时间和资金。也有人 认为，社会没有必要拯救濒危物种，特别是需要花费大量的资金和精力。 
+Write a response in which you discuss which view more closely aligns with your own position and explain your reasoning for the position you take. In developing and supporting your position, you should address both of the views presented. 
+68 Some people believe that the purpose of education is to free the mind and the spirit. Others believe that formal education tends to restrain our minds and spirits rather than set them free. 有些人认为教育的目的是解放思维和精神。也有人认为正规教育往往遏制学生的思维和精 神，而不是解放它们。 
+Write a response in which you discuss which view more closely aligns with your own position and explain your reasoning for the position you take. In developing and supporting your position, you should address both of the views presented. 
+69 Some people believe it is often necessary, even desirable, for political leaders to withhold information from the public. Others believe that the public has a right to be fully informed. 有些人认为政治领导向大众隐瞒信息是有必要的，甚至是有益的。也有人认为公众有知情权 利。 
+Write a response in which you discuss which view more closely aligns with your own position and explain your reasoning for the position you take. In developing and supporting your position, you 
+考满分 GRE 作文系列(1)should address both of the views presented. 
+70 Claim: Universities should require every student to take a variety of courses outside the student's major field of study. Reason: Acquiring knowledge of various academic disciplines is the best way to become truly educated. 
+结论:大学应该要求每个学生选修自己专业以外的各种学科。 原因:接受真正的教育的最佳途径是获得各种学科知识。 
+Write a response in which you discuss the extent to which you agree or disagree with the claim and the reason on which that claim is based. 
+71 Young people should be encouraged to pursue long-term, realistic goals rather than seek immediate fame and recognition. 应该鼓励年轻人追寻长期的、现实的目标，而不是寻求短期的声名。 
+Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position. 
+72 Governments should not fund any scientific research whose consequences are unclear. 
+政府不应该资助任何后果不明的科学研究。 
+Write a response in which you discuss your views on the policy and explain your reasoning for the position you take. In developing and supporting your position, you should consider the possible consequences of implementing the policy and explain how these consequences shape your position. 
+73 Colleges and universities should require all faculty to spend time working outside the academic world in professions relevant to the courses they teach. 学院和大学应该要求所有的教员拿出时间，参与学术界以外与教学科目相关的领域工作。 
+Write a response in which you discuss your views on the policy and explain your reasoning for the position you take. In developing and supporting your position, you should consider the possible consequences of implementing the policy and explain how these consequences shape your position. 
+74 Knowing about the past cannot help people to make important decisions today. 
+了解过去不能帮助人们在现在做重要的决定。 
+Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and 
+￼ 
+考满分 GRE 作文系列(1)explain how these considerations shape your position. 
+75 In this age of intensive media coverage, it is no longer possible for a society to regard any living man or woman as a hero. 在这个媒体无孔不入的时代，当今任何社会已经不再可能将任何在世的人标榜为英雄人物。 
+Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position. 
+76 We can usually learn much more from people whose views we share than from people whose views contradict our own. 相比意见不同的人来说，通常，我们从意见相同的人那里学的更多。 
+Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position. 
+77 The most effective way to understand contemporary culture is to analyze the trends of its youth. 了解当代文化最有效的方式是分析当代年轻人的潮流。 
+Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position. 
+78 People's attitudes are determined more by their immediate situation or surroundings than by society as a whole. 人们的态度更多是由即时环境决定，而不是社会整体环境。 
+Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position. 
+79 Claim: The best test of an argument is its ability to convince someone with an opposing viewpoint. Reason: Only by being forced to defend an idea against the doubts and contrasting views of others does one really discover the value of that idea. 结论:最能说明辩论效果的是，让持有相反观点的人信服。 原因:面对疑问和他人相反的观点，只有一个人为某观点辩护时，他才能发现某观点的价值 
+￼ 
+考满分 GRE 作文系列(1) 
+￼
+所在。 
+Write a response in which you discuss the extent to which you agree or disagree with the claim and the reason on which that claim is based. 
+80 Nations should suspend government funding for the arts when significant numbers of their citizens are hungry or unemployed. 当有公民为饥饿和失业所困时，政府需要中止对艺术的资助。 
+Write a response in which you discuss the extent to which you agree or disagree with the recommendation and explain your reasoning for the position you take. In developing and supporting your position, describe specific circumstances in which adopting the recommendation would or would not be advantageous and explain how these examples shape your position. 
+81 All parents should be required to volunteer time to their children's schools. 
+所有的家长都必须无偿地为子女的学校花费时间。 
+Write a response in which you discuss the extent to which you agree or disagree with the recommendation and explain your reasoning for the position you take. In developing and supporting your position, describe specific circumstances in which adopting the recommendation would or would not be advantageous and explain how these examples shape your position. 
+82 Colleges and universities should require their students to spend at least one semester studying in a foreign country. 学院或大学应该要求学生在国外至少留学一个学期。 
+Write a response in which you discuss the extent to which you agree or disagree with the recommendation and explain your reasoning for the position you take. In developing and supporting your position, describe specific circumstances in which adopting the recommendation would or would not be advantageous and explain how these examples shape your position. 
+83 Teachers' salaries should be based on the academic performance of their students. 
+教师的薪水应该基于学生的学业成绩。 
+Write a response in which you discuss the extent to which you agree or disagree with the recommendation and explain your reasoning for the position you take. In developing and supporting your position, describe specific circumstances in which adopting the recommendation would or would not be advantageous and explain how these examples shape your position. 
+84 It is no longer possible for a society to regard any living man or woman as a hero. 
+当今任何社会已经不再可能将任何在世的人标榜为英雄人物。 
+Write a response in which you discuss the extent to which you agree or disagree with the claim. In developing and supporting your position, be sure to address the most compelling reasons and/or 
+考满分 GRE 作文系列(1) 
+￼
+examples that could be used to challenge your position. 
+85 Some people believe that in order to thrive, a society must put its own overall success before the well-being of its individual citizens. Others believe that the well-being of a society can only be measured by the general welfare of all its people. 有些人认为，为了保证社会繁荣，相比个体民众的安乐，社会整体的成功更为重要。也有人 认为，一个社会的繁荣，只能通过社会民众的安乐来衡量。 
+Write a response in which you discuss which view more closely aligns with your own position and explain your reasoning for the position you take. In developing and supporting your position, you should address both of the views presented. 
+86 Some people believe that government officials must carry out the will of the people they serve. Others believe that officials should base their decisions on their own judgment. 有些人认为政府官员应该遵从大众的意愿。也有人认为政府官员依靠自己的判断做决定。 
+Write a response in which you discuss which view more closely aligns with your own position and explain your reasoning for the position you take. In developing and supporting your position, you should address both of the views presented. 
+87 Claim: Any piece of information referred to as a fact should be mistrusted, since it may well be proven false in the future. Reason: Much of the information that people assume is factual actually turns out to be inaccurate. 结论:任何被称作事实的信息都应该被怀疑，因为它们很可能在将来被证明是错误的。 原因:很多被人们称作是事实的信息结果是错误的。 
+Write a response in which you discuss the extent to which you agree or disagree with the claim and the reason on which that claim is based. 
+88 Claim: Nations should suspend government funding for the arts when significant numbers of their citizens are hungry or unemployed. Reason: It is inappropriate—and, perhaps, even cruel—to use public resources to fund the arts when people's basic needs are not being met. 结论:当有公民为饥饿和失业所困时，政府需要中止对艺术的资助。 原因:当人们的基本需求得不到保障时，使用公共资源扶持艺术是不合适的，甚至是残忍的。 
+Write a response in which you discuss the extent to which you agree or disagree with the claim and the reason on which that claim is based. 
+89 Claim: Many problems of modern society cannot be solved by laws and the legal system. Reason: Laws cannot change what is in people's hearts or minds. 结论:现代社会的很多问题不能通过司法途径解决。 原因:法律无法改变人们的感情和思想。 
+考满分 GRE 作文系列(1)Write a response in which you discuss the extent to which you agree or disagree with the claim 
+and the reason on which that claim is based. 
+90 Educators should take students' interests into account when planning the content of the courses they teach. 在编制教学内容时，教育工作者应该考虑学生的兴趣。 
+Write a response in which you discuss the extent to which you agree or disagree with the recommendation and explain your reasoning for the position you take. In developing and supporting your position, describe specific circumstances in which adopting the recommendation would or would not be advantageous and explain how these examples shape your position. 
+91 The primary goal of technological advancement should be to increase people's efficiency so that they have more leisure time. 技术进步的首要目的是增加人们的效率，以便大家有更多闲暇的时间。 
+Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position. 
+92 Educators should base their assessment of students' learning not on students' grasp of facts but on the ability to explain the ideas, trends, and concepts that those facts illustrate. 在评估学生的学习情况时，教育工作者应该关注学生是否能够解释所学知识阐明的思想、趋 势和概念，而不是是否牢记知识。 
+Write a response in which you discuss the extent to which you agree or disagree with the recommendation and explain your reasoning for the position you take. In developing and supporting your position, describe specific circumstances in which adopting the recommendation would or would not be advantageous and explain how these examples shape your position. 
+93 Unfortunately, in contemporary society, creating an appealing image has become more important than the reality or truth behind that image. 很不幸，在当代社会，打造一个引人入胜的外表已经变得比外表下的内容更加重要。 
+Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position. 
+94 The effectiveness of a country's leaders is best measured by examining the well-being of that country's citizens. 国家领导工作效能最好通过国民的安乐来评判。 
+￼ 
+考满分 GRE 作文系列(1) 
+￼
+Write a response in which you discuss the extent to which you agree or disagree with the claim. In developing and supporting your position, be sure to address the most compelling reasons and/or examples that could be used to challenge your position. 
+95 All parents should be required to volunteer time to their children's schools. 
+所有的家长都必须无偿地为子女的学校花费时间。 
+Write a response in which you discuss the extent to which you agree or disagree with the claim. In developing and supporting your position, be sure to address the most compelling reasons and/or examples that could be used to challenge your position. 
+96 A nation should require all of its students to study the same national curriculum until they enter college. 在进行大学教育以前，国家应该要求所有的学生学习统一的国家课程。 
+Write a response in which you discuss the extent to which you agree or disagree with the claim. In developing and supporting your position, be sure to address the most compelling reasons and/or examples that could be used to challenge your position. 
+97 Colleges and universities should require their students to spend at least one semester studying in a foreign country. 学院或大学应该要求学生在国外至少学习一个学期。 
+Write a response in which you discuss the extent to which you agree or disagree with the claim. In developing and supporting your position, be sure to address the most compelling reasons and/or examples that could be used to challenge your position. 
+98 Educational institutions should actively encourage their students to choose fields of study in which jobs are plentiful. 教育机构应该鼓励大学生选择那些就业前景好的研究领域。 
+Write a response in which you discuss your views on the policy and explain your reasoning for the position you take. In developing and supporting your position, you should consider the possible consequences of implementing the policy and explain how these consequences shape your position. 
+99 People's behavior is largely determined by forces not of their own making. 
+人们的行为多是被外界力量所左右，难以被自己控制。 
+Write a response in which you discuss the extent to which you agree or disagree with the claim. In developing and supporting your position, be sure to address the most compelling reasons and/or examples that could be used to challenge your position. 
+100 Colleges and universities should require their students to spend at least one semester studying 
+考满分 GRE 作文系列(1) in a foreign country. 
+学院或大学应该要求学生在国外至少学习一个学期。 
+Write a response in which you discuss your views on the policy and explain your reasoning for the position you take. In developing and supporting your position, you should consider the possible consequences of implementing the policy and explain how these consequences shape your position. 
+101 Although innovations such as video, computers, and the Internet seem to offer schools improved methods for instructing students, these technologies all too often distract from real learning. 尽管诸如电视、电脑和互联网等发明似乎给学校教育提供改良的手段，但是这些技术往往是 使人偏离真正的学习。 
+Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position. 
+102 Universities should require every student to take a variety of courses outside the student's field of study. 大学应该要求每个学生选修自己专业以外的各种学科。 
+Write a response in which you discuss your views on the policy and explain your reasoning for the position you take. In developing and supporting your position, you should consider the possible consequences of implementing the policy and explain how these consequences shape your position. 
+103 The best ideas arise from a passionate interest in commonplace things. 
+带着炙热的兴趣，最好的主意往往来自平凡的事情。 
+Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position. 
+104 To be an effective leader, a public official must maintain the highest ethical and moral standards. 想成为一名有效力的领导则，政府官员必须坚守最高的伦理和道德标准。 
+Write a response in which you discuss the extent to which you agree or disagree with the claim. In developing and supporting your position, be sure to address the most compelling reasons and/or examples that could be used to challenge your position. 
+￼ 
+考满分 GRE 作文系列(1) 
+￼
+105 Claim: Imagination is a more valuable asset than experience. Reason: People who lack experience are free to imagine what is possible without the constraints of established habits and attitudes. 结论:相比经验，想象力是更重要的财富。 原因:缺乏经验的人更容易放飞想象，而不受既定的习惯和态度所禁锢。 
+Write a response in which you discuss the extent to which you agree or disagree with the claim and the reason on which that claim is based. 
+106 In most professions and academic fields, imagination is more important than knowledge. 
+在任何职业或学术领域，想象力比知识重要。 
+Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position. 
+107 To be an effective leader, a public official must maintain the highest ethical and moral standards. 想成为一名有效力的领导者，政府官员必须坚守最高的伦理和道德标准。 
+Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position. 
+108 Critical judgment of work in any given field has little value unless it comes from someone who is an expert in that field. 批判性的判断在任何领域当中都是没什么用处的，除非判断来自于该领域专家。 
+Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position. 
+109 Some people believe that scientific discoveries have given us a much better understanding of the world around us. Others believe that science has revealed to us that the world is infinitely more complex than we ever realized. 有些人认为，科学发现让人们更清楚地认识周围的世界。也有人认为，科学展现给人们一个 比我们想象的复杂的多的世界。 
+Write a response in which you discuss which view more closely aligns with your own position and explain your reasoning for the position you take. In developing and supporting your position, you should address both of the views presented. 
+考满分 GRE 作文系列(1) 
+￼
+110 Critical judgment of work in any given field has little value unless it comes from someone who is an expert in that field. 批判性的判断在任何领域当中都是没什么用处的，除非判断来自于该领域专家。 
+Write a response in which you discuss the extent to which you agree or disagree with the claim. In developing and supporting your position, be sure to address the most compelling reasons and/or examples that could be used to challenge your position. 
+111 In any profession—business, politics, education, government—those in power should step down after five years. 如商业、政治、教育、政府，在任何领域中的掌权者应该在五年后就让位。 
+Write a response in which you discuss the extent to which you agree or disagree with the claim. In developing and supporting your position, be sure to address the most compelling reasons and/or examples that could be used to challenge your position. 
+112 Requiring university students to take a variety of courses outside their major fields of study is the best way to ensure that students become truly educated. 让每个大学生选修自己专业以外的各种学科，是接受真正的教育的最佳途径。 
+Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position. 
+113 Claim: The surest indicator of a great nation is not the achievements of its rulers, artists, or scientists. Reason: The surest indicator of a great nation is actually the welfare of all its people. 结论:一个国家的伟大不是体现在统治者、艺术家或科学家的成就上。 原因:一个国家的伟大体现在国民的安乐上。 
+Write a response in which you discuss the extent to which you agree or disagree with the claim and the reason on which that claim is based. 
+114 Any leader who is quickly and easily influenced by shifts in popular opinion will accomplish little. 若是短期地、轻易地被民众的意见所左右，任何领导必定一事无成。 
+Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position. 
+考满分 GRE 作文系列(1) 
+￼
+115 Government officials should rely on their own judgment rather than unquestioningly carry out the will of the people whom they serve. 政府官员应该依靠自己的判断做决定，而不是不假思索地遵从大众的意愿。 
+Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position. 
+116 A nation should require all of its students to study the same national curriculum until they enter college. 在进行大学教育以前，国家应该要求所有的学生学习统一的国家课程。 
+Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position. 
+117 It is primarily in cities that a nation's cultural traditions are generated and preserved. 
+一个国家的文化传统主要是在城市中得以传承和发展。 
+Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position. 
+118 We can learn much more from people whose views we share than from people whose views contradict our own. 相比意见不同的人来说，我们从意见相同的人那里学的更多。 
+Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position. 
+119 When old buildings stand on ground that modern planners feel could be better used for modern purposes, modern development should be given precedence over the preservation of historic buildings. 当现代规划者认为历史建筑物所在地可以用作现代开发时，相比历史建筑的保护，现代开发 应该放在首位。 
+Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and 
+考满分 GRE 作文系列(1)explain how these considerations shape your position. 
+120 Claim: The surest indicator of a great nation must be the achievements of its rulers, artists, or scientists. Reason: Great achievements by a nation's rulers, artists, or scientists will ensure a good life for the majority of that nation's people. 结论:一个国家的伟大体现在统治者、艺术家或科学家的成就上。 原因:统治者、艺术家或科学家的成就保证了大部分国民的生活安乐。 
+Write a response in which you discuss the extent to which you agree or disagree with the claim and the reason on which that claim is based. 
+121 Some people claim that you can tell whether a nation is great by looking at the achievements of its rulers, artists, or scientists. Others argue that the surest indicator of a great nation is, in fact, the general welfare of all its people. 有些人认为，一个国家的伟大不是体现在统治者、艺术家或科学家的成就上。也有人认为， 一个国家的伟大体现在国民的安乐 
+上。 
+Write a response in which you discuss which view more closely aligns with your own position and explain your reasoning for the position you take. In developing and supporting your position, you should address both of the views presented. 
+122 The best way to understand the character of a society is to examine the character of the men and women that the society chooses as its heroes or its role models. 了解一个社会特点的最好方法是，考察这个社会标榜的英雄人物和模范榜样的特点。 
+Write a response in which you discuss the extent to which you agree or disagree with the claim. In developing and supporting your position, be sure to address the most compelling reasons and/or examples that could be used to challenge your position. 
+123 The best way for a society to prepare its young people for leadership in government, industry, or other fields is by instilling in them a sense of cooperation, not competition. 社会培养年轻一代胜任政府、工业等领域的领导职位，最佳途径是灌输合作精神，而不是竞 争精神。 
+Write a response in which you discuss the extent to which you agree or disagree with the claim. In developing and supporting your position, be sure to address the most compelling reasons and/or examples that could be used to challenge your position. 
+124 All college and university students would benefit from spending at least one semester studying in a foreign country. 学院或大学应该要求学生在国外至少学习一个学期。 
+￼ 
+考满分 GRE 作文系列(1) 
+￼
+Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position. 
+125 Some people claim that a nation's government should preserve its wilderness areas in their natural state. Others argue that these areas should be developed for potential economic gain. 有些人认为，国家应该通过法令保护任何存留的原生态地区保持原状。也有人认为，这些地 区应该用作商业开发。 
+Write a response in which you discuss which view more closely aligns with your own position and explain your reasoning for the position you take. In developing and supporting your position, you should address both of the views presented. 
+126 In most professions and academic fields, imagination is more important than knowledge. 
+在任何职业或学术领域，想象力比知识重要。 
+Write a response in which you discuss the extent to which you agree or disagree with the claim. In developing and supporting your position, be sure to address the most compelling reasons and/or examples that could be used to challenge your position. 
+127 The surest indicator of a great nation is not the achievements of its rulers, artists, or scientists, but the general well-being of all its people. 一个国家的伟大体现在国民的安乐上，而不是体现在统治者、艺术家或科学家的成就上。 
+Write a response in which you discuss the extent to which you agree or disagree with the claim. In developing and supporting your position, be sure to address the most compelling reasons and/or examples that could be used to challenge your position. 
+128 Some people argue that successful leaders in government, industry, or other fields must be highly competitive. Other people claim that in order to be successful, a leader must be willing and able to cooperate with others. 有些人认为，政府、工业或其他领域的成功领导者一定是具有极强的竞争精神的。也有人认 为，为了成功，领导者必须情愿并且有能力和他人合作。 
+Write a response in which you discuss which view more closely aligns with your own position and explain your reasoning for the position you take. In developing and supporting your position, you should address both of the views presented. 
+129 College students should base their choice of a field of study on the availability of jobs in that field. 大学生应该选择那些容易找到工作的研究领域。 
+Write a response in which you discuss the extent to which you agree or disagree with the recommendation and explain your reasoning for the position you take. In developing and supporting your position, describe specific circumstances in which adopting the recommendation would or would not be advantageous and explain how these examples shape your position. 
+130 Some people believe that corporations have a responsibility to promote the well-being of the societies and environments in which they operate. Others believe that the only responsibility of corporations, provided they operate within the law, is to make as much money as possible. 有人认为，公司有责任促进所在社会的福祉和环境。也有人认为，公司唯一的责任就是，在 不违反法律的前提下多赚钱。 
+Write a response in which you discuss which view more closely aligns with your own position and explain your reasoning for the position you take. In developing and supporting your position, you should address both of the views presented. 
+131 Claim: Researchers should not limit their investigations to only those areas in which they expect to discover something that has an immediate, practical application. Reason: It is impossible to predict the outcome of a line of research with any certainty. 结论:科研人员不应该仅仅将研究工作限制在容易在短期内有实际应用的领域。 原因:不可能肯定地预测一系列研究带来的结果。 
+Write a response in which you discuss the extent to which you agree or disagree with the claim and the reason on which that claim is based. 
+132 Some people believe that our ever-increasing use of technology significantly reduces our opportunities for human interaction. Other people believe that technology provides us with new and better ways to communicate and connect with one another. 有些人认为，推陈出新的技术应用减少了人们相互交流的机会。也有人认为，技术给人们带 来全新的、更好的交流方式。 
+Write a response in which you discuss which view more closely aligns with your own position and explain your reasoning for the position you take. In developing and supporting your position, you should address both of the views presented. 
+133 Claim: Knowing about the past cannot help people to make important decisions today. Reason: The world today is significantly more complex than it was even in the relatively recent past. 结论:了解过去不能帮助人们在现在做重要的决定。 原因:相比刚刚发生的过去，今天的世界已经变得更加复杂。 
+Write a response in which you discuss the extent to which you agree or disagree with the claim and the reason on which that claim is based. 
+134 Claim: Knowing about the past cannot help people to make important decisions today. 
+考满分 GRE 作文系列(1) 
+￼
+Reason: We are not able to make connections between current events and past events until we have some distance from both. 结论:了解过去不能帮助人们在现在做重要的决定。 原因:人们尚且不能联系过去和现在的事情，除非两者都以成为历史。 
+Write a response in which you discuss the extent to which you agree or disagree with the claim and the reason on which that claim is based. 
+135 Educational institutions should actively encourage their students to choose fields of study that will prepare them for lucrative careers. 教育机构应该积极鼓励学生选择那些为将来高收入工作铺路的研究领域。 
+Write a response in which you discuss your views on the policy and explain your reasoning for the position you take. In developing and supporting your position, you should consider the possible consequences of implementing the policy and explain how these consequences shape your position. 
+136 Educational institutions should actively encourage their students to choose fields of study in which jobs are plentiful. 教育机构应该积极鼓励学生选择那些就业前景好的研究领域。 
+Write a response in which you discuss the extent to which you agree or disagree with the claim. In developing and supporting your position, be sure to address the most compelling reasons and/or examples that could be used to challenge your position. 
+137 Educational institutions have a responsibility to dissuade students from pursuing fields of study in which they are unlikely to succeed. 教育机构有责任劝阻学生不要从事不太可能成功的科学研究。 
+Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position. 
+138 Some people believe that competition for high grades motivates students to excel in the classroom. Others believe that such competition seriously limits the quality of real learning. 有些人认为，追求高分数促进学生在课堂表现优秀。也有人认为，这样的竞争只会限制学习 的质量。 
+Write a response in which you discuss which view more closely aligns with your own position and explain your reasoning for the position you take. In developing and supporting your position, you should address both of the views presented. 
+139 Claim: Major policy decisions should always be left to politicians and other government 
+考满分 GRE 作文系列(1) 
+￼
+experts. Reason: Politicians and other government experts are more informed and thus have better judgment and perspective than do members of the general public. 结论:主要的政策问题应该交给政治家和其他政府专家决策。 原因:政治家和其他政府专家比普通百姓见多识广，而且有更好的判断力和洞察力。 
+Write a response in which you discuss the extent to which you agree or disagree with the claim and the reason on which that claim is based. 
+140 Some people believe that universities should require every student to take a variety of courses outside the student's field of study. Others believe that universities should not force students to take any courses other than those that will help prepare them for jobs in their chosen fields. 有些人认为大学应该要求每个学生选修自己专业以外的各种学科。也有人认为大学不应该强 迫学生学习任何课程，除非这些课程有利于学生在所选的领域就业。 
+Write a response in which you discuss which view more closely aligns with your own position and explain your reasoning for the position you take. In developing and supporting your position, you should address both of the views presented. 
+141 It is more harmful to compromise one's own beliefs than to adhere to them. 
+折衷自己的信仰比坚持信仰要有害。 
+Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position. 
+142 Claim: Colleges and universities should specify all required courses and eliminate elective courses in order to provide clear guidance for students. Reason: College students—like people in general—prefer to follow directions rather than make their own decisions. 结论:为了给学生提供一个明确的方向，学院和大学应该指定所有的必修课程，移除选修课 程。 
+原因:和大众一样，大学生更喜欢按部就班，不喜欢自己做决定。 
+Write a response in which you discuss the extent to which you agree or disagree with the claim and the reason on which that claim is based. 
+143 No field of study can advance significantly unless it incorporates knowledge and experience from outside that field. 在任何研究领域，除非有该领域之外的人引进他们的知识和经验，否则该领域就很难获得巨 大的发展。 
+Write a response in which you discuss the extent to which you agree or disagree with the 
+考满分 GRE 作文系列(1) 
+￼
+statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position. 
+144 True success can be measured primarily in terms of the goals one sets for oneself. 
+真正的成功只能通过自己设定的目标来衡量。 
+Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position. 
+145 The general welfare of a nation's people is a better indication of that nation's greatness than are the achievements of its rulers, artists, or scientists. 相比统治者、艺术家或科学家的成就上，国民的安乐更能体现一个国家的伟大。 
+Write a response in which you discuss the extent to which you agree or disagree with the claim. In developing and supporting your position, be sure to address the most compelling reasons and/or examples that could be used to challenge your position. 
+146 The best test of an argument is the argument's ability to convince someone with an opposing viewpoint. 最能说明辩论效果的是，让持有相反观点的人信服。 
+Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position. 
+147 The effectiveness of a country's leaders is best measured by examining the well-being of that country's citizens. 国家领导工作效能最好通过国民的安乐来评判。 
+Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position. 
+148 Nations should pass laws to preserve any remaining wilderness areas in their natural state. 
+国家应该通过法令保护任何存留的原生态地区保持原状。 
+Write a response in which you discuss the extent to which you agree or disagree with the claim. In developing and supporting your position, be sure to address the most compelling reasons and/or examples that could be used to challenge your position. 
+考满分 GRE 作文系列(1) 
+￼
+149 In any field—business, politics, education, government—those in power should be required to step down after five years. 如商业、政治、教育、政府，在任何领域中的掌权者应该在五年后就让位。 
+Write a response in which you discuss your views on the policy and explain your reasoning for the position you take. In developing and supporting your position, you should consider the possible consequences of implementing the policy and explain how these consequences shape your position. 
+150. Some people believe that corporations have a responsibility to promote the well-being of the societies and environments in which they operate. Others believe that the only responsibility of corporations, provided they operate within the law, is to make as much money as possible. 一些人认为企业有责任来推进社会的富足感以及维护他们所在的环境。另一些人认为企业唯 一的责任，如果它在法律的允许下运营的话，就是去更多地赚钱。 
+Write a response in which you discuss which view more closely aligns with your own position and explain your reasoning for the position you take. In developing and supporting your position, you should address both of the views presented. 
+151. Some people claim that the goal of politics should be the pursuit of an ideal. Others argue that the goal should be finding common ground and reaching reasonable consensus. 一些人认为政策的目标应该是追求理想状态，而另一些人则认为找到利益共通处以及达到合 理的一致。 
+Write a response in which you discuss which view more closely aligns with your own position and explain your reasoning for the position you take. In developing and supporting your position, you should address both of the views presented. 
+152. The best way to solve environmental problems caused by consumer-generated waste is for towns and cities to impose strict limits on the amount of trash they will accept from each household. 解决由消费者产生垃圾的环境问题的最好的办法就是在城镇中强制每家每户所能丢弃垃圾 的额度限制。 
+Write a response in which you discuss the extent to which you agree or disagree with the claim. In developing and supporting your position, be sure to address the most compelling reasons and/or examples that could be used to challenge your position. 
+</Text>
         </Document>
         <Document ID="85C52A87-65B1-478E-B383-5924083B8473">
             <Title>2018年汇总</Title>
@@ -27381,12 +27840,6 @@ I hope I can make it across the border. I hope to see my friend and shake his ha
         </Document>
         <Document ID="CFEB5191-DF7E-46AE-965F-E1F44584D287">
             <Synopsis>所谓的极端信息过载本身就是人际八卦之中可以实现的而并非需要我们现在的互联网。</Synopsis>
-        </Document>
-        <Document ID="633F7424-7499-411B-8251-F7CAC51C66D3">
-            <Text>
-（1）主动聆听（Active Listening）- “要求聆听者完全集中，理解，回应，然后记住所说的话”。
-
-（1）激励措施（Incentives）- “激励个人采取行动的动机的事物”（相关：胡萝卜和大棒carrot and stick - “奖励和惩罚相结合的诱导行为的政策”）</Text>
         </Document>
         <Document ID="99231F8E-10E5-4DA8-BC70-5018EB2F6461">
             <Title>《格局逆袭》</Title>
@@ -32897,8 +33350,8 @@ vow
 二十四、重视理由倾向
 二十五、lollapalooza倾向——数种心理倾向共同作用造成极端后果的倾向</Text>
         </Document>
-        <Document ID="A9B1F13D-4A81-4954-B996-5FEA25084339">
-            <Title>论文</Title>
+        <Document ID="A01A9B2E-DB8C-4F0B-9650-2AF267FA6096">
+            <Title>前端8</Title>
         </Document>
     </Documents>
 </SearchIndexes>

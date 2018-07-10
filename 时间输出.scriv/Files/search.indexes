@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SearchIndexes Version="1.0">
     <Documents>
-        <Document ID="A9B1F13D-4A81-4954-B996-5FEA25084339">
-            <Title>论文</Title>
+        <Document ID="A01A9B2E-DB8C-4F0B-9650-2AF267FA6096">
+            <Title>前端8</Title>
         </Document>
         <Document ID="C3B8C0C6-7EEA-4188-82BD-55151102F1BD">
             <Title>建模</Title>
@@ -4429,6 +4429,9 @@ Perspectives for families
         </Document>
         <Document ID="5BDE23B5-B99E-4B9F-A076-67AD2BADA71D">
             <Title>3预处理</Title>
+        </Document>
+        <Document ID="C23BA516-924B-4F7D-AD99-A5D0B76436FD">
+            <Title>经济学-CC</Title>
         </Document>
         <Document ID="A6829891-664F-4E9D-AED5-0FEC3B9FC615">
             <Title>黄金思维圈</Title>
@@ -10966,19 +10969,104 @@ const可修数组但不能赋值，let作用域内，var全局
 
 
 《JS精粹》
+第一章
+Method:
+Function.prototype.method = function(name, func){
+	This.prototype[name] = func;
+	Return this;
+};
 
+第二章
 
 第三章 对象
-JS除了五个基本元素一切都是对象
-只用点语法
-复制只是引用永远不会复制内容
+JS除了五个基本元素（数字布un）一切都是对象
+对象字面量：包围在多个花括号里的键值对
+创建键名只用_链接字符不用-
+检索只用点语法
+复制只是引用不会复制内容（所以对象只有一个？）
+正因为复制使用的是指针，所以用到了原型，构建新对象，显化过程为create方法：
+Create:
+If(typeof Object.beget !== ‘function’){
+	Object.creat = function(o){
+	Var F = function(){};
+	F.property = o;
+	Return new F();	
+};
+}
+Var another_storage = Object.create(storage);
 原型链：
-1委托（寻找）
-2反射function
-3数组依次枚举
-4删除暴露
-5程序只用一个全局变量对象
+1委托（寻找），找不到自己对象内的会向原型去找
+4删除暴露原型链
+2反射function，typeof确定类型，原型链只有function，hasOwnProperty不查原型链
+3用数组存储键名依次枚举即只用for不用for in，同时避免乱序
+5程序只用一个全局变量对象全大写MYAPP，不同属性存不同用处的变量
 
+第四章 函数
+编程：将一组需求分解成一组函数与数据结构的技能
+函数的隐藏属性：上下文和行为代码
+（函数不同之处在于可以被调用？）
+调用：暂停当前函数，传递控制权和参数给新函数（包括新参数this和arguments）
+调用模式的区别在于this：
+1保存为属性调用被称为“方法”，指向对象（公共方法：通过this选择到的所属对象上下文的方法）
+2函数写在属性内，用var that = this的方式，内部函数可以调用属性的方法
+3函数用new来调用，利用基于原型的特性，用一个函数这个对象作为原型构建新的对象
+4.apply可以相当于f()作用于x之上，把别的函数的方法用到这个x上面，第一个参数就是要作用的x，第二个参数是一个数组
+Arguments是有length的对象
+函数前面带new调用时候不返回对象而是返回this（一个新对象）
+异常throw会抛出一个自带的e，可以catch(e)并且看看是什么
+扩充类型功能：只在符合条件的时候才增加方法
+Function.protype.method = function(name, func){
+	If(!this.prototype[name]){
+		This.prototype[name] = func;
+	}
+	Return this;
+};
+通过method来去除每次增加方法必写的protyotype内容
+递归：尾递归在return处调用自身（速度提高的原因？）
+作用域：特别JS中应在函数内对所有变量提前声明
+闭包：
+Var myObejct = ( function(){}()  )此时得到的是一个函数定义后调用的结果，此时函数返回的对象可以调用函数内容，闭包模式的构造函数也就可以产生
+不要在循环中产生函数，要尽量先定义后使用
+模块：lamada写法和普通函数写法，两者都是为了定义函数内变量+返回函数或者对象，使得此时的函数内变量成为私有变量避免了全局变量的使用，明显私有变量可以使用var
+级联：返回this而非undefined的链接写法
+柯里化：传递带参的函数构建新函数
+Var add1 = add.curry(1)
+Log(add1(6))
+记忆：动态规划的一种思路，自己在递归或者其他计算过程保存中间值并且计算过程中不断判断是否已经存在来节省计算时间
+Var fib = function(){
+	Var memo = [0, 1]
+	Var nfib = function(n){
+		Var result = memo[n]
+		If (typeof result[n] != ‘number’){
+			Result = fib(n - 1) + fib(n - 2)
+			Memo[n] = result
+			}
+			Return results
+	}
+	Retutrn nfib
+}()
+此时返回的是nfib，外面还有调用
+
+
+第五章 继承
+基于类的语言，对象来自于类
+基于原型的语言，对象来自于对象
+伪类模式：构造器调用模式的函数写出来一个自己的new实现类似类构建对象的方式，进一步用inherits写的方法隐藏new并且实现自己的内容，但是所有属性是公开的并且无法访问父类的内容。
+对象说明符：构造器用到的函数参数可以用对象写出来并且顺序随意排列
+原型模式：用第三章的create方法构造新的更多实例，这是一种“差异化继承”
+New模式(千万别用new)
+函数模式：生成对象的方式用构造生成对象的函数，不用再实现伪类的各种prototype直接关注差异化继承的内容，因为用模块模式已经实现被继承的对象。
+使用superior方法可以实现对父对象的方法的使用。
+（我的理解是函数构造模式和模块模式区别在于是否使用“参数+that”来待定生成一个对象）
+部件：（怎么用？）
+
+第六章 数组
+只比一般对象多了一个length属性
+没有多维数组
+没有初始值
+
+第七章 正则表达式
+第八章 方法
 
 
 
@@ -16569,6 +16657,9 @@ lollapalooza倾向——数种心理倾向共同作用造成极端后果的倾�
         </Document>
         <Document ID="347C189B-31D3-4312-B75D-AEEA65AE4B08">
             <Title>杠杆概念</Title>
+        </Document>
+        <Document ID="43806B5F-5059-42A1-ACC8-D48AB577497A">
+            <Title>CS-CC</Title>
         </Document>
         <Document ID="C5FB8716-E22A-4EE4-9115-E8620A66667D">
             <Title>4进化论</Title>
@@ -28219,6 +28310,29 @@ Liquidity is so high and trading costs so low that a full 31% of investors total
 
 </Text>
         </Document>
+        <Document ID="9FFB5647-B4AA-4F71-99E9-1FAA5A1C0B0F">
+            <Title>lamada</Title>
+            <Text>通用的lambda意义就是匿名函数。
+
+```
+&gt;&gt;&gt; l = ['foo', 'bar', 'far'] 
+&gt;&gt;&gt; map(lambda x: x.upper(), l) 
+['FOO', 'BAR', 'FAR'] 
+&gt;&gt;&gt; filter(lambda x: 'f' in x, l) ['foo', 'far'] 
+&gt;&gt;&gt; map(lambda x: x.upper(), filter(lambda x: 'f' in x, l)) 
+['FOO', 'FAR']
+ &gt;&gt;&gt; reduce(lambda a, b: a * b, xrange(1, 5)) 24
+```
+
+我的理解是这种方式就是一种英语倒装语法的表达式。
+
+
+函数式编程就是类似函数的语法来编程
+函数是f(x,y)
+那么类似的语法就是x在前，y在后的时候用f()的形式包裹起来
+
+</Text>
+        </Document>
         <Document ID="49769EE0-1891-41EE-A788-3B86ABFF1126">
             <Title> 方法学-工具</Title>
         </Document>
@@ -33469,8 +33583,8 @@ vow
 二十四、重视理由倾向
 二十五、lollapalooza倾向——数种心理倾向共同作用造成极端后果的倾向</Text>
         </Document>
-        <Document ID="A01A9B2E-DB8C-4F0B-9650-2AF267FA6096">
-            <Title>前端8</Title>
+        <Document ID="A9B1F13D-4A81-4954-B996-5FEA25084339">
+            <Title>论文</Title>
         </Document>
     </Documents>
 </SearchIndexes>

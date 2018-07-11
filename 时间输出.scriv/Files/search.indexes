@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SearchIndexes Version="1.0">
     <Documents>
-        <Document ID="A01A9B2E-DB8C-4F0B-9650-2AF267FA6096">
-            <Title>前端8</Title>
+        <Document ID="A9B1F13D-4A81-4954-B996-5FEA25084339">
+            <Title>论文</Title>
         </Document>
         <Document ID="C3B8C0C6-7EEA-4188-82BD-55151102F1BD">
             <Title>建模</Title>
@@ -11734,7 +11734,7 @@ Google大全 隐私权政策 条款 帮助</Text>
             <Synopsis>每次当别人在质疑我的能力的时候，我就终于可以放心自由发展自己的能力了，因为我的优势已经非常明显，可以稳固进行并且开启新道路。</Synopsis>
         </Document>
         <Document ID="C730D68C-A381-42E5-B7C5-CDD488D4549E">
-            <Title>2.Node+Express</Title>
+            <Title>2.Node</Title>
             <Text>
 Node
 模块比函数大，也能消除重复，要写不同文件
@@ -11752,7 +11752,7 @@ Package有bootstrap
 Ipv6的ip是:::
 
 
-
+《Node与Express开发》
 
 
 
@@ -15556,9 +15556,6 @@ As a rational investor, you must recognize that this tendency exists, swallow yo
         </Document>
         <Document ID="07B5391F-992E-419A-8232-C3548E18B153">
             <Title>工期</Title>
-        </Document>
-        <Document ID="01190262-F066-4F97-AC5B-240BB1B127DD">
-            <Title>前端</Title>
         </Document>
         <Document ID="9D546E5C-A62C-400C-87F1-D1C4E425E1D2">
             <Title>自定义概念</Title>
@@ -20403,7 +20400,7 @@ A（Appropriation，拆为己用），拆书家催化促动，促进学习者将
             <Title>编程范式游记（1）- 起源</Title>
         </Document>
         <Document ID="D8EB2410-AC81-4D02-BD82-957A5A6164F9">
-            <Title>认识自己+Big picture-why+what</Title>
+            <Title>自己+Big picture-why+what</Title>
             <Text>Big picture:
 
 
@@ -20418,8 +20415,6 @@ A（Appropriation，拆为己用），拆书家催化促动，促进学习者将
 每个月时间看完1本书英文书+一本中文书（）
 9月开始每周一个创业课视频
 
-
-
 中期任务（2/5）：
 拿到CSmaster
 实现博士方向的思考
@@ -20428,17 +20423,9 @@ A（Appropriation，拆为己用），拆书家催化促动，促进学习者将
 对世界文明图景做出自己的贡献
 
 
-
-
-
-
-
-
-
 认识自己：
 我不是那种精细人
 我在压力之下会变笨
-
 
 
 人生-我的人生追求一个基础物质之上更大的picture，自己的精神高度独立
@@ -21074,7 +21061,7 @@ react ui 有两套很流行: Material UI 和 Ant Design, 国内流行的是 Ant 
 </Text>
         </Document>
         <Document ID="3F58983A-AF81-4057-B3AF-9E75A2F3A695">
-            <Title>健身-护城河</Title>
+            <Title>健康</Title>
         </Document>
         <Document ID="73ADCC03-9E07-4C00-B2FA-C9C245070809">
             <Title>李一诺</Title>
@@ -28244,8 +28231,28 @@ Debug的流程（非常重要）：总是动不动这里打一下那里打一下
 之所以在日常生活中观察不到物体的波动性，是因为他们皆质量太大，导致德布罗意波长比可观察的极限尺寸要小很多，因此可能发生波动性质的尺寸在日常生活经验范围之外。这也是为什么经典力学能够令人满意地解释“自然现象”。反之，对于基本粒子来说，它们的质量和尺寸局限于量子力学所描述的范围之内，因而与我们所习惯的图景相差甚远。
 </Text>
         </Document>
-        <Document ID="6FFE0CD9-F914-4B81-AC3C-F4FA9C6FB6E9">
-            <Title>抽象模型</Title>
+        <Document ID="9FFB5647-B4AA-4F71-99E9-1FAA5A1C0B0F">
+            <Title>lamada</Title>
+            <Text>通用的lambda意义就是匿名函数。
+
+```
+&gt;&gt;&gt; l = ['foo', 'bar', 'far'] 
+&gt;&gt;&gt; map(lambda x: x.upper(), l) 
+['FOO', 'BAR', 'FAR'] 
+&gt;&gt;&gt; filter(lambda x: 'f' in x, l) ['foo', 'far'] 
+&gt;&gt;&gt; map(lambda x: x.upper(), filter(lambda x: 'f' in x, l)) 
+['FOO', 'FAR']
+ &gt;&gt;&gt; reduce(lambda a, b: a * b, xrange(1, 5)) 24
+```
+
+我的理解是这种方式就是一种英语倒装语法的表达式。
+
+
+函数式编程就是类似函数的语法来编程
+函数是f(x,y)
+那么类似的语法就是x在前，y在后的时候用f()的形式包裹起来
+
+</Text>
         </Document>
         <Document ID="5A2AD77A-25AE-40AB-A56D-B180F78ED0BF">
             <Title>Newton’s law of motion</Title>
@@ -28260,8 +28267,8 @@ The fourth law is evident in a study conducted by Brian Bushee, a professor at W
 37
 Liquidity is so high and trading costs so low that a full 31% of investors totally ignore Newton’s/Buffett’s fourth law of motion!</Text>
         </Document>
-        <Document ID="12C95B34-166B-4A4C-B2C2-99427ED56909">
-            <Title>2018反思</Title>
+        <Document ID="6FFE0CD9-F914-4B81-AC3C-F4FA9C6FB6E9">
+            <Title>抽象模型</Title>
         </Document>
         <Document ID="BAFD280D-6F6B-4DC1-8BFD-723DA33593D7">
             <Text>竞争
@@ -28285,12 +28292,8 @@ Liquidity is so high and trading costs so low that a full 31% of investors total
 
 （3）先发优势vs先动优势劣势First-mover advantage vs First-mover disadvantage - “一个细分市场最初的（先发）显著占有者获得的优势。”（相关：现在为什么？Why now?）</Text>
         </Document>
-        <Document ID="C9845FEA-37B4-450C-9616-0AD0966735D4">
-            <Text>用临界知识构建自己的“能力圈”
-什么是能力圈？能力圈是由你真正擅长并懂得的知识组成的，而且在这些领域里，你要比90%的人都做得好。
-只要掌握底层规律，我们并不需要比90%的人做得都好，就可以预见一些事情。但是要把这种预见能力应用到商业实战中，你只有做得比90%的人都好，你的洞见才能真正让你获得商业利益。（180114很绕，还是要求遇见和实践之中真的做到一些内容才行）
-说到这里，可能有人会陡升疑云：不是说要跳出舒适圈吗？怎么你又让人只在能力圈内待着？不跳出舒适圈，怎么扩大能力圈呢？是的，你应该跳出舒适圈。但是，你仍然要在能力圈中做出重要决策。记住：重要决策！换句话说：我们的重大决策都应该在我们的能力圈中进行。可我们大多数人根本不知道自己的能力边界。想象一下，如果要从悬崖这边跳到对面，你知道自己能跳，但不知道自己能跳多远，你是绝对不会贸然起跳的。
-</Text>
+        <Document ID="12C95B34-166B-4A4C-B2C2-99427ED56909">
+            <Title>2018反思</Title>
         </Document>
         <Document ID="D9395843-DA48-47B5-8472-6474B3B0E53C">
             <Text>（1）第一原则 （Arguing from First Principles）- “第一个原则是一个基本的，基础的，不言自明的命题或假设，不能从任何其他命题或假设推论出来”（相关：降维;正交性;“合理的头脑可以不同意“如果基础允许，则是。”</Text>
@@ -28310,27 +28313,11 @@ Liquidity is so high and trading costs so low that a full 31% of investors total
 
 </Text>
         </Document>
-        <Document ID="9FFB5647-B4AA-4F71-99E9-1FAA5A1C0B0F">
-            <Title>lamada</Title>
-            <Text>通用的lambda意义就是匿名函数。
-
-```
-&gt;&gt;&gt; l = ['foo', 'bar', 'far'] 
-&gt;&gt;&gt; map(lambda x: x.upper(), l) 
-['FOO', 'BAR', 'FAR'] 
-&gt;&gt;&gt; filter(lambda x: 'f' in x, l) ['foo', 'far'] 
-&gt;&gt;&gt; map(lambda x: x.upper(), filter(lambda x: 'f' in x, l)) 
-['FOO', 'FAR']
- &gt;&gt;&gt; reduce(lambda a, b: a * b, xrange(1, 5)) 24
-```
-
-我的理解是这种方式就是一种英语倒装语法的表达式。
-
-
-函数式编程就是类似函数的语法来编程
-函数是f(x,y)
-那么类似的语法就是x在前，y在后的时候用f()的形式包裹起来
-
+        <Document ID="C9845FEA-37B4-450C-9616-0AD0966735D4">
+            <Text>用临界知识构建自己的“能力圈”
+什么是能力圈？能力圈是由你真正擅长并懂得的知识组成的，而且在这些领域里，你要比90%的人都做得好。
+只要掌握底层规律，我们并不需要比90%的人做得都好，就可以预见一些事情。但是要把这种预见能力应用到商业实战中，你只有做得比90%的人都好，你的洞见才能真正让你获得商业利益。（180114很绕，还是要求遇见和实践之中真的做到一些内容才行）
+说到这里，可能有人会陡升疑云：不是说要跳出舒适圈吗？怎么你又让人只在能力圈内待着？不跳出舒适圈，怎么扩大能力圈呢？是的，你应该跳出舒适圈。但是，你仍然要在能力圈中做出重要决策。记住：重要决策！换句话说：我们的重大决策都应该在我们的能力圈中进行。可我们大多数人根本不知道自己的能力边界。想象一下，如果要从悬崖这边跳到对面，你知道自己能跳，但不知道自己能跳多远，你是绝对不会贸然起跳的。
 </Text>
         </Document>
         <Document ID="49769EE0-1891-41EE-A788-3B86ABFF1126">
@@ -33583,8 +33570,8 @@ vow
 二十四、重视理由倾向
 二十五、lollapalooza倾向——数种心理倾向共同作用造成极端后果的倾向</Text>
         </Document>
-        <Document ID="A9B1F13D-4A81-4954-B996-5FEA25084339">
-            <Title>论文</Title>
+        <Document ID="A01A9B2E-DB8C-4F0B-9650-2AF267FA6096">
+            <Title>前端8</Title>
         </Document>
     </Documents>
 </SearchIndexes>

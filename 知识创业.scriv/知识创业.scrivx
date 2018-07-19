@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.0.3-3032" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2018-07-19 10:55:57 +0800" ModID="F0D3DC97-C2DA-40F3-9657-EF4CF0E60FBC">
+<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.0.3-3032" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2018-07-19 11:29:49 +0800" ModID="C696310D-23C4-4928-A245-60C1846C0BC7">
     <Binder>
         <BinderItem UUID="D8EB2410-AC81-4D02-BD82-957A5A6164F9" Type="Text" Created="2018-06-07 15:23:26 +0800" Modified="2018-07-18 11:28:11 +0800">
             <Title>自己-what</Title>
@@ -152,8 +152,8 @@
                 </BinderItem>
             </Children>
         </BinderItem>
-        <BinderItem UUID="01190262-F066-4F97-AC5B-240BB1B127DD" Type="Folder" Created="2018-05-09 10:36:20 +0800" Modified="2018-07-11 10:57:56 +0800">
-            <Title>MVC</Title>
+        <BinderItem UUID="01190262-F066-4F97-AC5B-240BB1B127DD" Type="Folder" Created="2018-05-09 10:36:20 +0800" Modified="2018-07-19 11:28:53 +0800">
+            <Title>Dapp</Title>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
@@ -1766,8 +1766,8 @@
                 </BinderItem>
             </Children>
         </BinderItem>
-        <BinderItem UUID="0BA04844-788B-459E-BDB7-51795021737D" Type="Folder" Created="2018-07-11 10:44:56 +0800" Modified="2018-07-11 10:44:58 +0800">
-            <Title>工作</Title>
+        <BinderItem UUID="0BA04844-788B-459E-BDB7-51795021737D" Type="Folder" Created="2018-07-11 10:44:56 +0800" Modified="2018-07-19 11:29:29 +0800">
+            <Title>工作/创业</Title>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
                 <IconFileName>Book (Yellow Book).tiff</IconFileName>
@@ -2117,8 +2117,8 @@
                 </BinderItem>
             </Children>
         </BinderItem>
-        <BinderItem UUID="F573BF27-9E87-4C46-95F3-2DC49E23FA72" Type="DraftFolder" Created="2017-12-19 23:01:40 +0800" Modified="2018-07-11 10:46:15 +0800">
-            <Title>生命</Title>
+        <BinderItem UUID="F573BF27-9E87-4C46-95F3-2DC49E23FA72" Type="DraftFolder" Created="2017-12-19 23:01:40 +0800" Modified="2018-07-19 11:29:41 +0800">
+            <Title>健康</Title>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
@@ -7285,6 +7285,15 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem UUID="3EE07CED-6F05-45D4-90FB-56AAC742AE2F" Type="Text" Created="2018-07-19 11:28:39 +0800" Modified="2018-07-19 11:28:44 +0800">
+                    <Title>创业</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
     </Binder>
@@ -7343,7 +7352,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2017-12-19 23:01:39 +0800" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2018-07-19 10:55:51 +0800"></PreviousSession>
+        <PreviousSession Words="0" Characters="0" Date="2018-07-19 11:28:30 +0800"></PreviousSession>
     </ProjectTargets>
     <RecentWritingHistory Date="2018-07-19 00:00:00 +0800">
         <DraftWordCount>0</DraftWordCount>

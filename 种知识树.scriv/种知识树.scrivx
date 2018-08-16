@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.0.3-3032" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2018-08-16 19:05:35 +0800" ModID="6D71B8F5-0623-43E0-9DAA-74CFB3D7ACC2">
+<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.0.3-3032" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2018-08-16 19:18:32 +0800" ModID="353774EA-6F34-4B14-974E-A19A3438B944">
     <Binder>
         <BinderItem UUID="D8EB2410-AC81-4D02-BD82-957A5A6164F9" Type="Text" Created="2018-06-07 15:23:26 +0800" Modified="2018-08-16 10:08:42 +0800">
             <Title>what自己</Title>
@@ -578,6 +578,15 @@
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>3501,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="D73E5907-C7BD-4287-B58C-3BC191898FFB" Type="Text" Created="2018-08-16 19:13:55 +0800" Modified="2018-08-16 19:14:42 +0800">
+                            <Title>携程两年零经验到数据产品经理的体验</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>2,17</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="5EA86041-8676-46B7-8E15-2F993091A2CE" Type="Text" Created="2018-08-09 18:10:47 +0800" Modified="2018-08-09 18:10:54 +0800">
@@ -3143,6 +3152,35 @@
                                     <TextSettings>
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="38F28745-3819-4E80-93B0-A9D05F8823B3" Type="Text" Created="2018-08-16 19:18:26 +0800" Modified="2018-08-16 19:18:32 +0800">
+                                    <Title>胡适</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>15758,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="93532A1A-5F6B-4248-930C-1E7809BFDF61" Type="Text" Created="2018-08-16 19:15:18 +0800" Modified="2018-08-16 19:16:05 +0800">
+                                    <Title>李玫瑾</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,1388</TextSelection>
+                                    </TextSettings>
+                                    <Children>
+                                        <BinderItem UUID="091D09D6-884F-44D1-A2FE-544439248C65" Type="Text" Created="2018-08-16 19:15:50 +0800" Modified="2018-08-16 19:17:39 +0800">
+                                            <Title>阴差阳错的爱上哲学</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>72,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                    </Children>
                                 </BinderItem>
                                 <BinderItem UUID="D25092C9-02F0-4BAB-AD9A-78BEA3491773" Type="Text" Created="2018-08-13 09:32:25 +0800" Modified="2018-08-13 09:32:28 +0800">
                                     <Title>金灿荣</Title>
@@ -8155,11 +8193,11 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2017-12-19 23:01:39 +0800" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="202344" Characters="377184" Date="2018-08-16 17:31:41 +0800"></PreviousSession>
+        <PreviousSession Words="214105" Characters="398100" Date="2018-08-16 19:15:01 +0800"></PreviousSession>
     </ProjectTargets>
     <RecentWritingHistory Date="2018-08-16 00:00:00 +0800">
-        <DraftWordCount>202344</DraftWordCount>
-        <DraftCharCount>377181</DraftCharCount>
+        <DraftWordCount>214105</DraftWordCount>
+        <DraftCharCount>398097</DraftCharCount>
         <OtherWordCount>238</OtherWordCount>
         <OtherCharCount>513</OtherCharCount>
     </RecentWritingHistory>

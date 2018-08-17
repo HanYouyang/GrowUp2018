@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.0.3-3032" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2018-08-17 14:56:04 +0800" ModID="AC3C0799-DEB7-46BC-A68F-EEE516E7E518">
+<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.0.3-3032" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2018-08-17 19:15:19 +0800" ModID="D3883A14-FB57-40C7-8DD8-294F477CD1D3">
     <Binder>
         <BinderItem UUID="D8EB2410-AC81-4D02-BD82-957A5A6164F9" Type="Text" Created="2018-06-07 15:23:26 +0800" Modified="2018-08-17 14:54:40 +0800">
             <Title>自己what</Title>
@@ -291,24 +291,6 @@
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem UUID="0DCF2FC0-B818-45DD-84D6-8D967174032B" Type="Text" Created="2018-08-17 10:15:20 +0800" Modified="2018-08-17 13:35:50 +0800">
-                            <Title>沟通技能</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>112,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem UUID="9BFA970F-9C14-4D6B-A066-7CED65D8B3C4" Type="Text" Created="2018-01-08 22:45:45 +0800" Modified="2018-08-16 18:46:51 +0800">
-                            <Title>商业经验</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>774,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
                         <BinderItem UUID="443D8F26-28D7-4B18-A1E3-1D3CB56C59BB" Type="Text" Created="2018-01-08 22:47:31 +0800" Modified="2018-08-17 13:40:13 +0800">
                             <Title>工作经验</Title>
                             <MetaData>
@@ -317,15 +299,35 @@
                             <TextSettings>
                                 <TextSelection>3646,0</TextSelection>
                             </TextSettings>
-                        </BinderItem>
-                        <BinderItem UUID="D73E5907-C7BD-4287-B58C-3BC191898FFB" Type="Text" Created="2018-08-16 19:13:55 +0800" Modified="2018-08-17 14:01:58 +0800">
-                            <Title>携程两年零经验到数据产品经理的体验</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>1956,0</TextSelection>
-                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="0DCF2FC0-B818-45DD-84D6-8D967174032B" Type="Text" Created="2018-08-17 10:15:20 +0800" Modified="2018-08-17 13:35:50 +0800">
+                                    <Title>沟通技能</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>112,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="9BFA970F-9C14-4D6B-A066-7CED65D8B3C4" Type="Text" Created="2018-01-08 22:45:45 +0800" Modified="2018-08-16 18:46:51 +0800">
+                                    <Title>商业经验</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>774,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="D73E5907-C7BD-4287-B58C-3BC191898FFB" Type="Text" Created="2018-08-16 19:13:55 +0800" Modified="2018-08-17 14:01:58 +0800">
+                                    <Title>携程两年零经验到数据产品经理的体验</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>1956,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
                         </BinderItem>
                         <BinderItem UUID="5EA86041-8676-46B7-8E15-2F993091A2CE" Type="Text" Created="2018-08-09 18:10:47 +0800" Modified="2018-08-09 18:10:54 +0800">
                             <Title>YC创业课</Title>
@@ -336,8 +338,17 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="5BBE5139-23AC-44C4-A942-06D3BDDB7A9D" Type="Text" Created="2018-03-03 17:22:28 +0800" Modified="2018-08-17 11:17:19 +0800">
-                            <Title>61.8黄金分割效率</Title>
+                        <BinderItem UUID="912826D8-026A-45B1-8924-7F26623F78D4" Type="Text" Created="2018-03-03 17:27:07 +0800" Modified="2018-08-17 18:41:01 +0800">
+                            <Title>真值得事慢节奏&gt;焦虑冲刺</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1591,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="5BBE5139-23AC-44C4-A942-06D3BDDB7A9D" Type="Text" Created="2018-03-03 17:22:28 +0800" Modified="2018-08-17 18:43:42 +0800">
+                            <Title>清楚0.618目标&gt;半途而废</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
@@ -356,15 +367,6 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="912826D8-026A-45B1-8924-7F26623F78D4" Type="Text" Created="2018-03-03 17:27:07 +0800" Modified="2018-08-14 11:01:04 +0800">
-                            <Title>节奏+预知</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>1730,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
                         <BinderItem UUID="FA22A54F-AB9B-47DF-9AF7-4329CE5DD1F0" Type="Text" Created="2018-02-28 14:20:42 +0800" Modified="2018-08-17 11:14:27 +0800">
                             <Title>人是怎么废掉的？</Title>
                             <MetaData>
@@ -390,15 +392,6 @@
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>280,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem UUID="ED2DA40E-8A53-4E87-9F4F-190D4C850DC4" Type="Text" Created="2018-08-16 19:03:38 +0800" Modified="2018-08-17 11:16:00 +0800">
-                            <Title>低水平勤奋</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>107,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -459,22 +452,22 @@
                 <IconFileName>Book (Blue Book).tiff</IconFileName>
             </MetaData>
             <Children>
-                <BinderItem UUID="EAA12A56-30FC-4C0D-830A-96282420858A" Type="Text" Created="2018-08-17 13:40:34 +0800" Modified="2018-08-17 14:53:21 +0800">
+                <BinderItem UUID="EAA12A56-30FC-4C0D-830A-96282420858A" Type="Text" Created="2018-08-17 13:40:34 +0800" Modified="2018-08-17 18:48:42 +0800">
                     <Title>算法重复what</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>38,0</TextSelection>
+                        <TextSelection>43,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="B0249D2F-3CC6-4132-9895-4334653A3933" Type="Text" Created="2018-08-13 10:11:54 +0800" Modified="2018-08-16 10:10:32 +0800">
+                        <BinderItem UUID="B0249D2F-3CC6-4132-9895-4334653A3933" Type="Text" Created="2018-08-13 10:11:54 +0800" Modified="2018-08-17 18:49:10 +0800">
                             <Title>《代码大全》</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1235,0</TextSelection>
+                                <TextSelection>634,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="58444BDC-EB18-4B14-A25A-F09F6C140F38" Type="Text" Created="2018-08-15 09:27:17 +0800" Modified="2018-08-15 09:30:39 +0800">
@@ -3083,6 +3076,15 @@
                                             </TextSettings>
                                         </BinderItem>
                                     </Children>
+                                </BinderItem>
+                                <BinderItem UUID="ED2DA40E-8A53-4E87-9F4F-190D4C850DC4" Type="Text" Created="2018-08-16 19:03:38 +0800" Modified="2018-08-17 11:16:00 +0800">
+                                    <Title>低水平勤奋</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>107,0</TextSelection>
+                                    </TextSettings>
                                 </BinderItem>
                             </Children>
                         </BinderItem>
@@ -8246,11 +8248,11 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2017-12-19 23:01:39 +0800" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="35" Characters="91" Date="2018-08-17 14:55:46 +0800"></PreviousSession>
+        <PreviousSession Words="34" Characters="89" Date="2018-08-17 18:35:29 +0800"></PreviousSession>
     </ProjectTargets>
     <RecentWritingHistory Date="2018-08-17 00:00:00 +0800">
-        <DraftWordCount>35</DraftWordCount>
-        <DraftCharCount>91</DraftCharCount>
+        <DraftWordCount>34</DraftWordCount>
+        <DraftCharCount>89</DraftCharCount>
         <OtherWordCount>10210</OtherWordCount>
         <OtherCharCount>18106</OtherCharCount>
     </RecentWritingHistory>

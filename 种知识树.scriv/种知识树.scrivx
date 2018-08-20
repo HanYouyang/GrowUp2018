@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.0.3-3032" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2018-08-19 19:35:45 +0800" ModID="E14F2EBA-43DB-46A4-9AC4-D44FCF139B30">
+<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.0.3-3032" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2018-08-20 20:39:10 +0800" ModID="FEC26DBE-1ED9-4BAB-8962-AFEF0C724D4F">
     <Binder>
         <BinderItem UUID="D8EB2410-AC81-4D02-BD82-957A5A6164F9" Type="Text" Created="2018-06-07 15:23:26 +0800" Modified="2018-08-17 14:54:40 +0800">
             <Title>自己what</Title>
@@ -347,7 +347,7 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem UUID="AE333160-F760-4BB4-82CC-98D8A706C1B1" Type="Text" Created="2018-08-08 10:56:55 +0800" Modified="2018-08-19 16:27:57 +0800">
+                <BinderItem UUID="AE333160-F760-4BB4-82CC-98D8A706C1B1" Type="Text" Created="2018-08-08 10:56:55 +0800" Modified="2018-08-20 20:35:31 +0800">
                     <Title>why一生一事</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -403,13 +403,13 @@
                                 <TextSelection>70,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="6928A0D5-D215-415C-93A7-199AC26E9E28" Type="Text" Created="2018-07-07 09:49:38 +0800" Modified="2018-08-14 12:09:48 +0800">
-                            <Title>学习范式1-日常</Title>
+                        <BinderItem UUID="6928A0D5-D215-415C-93A7-199AC26E9E28" Type="Text" Created="2018-07-07 09:49:38 +0800" Modified="2018-08-20 20:36:01 +0800">
+                            <Title>学习范式-日常</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>741,0</TextSelection>
+                                <TextSelection>388,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="3903C12E-8903-4FB6-9556-10262665984F" Type="Text" Created="2018-03-04 22:34:44 +0800" Modified="2018-08-08 11:00:58 +0800">
@@ -434,8 +434,8 @@
                 </BinderItem>
             </Children>
         </BinderItem>
-        <BinderItem UUID="F573BF27-9E87-4C46-95F3-2DC49E23FA72" Type="DraftFolder" Created="2017-12-19 23:01:40 +0800" Modified="2018-08-17 14:54:35 +0800">
-            <Title>总资产make</Title>
+        <BinderItem UUID="F573BF27-9E87-4C46-95F3-2DC49E23FA72" Type="DraftFolder" Created="2017-12-19 23:01:40 +0800" Modified="2018-08-20 20:37:31 +0800">
+            <Title>长期资产make</Title>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
                 <IconFileName>Book (Blue Book).tiff</IconFileName>
@@ -1997,7 +1997,7 @@
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>2181,0</TextSelection>
+                                                <TextSelection>91,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                         <BinderItem UUID="150724A9-8308-4334-A4D3-3DFC2C1382A4" Type="Text" Created="2018-05-27 21:45:46 +0800" Modified="2018-06-11 14:43:00 +0800">
@@ -2020,63 +2020,24 @@
                                         </BinderItem>
                                     </Children>
                                 </BinderItem>
-                                <BinderItem UUID="1A1DCC82-BDF2-488B-A145-08CDC809B8BA" Type="Text" Created="2018-07-17 14:41:30 +0800" Modified="2018-07-17 14:41:37 +0800">
-                                    <Title>斯蒂芬金</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
-                                    </TextSettings>
-                                    <Children>
-                                        <BinderItem UUID="92B90CB0-E0A7-4202-A3F9-D0EB663DC819" Type="Text" Created="2018-06-06 11:03:01 +0800" Modified="2018-06-06 21:13:46 +0800">
-                                            <Title>《SR》</Title>
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>1068,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                        <BinderItem UUID="A5792638-4A18-4B04-9B9C-90D09E3B84CB" Type="Text" Created="2018-06-05 19:40:31 +0800" Modified="2018-06-06 21:13:52 +0800">
-                                            <Title>电影《SR》</Title>
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>177,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                    </Children>
-                                </BinderItem>
-                                <BinderItem UUID="5AB2F97E-44E6-4C31-9178-56D4EED00ABC" Type="Text" Created="2018-07-17 14:41:12 +0800" Modified="2018-07-17 14:41:15 +0800">
-                                    <Title>托马斯库恩</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
-                                    </TextSettings>
-                                    <Children>
-                                        <BinderItem UUID="6B5CCDF2-2B3A-4521-8252-5299134DE7CA" Type="Text" Created="2018-06-23 21:10:18 +0800" Modified="2018-06-23 21:10:25 +0800">
-                                            <Title>《科学革命的结构》</Title>
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>0,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                    </Children>
-                                </BinderItem>
-                                <BinderItem UUID="0019F868-3B0E-4576-A66F-F08C3C305D4F" Type="Text" Created="2018-08-13 09:37:03 +0800" Modified="2018-08-13 09:38:08 +0800">
+                                <BinderItem UUID="0019F868-3B0E-4576-A66F-F08C3C305D4F" Type="Text" Created="2018-08-13 09:37:03 +0800" Modified="2018-08-20 20:38:13 +0800">
                                     <Title>达里奥</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>153,0</TextSelection>
+                                        <TextSelection>46,0</TextSelection>
                                     </TextSettings>
+                                    <Children>
+                                        <BinderItem UUID="8132DCC3-DFF4-44F1-AFB1-A023C26B7F8D" Type="Text" Created="2018-08-20 20:38:03 +0800" Modified="2018-08-20 20:38:13 +0800">
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>2750,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                    </Children>
                                 </BinderItem>
                                 <BinderItem UUID="7EB0492C-D323-4E6A-9658-F775411AA74E" Type="Text" Created="2018-06-18 17:14:38 +0800" Modified="2018-06-24 15:17:43 +0800">
                                     <Title>《独裁者手册》</Title>
@@ -8198,6 +8159,55 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem UUID="1A1DCC82-BDF2-488B-A145-08CDC809B8BA" Type="Text" Created="2018-07-17 14:41:30 +0800" Modified="2018-07-17 14:41:37 +0800">
+                    <Title>斯蒂芬金</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="92B90CB0-E0A7-4202-A3F9-D0EB663DC819" Type="Text" Created="2018-06-06 11:03:01 +0800" Modified="2018-06-06 21:13:46 +0800">
+                            <Title>《SR》</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1068,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="A5792638-4A18-4B04-9B9C-90D09E3B84CB" Type="Text" Created="2018-06-05 19:40:31 +0800" Modified="2018-06-06 21:13:52 +0800">
+                            <Title>电影《SR》</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>177,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="5AB2F97E-44E6-4C31-9178-56D4EED00ABC" Type="Text" Created="2018-07-17 14:41:12 +0800" Modified="2018-07-17 14:41:15 +0800">
+                    <Title>托马斯库恩</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="6B5CCDF2-2B3A-4521-8252-5299134DE7CA" Type="Text" Created="2018-06-23 21:10:18 +0800" Modified="2018-06-23 21:10:25 +0800">
+                            <Title>《科学革命的结构》</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
             </Children>
         </BinderItem>
     </Binder>
@@ -8262,13 +8272,13 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2017-12-19 23:01:39 +0800" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="-3" Date="2018-08-19 19:06:14 +0800"></PreviousSession>
+        <PreviousSession Words="0" Characters="-1" Date="2018-08-20 20:34:00 +0800"></PreviousSession>
     </ProjectTargets>
-    <RecentWritingHistory Date="2018-08-19 00:00:00 +0800">
+    <RecentWritingHistory Date="2018-08-20 00:00:00 +0800">
         <DraftWordCount>0</DraftWordCount>
-        <DraftCharCount>-2</DraftCharCount>
-        <OtherWordCount>21</OtherWordCount>
-        <OtherCharCount>34</OtherCharCount>
+        <DraftCharCount>-1</DraftCharCount>
+        <OtherWordCount>-5</OtherWordCount>
+        <OtherCharCount>-11</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.0.3-3032" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2018-08-21 09:50:18 +0800" ModID="D233E080-DCB9-4696-AAA4-FBAEF8FC9B34">
+<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.0.3-3032" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2018-08-21 10:47:28 +0800" ModID="AD90845C-AFD7-43B0-AD4F-140BDD1A99C7">
     <Binder>
-        <BinderItem UUID="D8EB2410-AC81-4D02-BD82-957A5A6164F9" Type="Text" Created="2018-06-07 15:23:26 +0800" Modified="2018-08-17 14:54:40 +0800">
+        <BinderItem UUID="D8EB2410-AC81-4D02-BD82-957A5A6164F9" Type="Text" Created="2018-06-07 15:23:26 +0800" Modified="2018-08-21 10:47:13 +0800">
             <Title>自己what</Title>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
             <TextSettings>
-                <TextSelection>39,0</TextSelection>
+                <TextSelection>173,0</TextSelection>
             </TextSettings>
             <Children>
                 <BinderItem UUID="2A5A1C7F-D42A-4AAC-A568-78BA3A62F0C4" Type="Text" Created="2018-08-21 09:46:41 +0800" Modified="2018-08-21 09:50:05 +0800">
@@ -46,13 +46,13 @@
                         <TextSelection>386,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="9516923A-7BDA-4D8C-B532-8BD1A09610D1" Type="Text" Created="2018-07-17 15:27:00 +0800" Modified="2018-08-19 19:07:30 +0800">
+                <BinderItem UUID="9516923A-7BDA-4D8C-B532-8BD1A09610D1" Type="Text" Created="2018-07-17 15:27:00 +0800" Modified="2018-08-21 10:46:40 +0800">
                     <Title>中短期分解</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>65,0</TextSelection>
+                        <TextSelection>204,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="2B0881C1-C70C-4C4A-8052-9423A80E90F5" Type="Text" Created="2018-08-17 14:27:25 +0800" Modified="2018-08-19 19:09:40 +0800">
@@ -371,7 +371,7 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>687,0</TextSelection>
+                                <TextSelection>626,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="AC6B12E2-FC0B-40DD-9A76-709FDA4C86C2" Type="Text" Created="2018-03-05 11:50:42 +0800" Modified="2018-08-16 17:30:29 +0800">
@@ -8286,8 +8286,8 @@
     <RecentWritingHistory Date="2018-08-21 00:00:00 +0800">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>32</OtherWordCount>
-        <OtherCharCount>80</OtherCharCount>
+        <OtherWordCount>53</OtherWordCount>
+        <OtherCharCount>112</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>

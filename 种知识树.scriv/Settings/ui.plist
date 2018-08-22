@@ -81,8 +81,8 @@
 	</dict>
 	<key>binderSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {267, 760}}</string>
-		<string>{{268, 0}, {1012, 760}}</string>
+		<string>{{0, 0}, {214.5, 760}}</string>
+		<string>{{215.5, 0}, {1064.5, 760}}</string>
 	</array>
 	<key>binderWidth</key>
 	<real>175</real>
@@ -96,7 +96,7 @@
 	<key>editorSplitFrames</key>
 	<array>
 		<string>{{0, 0}, {489, 730}}</string>
-		<string>{{490, 0}, {522, 730}}</string>
+		<string>{{490, 0}, {574.5, 730}}</string>
 	</array>
 	<key>exportFilesFormat</key>
 	<integer>2</integer>
@@ -133,7 +133,7 @@
 		<real>1</real>
 	</dict>
 	<key>mainDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {507, 674}}</string>
+	<string>{{0, 994}, {559, 674}}</string>
 	<key>mainDocumentEditor.textEditorState</key>
 	<dict>
 		<key>textScaleFactor</key>
@@ -147,13 +147,13 @@
 		<real>1</real>
 	</dict>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{0, 12053.333333333334}, {316, 449.33333333333212}}</string>
+	<string>{{0, 12480}, {316, 449.33333333333394}}</string>
 	<key>supportingDocumentEditor.textEditorState</key>
 	<dict>
 		<key>textScaleFactor</key>
 		<real>1.5</real>
 	</dict>
 	<key>supportingDocumentViewIsCurrent</key>
-	<true/>
+	<false/>
 </dict>
 </plist>

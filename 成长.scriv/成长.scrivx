@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.0.3-3032" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2018-09-13 16:14:46 +0800" ModID="603D5AAA-F59A-4235-8196-272DECC40303">
+<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.0.3-3032" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2018-09-14 11:54:12 +0800" ModID="F1395837-83D1-4E50-98A8-CF6F18660B98">
     <Binder>
         <BinderItem UUID="BD9E202A-A848-4C04-B1DF-342B13D88B58" Type="ResearchFolder" Created="2017-12-19 23:01:40 +0800" Modified="2018-09-10 13:40:56 +0800">
             <Title>自己</Title>
@@ -89,13 +89,13 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="22C4F823-E035-4B28-9E64-DBB31B5F75CC" Type="Text" Created="2018-09-11 14:16:53 +0800" Modified="2018-09-11 15:56:49 +0800">
+                                <BinderItem UUID="22C4F823-E035-4B28-9E64-DBB31B5F75CC" Type="Text" Created="2018-09-11 14:16:53 +0800" Modified="2018-09-14 11:54:12 +0800">
                                     <Title>思考方式</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>40,0</TextSelection>
+                                        <TextSelection>6,0</TextSelection>
                                     </TextSettings>
                                     <Children>
                                         <BinderItem UUID="B300F6B1-5CBB-4929-B3A8-24E60C7ED903" Type="Text" Created="2018-09-11 15:32:55 +0800" Modified="2018-09-11 18:40:12 +0800">
@@ -165,13 +165,13 @@
                                                         </BinderItem>
                                                     </Children>
                                                 </BinderItem>
-                                                <BinderItem UUID="FA193A2D-2211-4BBE-884D-7EF5C5C53146" Type="Text" Created="2018-09-10 18:53:21 +0800" Modified="2018-09-11 14:07:46 +0800">
+                                                <BinderItem UUID="FA193A2D-2211-4BBE-884D-7EF5C5C53146" Type="Text" Created="2018-09-10 18:53:21 +0800" Modified="2018-09-14 11:52:25 +0800">
                                                     <Title>写作方法论分享</Title>
                                                     <MetaData>
                                                         <IncludeInCompile>Yes</IncludeInCompile>
                                                     </MetaData>
                                                     <TextSettings>
-                                                        <TextSelection>984,0</TextSelection>
+                                                        <TextSelection>67,2</TextSelection>
                                                     </TextSettings>
                                                     <Children>
                                                         <BinderItem UUID="8BB3988B-2FFE-4CB0-A033-DC6F162DA9D4" Type="Text" Created="2018-09-10 18:10:29 +0800" Modified="2018-09-10 18:16:09 +0800">
@@ -8708,11 +8708,11 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2017-12-19 23:01:39 +0800" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="101" Characters="241" Date="2018-09-11 10:13:43 +0800"></PreviousSession>
+        <PreviousSession Words="112" Characters="270" Date="2018-09-11 10:13:43 +0800"></PreviousSession>
     </ProjectTargets>
-    <RecentWritingHistory Date="2018-09-13 00:00:00 +0800">
-        <DraftWordCount>0</DraftWordCount>
-        <DraftCharCount>0</DraftCharCount>
+    <RecentWritingHistory Date="2018-09-14 00:00:00 +0800">
+        <DraftWordCount>11</DraftWordCount>
+        <DraftCharCount>29</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>

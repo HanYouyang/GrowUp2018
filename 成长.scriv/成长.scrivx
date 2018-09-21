@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.0.3-3032" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2018-09-20 19:34:00 +0800" ModID="AE6B93AF-2F44-4920-B3B7-839658914C2E">
+<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.0.3-3032" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2018-09-21 19:26:30 +0800" ModID="71CC716F-F2F8-43BC-B5E3-C9646688F5C8">
     <Binder>
         <BinderItem UUID="BD9E202A-A848-4C04-B1DF-342B13D88B58" Type="ResearchFolder" Created="2017-12-19 23:01:40 +0800" Modified="2018-09-10 13:40:56 +0800">
             <Title>自己</Title>
@@ -71,13 +71,22 @@
                 <IconFileName>Book (Blue Book).tiff</IconFileName>
             </MetaData>
             <Children>
-                <BinderItem UUID="EC98D013-3E13-4FD9-B297-72C3DCD8D00B" Type="Text" Created="2018-09-10 16:47:50 +0800" Modified="2018-09-20 11:13:02 +0800">
+                <BinderItem UUID="9831C749-6B64-481A-99B8-677E10C77ABB" Type="Text" Created="2018-09-21 16:36:09 +0800" Modified="2018-09-21 19:23:10 +0800">
+                    <Title>策略</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>41,18</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="EC98D013-3E13-4FD9-B297-72C3DCD8D00B" Type="Text" Created="2018-09-10 16:47:50 +0800" Modified="2018-09-21 16:36:17 +0800">
                     <Title>躺着赚钱</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>119,0</TextSelection>
+                        <TextSelection>144,0</TextSelection>
                     </TextSettings>
                     <Children>
                         <BinderItem UUID="EEECAC65-4444-416B-9733-16FA1A11CEC2" Type="Text" Created="2018-06-12 10:07:37 +0800" Modified="2018-09-14 11:58:46 +0800">
@@ -267,6 +276,24 @@
                                                             </TextSettings>
                                                         </BinderItem>
                                                     </Children>
+                                                </BinderItem>
+                                                <BinderItem UUID="C5CB7332-2053-4A81-BDF1-C5D354189BBA" Type="Text" Created="2018-09-21 17:38:29 +0800" Modified="2018-09-21 17:38:38 +0800">
+                                                    <Title>AWA考试</Title>
+                                                    <MetaData>
+                                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                                    </MetaData>
+                                                    <TextSettings>
+                                                        <TextSelection>49,0</TextSelection>
+                                                    </TextSettings>
+                                                </BinderItem>
+                                                <BinderItem UUID="D1A62831-C19C-4443-8FA3-D8FD4C4308F2" Type="Text" Created="2018-09-21 17:39:10 +0800" Modified="2018-09-21 17:39:33 +0800">
+                                                    <Title>考试评价写法</Title>
+                                                    <MetaData>
+                                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                                    </MetaData>
+                                                    <TextSettings>
+                                                        <TextSelection>2512,0</TextSelection>
+                                                    </TextSettings>
                                                 </BinderItem>
                                             </Children>
                                         </BinderItem>
@@ -877,12 +904,30 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="5BDF6D74-E344-4871-87F3-24A60F18EBF8" Type="Text" Created="2018-09-20 19:28:22 +0800" Modified="2018-09-20 19:33:57 +0800">
+                                <BinderItem UUID="5BDF6D74-E344-4871-87F3-24A60F18EBF8" Type="Text" Created="2018-09-20 19:28:22 +0800" Modified="2018-09-21 16:00:53 +0800">
+                                    <Title>1量化投资开篇</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>60,0</TextSelection>
+                                        <TextSelection>455,9</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="538ECECB-6C83-45BD-BAEF-7D1B27512FF4" Type="Text" Created="2018-09-21 16:00:21 +0800" Modified="2018-09-21 16:00:26 +0800">
+                                    <Title>2股票基础知识</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="CA3C7040-5B83-4976-AF2C-6DB0DF13D2B8" Type="Text" Created="2018-09-21 16:00:27 +0800" Modified="2018-09-21 16:00:27 +0800">
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -1100,13 +1145,13 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem UUID="8629E3D3-07C7-4741-95E5-44D600663C06" Type="Text" Created="2018-08-13 09:38:38 +0800" Modified="2018-09-17 13:45:36 +0800">
+                <BinderItem UUID="8629E3D3-07C7-4741-95E5-44D600663C06" Type="Text" Created="2018-08-13 09:38:38 +0800" Modified="2018-09-21 16:58:32 +0800">
                     <Title>科学定律</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>0,0</TextSelection>
+                        <TextSelection>99,0</TextSelection>
                     </TextSettings>
                     <Children>
                         <BinderItem UUID="64ED9DDA-E003-4392-8BDD-71F9E0E56DB8" Type="Text" Created="2018-09-17 13:45:27 +0800" Modified="2018-09-18 13:36:00 +0800">
@@ -3005,8 +3050,8 @@
                                         <TextSelection>1542,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="A76E9A04-D57C-417A-A8FF-3D6B825399E8" Type="Text" Created="2018-08-16 18:31:18 +0800" Modified="2018-08-16 18:31:44 +0800">
-                                    <Title>20151107国际形势与十八大以来的中国外交</Title>
+                                <BinderItem UUID="A76E9A04-D57C-417A-A8FF-3D6B825399E8" Type="Text" Created="2018-08-16 18:31:18 +0800" Modified="2018-09-21 19:25:22 +0800">
+                                    <Title>151107国际形势与十八大以来的中国外交</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
@@ -3014,8 +3059,8 @@
                                         <TextSelection>65,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="1F8287E6-4025-42BD-9A2E-4ED2596A7266" Type="Text" Created="2018-08-16 18:30:26 +0800" Modified="2018-08-16 18:30:47 +0800">
-                                    <Title>20170725未来10年的世界大变局</Title>
+                                <BinderItem UUID="1F8287E6-4025-42BD-9A2E-4ED2596A7266" Type="Text" Created="2018-08-16 18:30:26 +0800" Modified="2018-09-21 19:25:25 +0800">
+                                    <Title>170725未来10年的世界大变局</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
@@ -3023,8 +3068,8 @@
                                         <TextSelection>20,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="B5309D0C-D456-4D46-B41D-FCA9F3FE9B1D" Type="Text" Created="2018-08-16 18:29:40 +0800" Modified="2018-08-16 18:30:03 +0800">
-                                    <Title>20170904最近美军为啥总在出事</Title>
+                                <BinderItem UUID="B5309D0C-D456-4D46-B41D-FCA9F3FE9B1D" Type="Text" Created="2018-08-16 18:29:40 +0800" Modified="2018-09-21 19:25:27 +0800">
+                                    <Title>170904最近美军为啥总在出事</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
@@ -3032,8 +3077,8 @@
                                         <TextSelection>128,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="4D840147-AD96-4416-A02E-F578437C3B64" Type="Text" Created="2018-04-04 15:36:38 +0800" Modified="2018-04-04 16:01:55 +0800">
-                                    <Title>20180331国际形势的特点与十九大后的中国外交</Title>
+                                <BinderItem UUID="4D840147-AD96-4416-A02E-F578437C3B64" Type="Text" Created="2018-04-04 15:36:38 +0800" Modified="2018-09-21 19:25:30 +0800">
+                                    <Title>180331国际形势的特点与十九大后的中国外交</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
@@ -3041,13 +3086,42 @@
                                         <TextSelection>249,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="2BB99F60-9AD2-44E3-877A-5911B89E5137" Type="Text" Created="2018-06-23 20:36:01 +0800" Modified="2018-06-24 22:06:52 +0800">
-                                    <Title>20180603中美关系与未来世界变局</Title>
+                                <BinderItem UUID="2BB99F60-9AD2-44E3-877A-5911B89E5137" Type="Text" Created="2018-06-23 20:36:01 +0800" Modified="2018-09-21 19:25:32 +0800">
+                                    <Title>180603中美关系与未来世界变局</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>79,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="3D3C2BF4-EA3E-4BEF-A584-9B791C9D3D83" Type="Text" Created="2018-09-21 19:25:07 +0800" Modified="2018-09-21 19:25:35 +0800">
+                                    <Title>180806贸易战</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem UUID="9DBB6049-FF98-42FA-B129-139D7D10542F" Type="Text" Created="2018-09-21 17:59:44 +0800" Modified="2018-09-21 17:59:47 +0800">
+                            <Title>陈光磊</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="E40A8246-BFC3-43A9-912B-D701ECD8CC2B" Type="Text" Created="2018-09-21 17:59:48 +0800" Modified="2018-09-21 19:26:28 +0800">
+                                    <Title>万门分享：贸易战</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>451,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -8777,13 +8851,13 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2017-12-19 23:01:39 +0800" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="348" Characters="854" Date="2018-09-11 10:13:43 +0800"></PreviousSession>
+        <PreviousSession Words="1639" Characters="3936" Date="2018-09-11 10:13:43 +0800"></PreviousSession>
     </ProjectTargets>
-    <RecentWritingHistory Date="2018-09-20 00:00:00 +0800">
-        <DraftWordCount>85</DraftWordCount>
-        <DraftCharCount>236</DraftCharCount>
-        <OtherWordCount>0</OtherWordCount>
-        <OtherCharCount>0</OtherCharCount>
+    <RecentWritingHistory Date="2018-09-21 00:00:00 +0800">
+        <DraftWordCount>1291</DraftWordCount>
+        <DraftCharCount>3082</DraftCharCount>
+        <OtherWordCount>292</OtherWordCount>
+        <OtherCharCount>620</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>

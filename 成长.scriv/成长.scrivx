@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.0.3-3032" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2018-09-25 19:22:15 +0800" ModID="F32AEF10-A47D-4A15-B42F-092F3D249974">
+<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.0.3-3032" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2018-09-25 19:58:22 +0800" ModID="B0B6EBD9-D25D-4077-9513-BFE52E101CBC">
     <Binder>
         <BinderItem UUID="BD9E202A-A848-4C04-B1DF-342B13D88B58" Type="ResearchFolder" Created="2017-12-19 23:01:40 +0800" Modified="2018-09-10 13:40:56 +0800">
             <Title>自己</Title>
@@ -115,7 +115,7 @@
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>4,0</TextSelection>
+                                        <TextSelection>55,0</TextSelection>
                                     </TextSettings>
                                     <Children>
                                         <BinderItem UUID="6EC0D97D-2D5E-4055-B4B3-B1FA23BA4729" Type="Text" Created="2018-09-25 16:14:56 +0800" Modified="2018-09-25 18:10:50 +0800">
@@ -162,6 +162,46 @@
                             <Children>
                                 <BinderItem UUID="A81EFA32-958A-468F-8A1F-AE1F7E8DB4AF" Type="Text" Created="2018-09-25 15:47:16 +0800" Modified="2018-09-25 15:47:45 +0800">
                                     <Title>1.递归</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem UUID="08D25CEB-2405-431F-A46D-5D815390E83E" Type="Text" Created="2018-09-25 19:56:12 +0800" Modified="2018-09-25 19:56:19 +0800">
+                            <Title>远离极端</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="1C1310FF-F31D-4419-BEC6-6A2D8D28E569" Type="Text" Created="2018-09-25 19:57:14 +0800" Modified="2018-09-25 19:57:25 +0800">
+                                    <Title>”傻逼白左“白求恩</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem UUID="3968CAB6-694C-4E00-BD8F-3151EC5F0ADE" Type="Text" Created="2018-09-25 19:56:19 +0800" Modified="2018-09-25 19:56:25 +0800">
+                            <Title>观察作用</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="93C98FAF-E2CF-46B8-9807-408F2D9A1254" Type="Text" Created="2018-09-25 19:56:25 +0800" Modified="2018-09-25 19:56:41 +0800">
+                                    <Title>”像“与”是“</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
@@ -985,25 +1025,14 @@
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem UUID="F4B54901-835C-412C-876B-A52E89549764" Type="Text" Created="2018-09-10 13:41:37 +0800" Modified="2018-09-10 13:41:48 +0800">
-                            <Title>创业</Title>
+                        <BinderItem UUID="0E80516F-0A72-455B-9EB0-9B71390B6D4C" Type="Text" Created="2018-09-10 13:41:54 +0800" Modified="2018-09-10 13:41:58 +0800">
+                            <Title>YC</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
-                            <Children>
-                                <BinderItem UUID="0E80516F-0A72-455B-9EB0-9B71390B6D4C" Type="Text" Created="2018-09-10 13:41:54 +0800" Modified="2018-09-10 13:41:58 +0800">
-                                    <Title>YC</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                            </Children>
                         </BinderItem>
                     </Children>
                 </BinderItem>
@@ -8973,6 +9002,15 @@
                 </BinderItem>
                 <BinderItem UUID="D539B224-11EE-40EE-BFE6-932A295AF0AC" Type="Text" Created="2018-09-25 16:02:51 +0800" Modified="2018-09-25 16:03:06 +0800">
                     <Title>零基础学量化</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="F4B54901-835C-412C-876B-A52E89549764" Type="Text" Created="2018-09-10 13:41:37 +0800" Modified="2018-09-10 13:41:48 +0800">
+                    <Title>创业</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>

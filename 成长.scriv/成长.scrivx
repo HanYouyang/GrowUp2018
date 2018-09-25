@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.0.3-3032" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2018-09-25 16:24:22 +0800" ModID="9454B8D9-E103-4A60-9367-E1EBF04C53FB">
+<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.0.3-3032" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2018-09-25 19:22:15 +0800" ModID="F32AEF10-A47D-4A15-B42F-092F3D249974">
     <Binder>
         <BinderItem UUID="BD9E202A-A848-4C04-B1DF-342B13D88B58" Type="ResearchFolder" Created="2017-12-19 23:01:40 +0800" Modified="2018-09-10 13:40:56 +0800">
             <Title>自己</Title>
@@ -100,16 +100,16 @@
                         <TextSelection>184,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="ADD02D86-A84E-4483-A076-55567E85C4D4" Type="Text" Created="2018-09-25 15:14:03 +0800" Modified="2018-09-25 15:15:33 +0800">
+                        <BinderItem UUID="ADD02D86-A84E-4483-A076-55567E85C4D4" Type="Text" Created="2018-09-25 15:14:03 +0800" Modified="2018-09-25 18:10:50 +0800">
                             <Title>1.100天托福备考书</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>0,25</TextSelection>
+                                <TextSelection>26,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="BAA6F2EC-4238-43AC-8164-33175090747C" Type="Text" Created="2018-09-25 15:14:17 +0800" Modified="2018-09-25 16:24:06 +0800">
+                                <BinderItem UUID="BAA6F2EC-4238-43AC-8164-33175090747C" Type="Text" Created="2018-09-25 15:14:17 +0800" Modified="2018-09-25 19:22:15 +0800">
                                     <Title>1.听力</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -118,12 +118,13 @@
                                         <TextSelection>4,0</TextSelection>
                                     </TextSettings>
                                     <Children>
-                                        <BinderItem UUID="6EC0D97D-2D5E-4055-B4B3-B1FA23BA4729" Type="Text" Created="2018-09-25 16:14:56 +0800" Modified="2018-09-25 16:24:14 +0800">
+                                        <BinderItem UUID="6EC0D97D-2D5E-4055-B4B3-B1FA23BA4729" Type="Text" Created="2018-09-25 16:14:56 +0800" Modified="2018-09-25 18:10:50 +0800">
+                                            <Title>0923</Title>
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>44,0</TextSelection>
+                                                <TextSelection>457,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                     </Children>
@@ -137,7 +138,8 @@
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                     <Children>
-                                        <BinderItem UUID="71BCB4DA-0007-443B-801C-85D0F06A6B38" Type="Text" Created="2018-09-25 16:15:00 +0800" Modified="2018-09-25 16:15:00 +0800">
+                                        <BinderItem UUID="71BCB4DA-0007-443B-801C-85D0F06A6B38" Type="Text" Created="2018-09-25 16:15:00 +0800" Modified="2018-09-25 16:30:12 +0800">
+                                            <Title>0924</Title>
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
@@ -774,13 +776,13 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem UUID="87AAD3A7-B229-4B66-BE43-352EB0C43B51" Type="Text" Created="2018-09-10 16:48:04 +0800" Modified="2018-09-25 15:10:09 +0800">
+                <BinderItem UUID="87AAD3A7-B229-4B66-BE43-352EB0C43B51" Type="Text" Created="2018-09-10 16:48:04 +0800" Modified="2018-09-25 16:30:47 +0800">
                     <Title>站着成长</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>4,0</TextSelection>
+                        <TextSelection>13,0</TextSelection>
                     </TextSettings>
                     <Children>
                         <BinderItem UUID="9A78E41C-E3C6-4878-BBE6-E4E348EC1CD2" Type="Text" Created="2018-09-10 13:40:33 +0800" Modified="2018-09-25 16:04:27 +0800">
@@ -964,13 +966,13 @@
                                         <TextSelection>349,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="538ECECB-6C83-45BD-BAEF-7D1B27512FF4" Type="Text" Created="2018-09-21 16:00:21 +0800" Modified="2018-09-25 16:05:18 +0800">
+                                <BinderItem UUID="538ECECB-6C83-45BD-BAEF-7D1B27512FF4" Type="Text" Created="2018-09-21 16:00:21 +0800" Modified="2018-09-25 16:37:43 +0800">
                                     <Title>2股票基础知识</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>9,0</TextSelection>
+                                        <TextSelection>180,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="CA3C7040-5B83-4976-AF2C-6DB0DF13D2B8" Type="Text" Created="2018-09-21 16:00:27 +0800" Modified="2018-09-21 16:00:27 +0800">
@@ -2455,7 +2457,7 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>137,0</TextSelection>
+                                <TextSelection>48,0</TextSelection>
                             </TextSettings>
                             <Children>
                                 <BinderItem UUID="8132DCC3-DFF4-44F1-AFB1-A023C26B7F8D" Type="Text" Created="2018-08-20 20:38:03 +0800" Modified="2018-08-20 20:38:13 +0800">
@@ -9042,11 +9044,11 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2017-12-19 23:01:39 +0800" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="216" Characters="546" Date="2018-09-25 15:04:38 +0800"></PreviousSession>
+        <PreviousSession Words="310" Characters="828" Date="2018-09-25 15:04:38 +0800"></PreviousSession>
     </ProjectTargets>
     <RecentWritingHistory Date="2018-09-25 00:00:00 +0800">
-        <DraftWordCount>216</DraftWordCount>
-        <DraftCharCount>545</DraftCharCount>
+        <DraftWordCount>310</DraftWordCount>
+        <DraftCharCount>827</DraftCharCount>
         <OtherWordCount>4700</OtherWordCount>
         <OtherCharCount>7929</OtherCharCount>
     </RecentWritingHistory>

@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.0.3-3032" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2018-10-08 14:08:17 +0800" ModID="0ECC4573-314F-418B-978A-7770795C4FD9">
+<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.0.3-3032" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2018-10-09 10:02:42 +0800" ModID="6F9E858E-0A43-4C82-8B79-605BBFAA10E2">
     <Binder>
         <BinderItem UUID="BD9E202A-A848-4C04-B1DF-342B13D88B58" Type="ResearchFolder" Created="2017-12-19 23:01:40 +0800" Modified="2018-09-10 13:40:56 +0800">
             <Title>自己</Title>
+            <BinderSeparator>Yes</BinderSeparator>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
                 <IconFileName>Book (Blue Book).tiff</IconFileName>
@@ -77,6 +78,7 @@
         </BinderItem>
         <BinderItem UUID="F573BF27-9E87-4C46-95F3-2DC49E23FA72" Type="DraftFolder" Created="2017-12-19 23:01:40 +0800" Modified="2018-09-10 13:29:08 +0800">
             <Title>长期make</Title>
+            <BinderSeparator>Yes</BinderSeparator>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
                 <IconFileName>Book (Blue Book).tiff</IconFileName>
@@ -3465,13 +3467,13 @@
                 <TextSelection>13,0</TextSelection>
             </TextSettings>
             <Children>
-                <BinderItem UUID="648C787D-5F87-4AD9-A1FC-60B724DB9D32" Type="Text" Created="2018-06-09 13:14:51 +0800" Modified="2018-10-08 12:02:14 +0800">
+                <BinderItem UUID="648C787D-5F87-4AD9-A1FC-60B724DB9D32" Type="Text" Created="2018-06-09 13:14:51 +0800" Modified="2018-10-09 10:00:43 +0800">
                     <Title>学习</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>535,0</TextSelection>
+                        <TextSelection>30,0</TextSelection>
                     </TextSettings>
                     <Children>
                         <BinderItem UUID="34FDE40F-7A7A-4254-A176-916192459E05" Type="Text" Created="2018-03-26 15:40:20 +0800" Modified="2018-08-17 14:50:50 +0800">
@@ -3548,13 +3550,13 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem UUID="12E31EBC-077B-4AB2-AB2A-0B25ABC098B8" Type="Text" Created="2018-08-13 10:23:02 +0800" Modified="2018-10-08 12:03:52 +0800">
+                <BinderItem UUID="12E31EBC-077B-4AB2-AB2A-0B25ABC098B8" Type="Text" Created="2018-08-13 10:23:02 +0800" Modified="2018-10-09 09:59:39 +0800">
                     <Title>健身</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>0,0</TextSelection>
+                        <TextSelection>0,104</TextSelection>
                     </TextSettings>
                     <Children>
                         <BinderItem UUID="912826D8-026A-45B1-8924-7F26623F78D4" Type="Text" Created="2018-03-03 17:27:07 +0800" Modified="2018-08-17 18:41:01 +0800">
@@ -3631,13 +3633,13 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem UUID="2B0881C1-C70C-4C4A-8052-9423A80E90F5" Type="Text" Created="2018-08-17 14:27:25 +0800" Modified="2018-10-08 12:02:21 +0800">
+                <BinderItem UUID="2B0881C1-C70C-4C4A-8052-9423A80E90F5" Type="Text" Created="2018-08-17 14:27:25 +0800" Modified="2018-10-09 10:01:38 +0800">
                     <Title>工作</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>98,0</TextSelection>
+                        <TextSelection>37,0</TextSelection>
                     </TextSettings>
                     <Children>
                         <BinderItem UUID="9BFA970F-9C14-4D6B-A066-7CED65D8B3C4" Type="Text" Created="2018-01-08 22:45:45 +0800" Modified="2018-08-16 18:46:51 +0800">
@@ -3919,6 +3921,7 @@
         </BinderItem>
         <BinderItem UUID="74882803-D20C-43FB-9451-67A2DA3DF0E3" Type="TrashFolder" Created="2017-12-19 23:01:40 +0800" Modified="2017-12-19 23:01:40 +0800">
             <Title>废纸篓</Title>
+            <BinderSeparator>Yes</BinderSeparator>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
@@ -9174,13 +9177,13 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2017-12-19 23:01:39 +0800" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="114" Characters="196" Date="2018-10-08 14:07:43 +0800"></PreviousSession>
+        <PreviousSession Words="0" Characters="0" Date="2018-10-09 09:51:54 +0800"></PreviousSession>
     </ProjectTargets>
-    <RecentWritingHistory Date="2018-10-08 00:00:00 +0800">
-        <DraftWordCount>114</DraftWordCount>
-        <DraftCharCount>196</DraftCharCount>
-        <OtherWordCount>46</OtherWordCount>
-        <OtherCharCount>108</OtherCharCount>
+    <RecentWritingHistory Date="2018-10-09 00:00:00 +0800">
+        <DraftWordCount>0</DraftWordCount>
+        <DraftCharCount>0</DraftCharCount>
+        <OtherWordCount>20</OtherWordCount>
+        <OtherCharCount>46</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>

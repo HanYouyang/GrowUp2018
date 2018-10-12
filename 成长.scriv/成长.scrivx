@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.0.3-3032" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2018-10-09 10:02:42 +0800" ModID="6F9E858E-0A43-4C82-8B79-605BBFAA10E2">
+<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.0.3-3032" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2018-10-09 10:26:31 +0800" ModID="91F7B7C0-9A29-421F-91F7-93DE182DF849">
     <Binder>
         <BinderItem UUID="BD9E202A-A848-4C04-B1DF-342B13D88B58" Type="ResearchFolder" Created="2017-12-19 23:01:40 +0800" Modified="2018-09-10 13:40:56 +0800">
             <Title>自己</Title>
@@ -9,22 +9,22 @@
                 <IconFileName>Book (Blue Book).tiff</IconFileName>
             </MetaData>
             <Children>
-                <BinderItem UUID="D8EB2410-AC81-4D02-BD82-957A5A6164F9" Type="Text" Created="2018-06-07 15:23:26 +0800" Modified="2018-10-08 13:34:03 +0800">
+                <BinderItem UUID="D8EB2410-AC81-4D02-BD82-957A5A6164F9" Type="Text" Created="2018-06-07 15:23:26 +0800" Modified="2018-10-09 10:05:32 +0800">
                     <Title>自己</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>71,0</TextSelection>
+                        <TextSelection>33,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="9516923A-7BDA-4D8C-B532-8BD1A09610D1" Type="Text" Created="2018-07-17 15:27:00 +0800" Modified="2018-10-08 12:05:31 +0800">
+                <BinderItem UUID="9516923A-7BDA-4D8C-B532-8BD1A09610D1" Type="Text" Created="2018-07-17 15:27:00 +0800" Modified="2018-10-09 10:25:59 +0800">
                     <Title>第一个三年攻坚2018~2021</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>229,0</TextSelection>
+                        <TextSelection>35,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="9D546E5C-A62C-400C-87F1-D1C4E425E1D2" Type="Text" Created="2017-12-22 16:33:07 +0800" Modified="2018-09-25 15:09:06 +0800">
@@ -1105,13 +1105,13 @@
                 <TextSelection>64,0</TextSelection>
             </TextSettings>
             <Children>
-                <BinderItem UUID="EEECAC65-4444-416B-9733-16FA1A11CEC2" Type="Text" Created="2018-06-12 10:07:37 +0800" Modified="2018-09-14 11:58:46 +0800">
+                <BinderItem UUID="EEECAC65-4444-416B-9733-16FA1A11CEC2" Type="Text" Created="2018-06-12 10:07:37 +0800" Modified="2018-10-09 10:06:10 +0800">
                     <Title>CC-哲学</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>3291,0</TextSelection>
+                        <TextSelection>2513,0</TextSelection>
                     </TextSettings>
                     <Children>
                         <BinderItem UUID="43806B5F-5059-42A1-ACC8-D48AB577497A" Type="Text" Created="2018-07-08 17:34:44 +0800" Modified="2018-07-08 17:35:09 +0800">
@@ -1406,13 +1406,13 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem UUID="224E2960-1677-4685-BB1B-1914C428B1D9" Type="Text" Created="2018-08-17 14:53:50 +0800" Modified="2018-08-17 14:54:02 +0800">
+                <BinderItem UUID="224E2960-1677-4685-BB1B-1914C428B1D9" Type="Text" Created="2018-08-17 14:53:50 +0800" Modified="2018-10-09 10:26:14 +0800">
                     <Title>环地中海文明圈</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>0,0</TextSelection>
+                        <TextSelection>7,0</TextSelection>
                     </TextSettings>
                     <Children>
                         <BinderItem UUID="2AA2DC4A-AE12-4976-8D4F-104D6EB29A7D" Type="Text" Created="2018-08-29 21:39:56 +0800" Modified="2018-08-29 21:40:12 +0800">
@@ -2599,13 +2599,13 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem UUID="88A4796A-7CC8-47B9-A6A6-410953968E96" Type="Text" Created="2018-08-13 10:21:59 +0800" Modified="2018-08-13 10:22:05 +0800">
+                <BinderItem UUID="88A4796A-7CC8-47B9-A6A6-410953968E96" Type="Text" Created="2018-08-13 10:21:59 +0800" Modified="2018-10-09 10:03:45 +0800">
                     <Title>中华文明圈</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>0,0</TextSelection>
+                        <TextSelection>0,7</TextSelection>
                     </TextSettings>
                     <Children>
                         <BinderItem UUID="BFE1F8C7-64CE-4F6E-971A-C6B58F09E237" Type="Text" Created="2018-08-13 09:31:47 +0800" Modified="2018-08-13 09:31:49 +0800">
@@ -9177,13 +9177,13 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2017-12-19 23:01:39 +0800" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2018-10-09 09:51:54 +0800"></PreviousSession>
+        <PreviousSession Words="0" Characters="0" Date="2018-10-09 10:26:21 +0800"></PreviousSession>
     </ProjectTargets>
     <RecentWritingHistory Date="2018-10-09 00:00:00 +0800">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>20</OtherWordCount>
-        <OtherCharCount>46</OtherCharCount>
+        <OtherWordCount>45</OtherWordCount>
+        <OtherCharCount>105</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>

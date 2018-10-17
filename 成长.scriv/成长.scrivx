@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.0.3-3032" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2018-10-14 20:52:51 +0800" ModID="B3482B45-5EF8-4DD5-B67D-156ED0ECBB13">
+<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.0.3-3032" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2018-10-17 16:04:53 +0800" ModID="0E32E484-DEF5-4EFF-A97D-E33968ADFB76">
     <Binder>
         <BinderItem UUID="BD9E202A-A848-4C04-B1DF-342B13D88B58" Type="ResearchFolder" Created="2017-12-19 23:01:40 +0800" Modified="2018-09-10 13:40:56 +0800">
             <Title>自己</Title>
@@ -2876,7 +2876,7 @@
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>5423,0</TextSelection>
+                                        <TextSelection>5532,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="93A4B99A-E5C0-4A51-8FD4-F404B79690E8" Type="Text" Created="2018-02-25 15:14:43 +0800" Modified="2018-02-25 16:40:57 +0800">
@@ -3404,6 +3404,15 @@
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
+                        </BinderItem>
+                        <BinderItem UUID="C948E7FE-EB2F-4598-987A-3E8B0EC07567" Type="Text" Created="2018-10-17 14:14:48 +0800" Modified="2018-10-17 14:33:50 +0800">
+                            <Title>中国男人对自己的迷之自信怎么来的？</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="36D1FE10-107C-4809-8B02-660E9A50B89A" Type="Text" Created="2018-09-25 15:50:22 +0800" Modified="2018-10-08 12:01:53 +0800">
                             <Title>万门综合</Title>
@@ -9212,13 +9221,13 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2017-12-19 23:01:39 +0800" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2018-10-13 19:33:21 +0800"></PreviousSession>
+        <PreviousSession Words="0" Characters="0" Date="2018-10-17 14:14:34 +0800"></PreviousSession>
     </ProjectTargets>
-    <RecentWritingHistory Date="2018-10-14 00:00:00 +0800">
+    <RecentWritingHistory Date="2018-10-17 00:00:00 +0800">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>0</OtherWordCount>
-        <OtherCharCount>0</OtherCharCount>
+        <OtherWordCount>2173</OtherWordCount>
+        <OtherCharCount>3707</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>

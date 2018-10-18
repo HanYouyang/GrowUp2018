@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.0.3-3032" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2018-10-18 11:37:25 +0800" ModID="97611397-FE46-4311-B66F-E726A038C622">
+<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.0.3-3032" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2018-10-18 20:35:04 +0800" ModID="420C562F-052F-4F8C-A944-27304ACBE3C1">
     <Binder>
         <BinderItem UUID="BD9E202A-A848-4C04-B1DF-342B13D88B58" Type="ResearchFolder" Created="2017-12-19 23:01:40 +0800" Modified="2018-09-10 13:40:56 +0800">
             <Title>自己</Title>
@@ -84,13 +84,13 @@
                 <IconFileName>Book (Blue Book).tiff</IconFileName>
             </MetaData>
             <Children>
-                <BinderItem UUID="9831C749-6B64-481A-99B8-677E10C77ABB" Type="Text" Created="2018-09-21 16:36:09 +0800" Modified="2018-10-08 11:45:47 +0800">
+                <BinderItem UUID="9831C749-6B64-481A-99B8-677E10C77ABB" Type="Text" Created="2018-09-21 16:36:09 +0800" Modified="2018-10-18 20:06:54 +0800">
                     <Title>策略</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>34,0</TextSelection>
+                        <TextSelection>8,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="ADD02D86-A84E-4483-A076-55567E85C4D4" Type="Text" Created="2018-09-25 15:14:03 +0800" Modified="2018-09-25 18:10:50 +0800">
@@ -316,12 +316,12 @@
                                 <TextSelection>190,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="007E6E91-F18B-400B-8EF6-11F606658C47" Type="Text" Created="2018-10-18 11:22:40 +0800" Modified="2018-10-18 11:37:25 +0800">
+                        <BinderItem UUID="007E6E91-F18B-400B-8EF6-11F606658C47" Type="Text" Created="2018-10-18 11:22:40 +0800" Modified="2018-10-18 11:45:31 +0800">
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>33,0</TextSelection>
+                                <TextSelection>96,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -920,8 +920,8 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem UUID="9A78E41C-E3C6-4878-BBE6-E4E348EC1CD2" Type="Text" Created="2018-09-10 13:40:33 +0800" Modified="2018-10-08 12:04:29 +0800">
-                    <Title>价值投资</Title>
+                <BinderItem UUID="9A78E41C-E3C6-4878-BBE6-E4E348EC1CD2" Type="Text" Created="2018-09-10 13:40:33 +0800" Modified="2018-10-18 20:16:59 +0800">
+                    <Title>投资</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
@@ -1081,42 +1081,42 @@
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                    </Children>
-                </BinderItem>
-                <BinderItem UUID="EDA1AE01-6F0C-4D74-A5C2-6A500FB515A6" Type="Text" Created="2018-09-20 19:28:12 +0800" Modified="2018-10-08 12:04:30 +0800">
-                    <Title>量化金融</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>12,0</TextSelection>
-                    </TextSettings>
-                    <Children>
-                        <BinderItem UUID="5BDF6D74-E344-4871-87F3-24A60F18EBF8" Type="Text" Created="2018-09-20 19:28:22 +0800" Modified="2018-09-27 17:36:55 +0800">
-                            <Title>1量化投资开篇</Title>
+                        <BinderItem UUID="EDA1AE01-6F0C-4D74-A5C2-6A500FB515A6" Type="Text" Created="2018-09-20 19:28:12 +0800" Modified="2018-10-08 12:04:30 +0800">
+                            <Title>量化金融</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>519,0</TextSelection>
+                                <TextSelection>12,0</TextSelection>
                             </TextSettings>
-                        </BinderItem>
-                        <BinderItem UUID="538ECECB-6C83-45BD-BAEF-7D1B27512FF4" Type="Text" Created="2018-09-21 16:00:21 +0800" Modified="2018-09-25 16:37:43 +0800">
-                            <Title>2股票基础知识</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>253,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem UUID="CA3C7040-5B83-4976-AF2C-6DB0DF13D2B8" Type="Text" Created="2018-09-21 16:00:27 +0800" Modified="2018-09-21 16:00:27 +0800">
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,0</TextSelection>
-                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="5BDF6D74-E344-4871-87F3-24A60F18EBF8" Type="Text" Created="2018-09-20 19:28:22 +0800" Modified="2018-09-27 17:36:55 +0800">
+                                    <Title>1量化投资开篇</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>519,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="538ECECB-6C83-45BD-BAEF-7D1B27512FF4" Type="Text" Created="2018-09-21 16:00:21 +0800" Modified="2018-09-25 16:37:43 +0800">
+                                    <Title>2股票基础知识</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>253,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="CA3C7040-5B83-4976-AF2C-6DB0DF13D2B8" Type="Text" Created="2018-09-21 16:00:27 +0800" Modified="2018-09-21 16:00:27 +0800">
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
                         </BinderItem>
                     </Children>
                 </BinderItem>
@@ -2163,7 +2163,7 @@
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>0,513</TextSelection>
+                                        <TextSelection>184,0</TextSelection>
                                     </TextSettings>
                                     <Children>
                                         <BinderItem UUID="81A024C6-3A1C-4B41-AF5B-E43DBFB3EF4A" Type="Text" Created="2018-05-10 14:56:35 +0800" Modified="2018-08-22 15:13:20 +0800">
@@ -2198,15 +2198,6 @@
                                 </BinderItem>
                                 <BinderItem UUID="1BE36566-AA12-435C-AFD8-AAE4672672E4" Type="Folder" Created="2018-05-29 12:27:37 +0800" Modified="2018-05-29 12:27:45 +0800">
                                     <Title>15非预期后果</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem UUID="0F2F71B8-69B7-4519-84D3-349C9326C92A" Type="Folder" Created="2018-05-30 15:26:11 +0800" Modified="2018-05-30 15:26:15 +0800">
-                                    <Title>16</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
@@ -2583,8 +2574,8 @@
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem UUID="A1B690A7-8E3F-4708-853A-D76B47C40A3D" Type="Text" Created="2018-08-21 14:04:06 +0800" Modified="2018-08-21 19:24:01 +0800">
-                            <Title>梅斯奎塔</Title>
+                        <BinderItem UUID="CC79E40B-B9AC-45D7-B3F5-2532AA281565" Type="Text" Created="2018-10-18 18:03:07 +0800" Modified="2018-10-18 18:03:09 +0800">
+                            <Title>法恩斯沃思 </Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
@@ -2603,13 +2594,13 @@
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem UUID="7EB0492C-D323-4E6A-9658-F775411AA74E" Type="Text" Created="2018-06-18 17:14:38 +0800" Modified="2018-08-21 20:13:55 +0800">
-                            <Title>《独裁者手册》</Title>
+                        <BinderItem UUID="A1B690A7-8E3F-4708-853A-D76B47C40A3D" Type="Text" Created="2018-08-21 14:04:06 +0800" Modified="2018-08-21 19:24:01 +0800">
+                            <Title>梅斯奎塔</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>15289,0</TextSelection>
+                                <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
                                 <BinderItem UUID="B93CB738-F9A2-46C0-A430-913E5FA38E61" Type="Text" Created="2018-06-24 11:57:49 +0800" Modified="2018-08-21 20:01:23 +0800">
@@ -2619,6 +2610,15 @@
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>4248,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="7EB0492C-D323-4E6A-9658-F775411AA74E" Type="Text" Created="2018-06-18 17:14:38 +0800" Modified="2018-08-21 20:13:55 +0800">
+                                    <Title>《独裁者手册》</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>15289,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -3236,13 +3236,13 @@
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem UUID="D25092C9-02F0-4BAB-AD9A-78BEA3491773" Type="Text" Created="2018-08-13 09:32:25 +0800" Modified="2018-08-13 09:32:28 +0800">
+                        <BinderItem UUID="D25092C9-02F0-4BAB-AD9A-78BEA3491773" Type="Text" Created="2018-08-13 09:32:25 +0800" Modified="2018-10-18 20:35:04 +0800">
                             <Title>金灿荣</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>0,0</TextSelection>
+                                <TextSelection>38,0</TextSelection>
                             </TextSettings>
                             <Children>
                                 <BinderItem UUID="DF579111-ED66-44C9-A065-EFA7F1903FF5" Type="Text" Created="2018-08-16 18:28:07 +0800" Modified="2018-08-16 18:52:04 +0800">
@@ -3319,15 +3319,24 @@
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem UUID="9DBB6049-FF98-42FA-B129-139D7D10542F" Type="Text" Created="2018-09-21 17:59:44 +0800" Modified="2018-09-21 17:59:47 +0800">
+                        <BinderItem UUID="9DBB6049-FF98-42FA-B129-139D7D10542F" Type="Text" Created="2018-09-21 17:59:44 +0800" Modified="2018-10-18 20:28:46 +0800">
                             <Title>陈光磊</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>0,0</TextSelection>
+                                <TextSelection>11,0</TextSelection>
                             </TextSettings>
                             <Children>
+                                <BinderItem UUID="B0279873-B7E1-43F0-84F5-9C8D02B582B3" Type="Text" Created="2018-10-18 20:17:37 +0800" Modified="2018-10-18 20:19:28 +0800">
+                                    <Title>《通胀经济学》</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>71,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
                                 <BinderItem UUID="E40A8246-BFC3-43A9-912B-D701ECD8CC2B" Type="Text" Created="2018-09-21 17:59:48 +0800" Modified="2018-10-08 12:00:52 +0800">
                                     <Title>万门分享：贸易战</Title>
                                     <MetaData>
@@ -9165,6 +9174,15 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem UUID="0F2F71B8-69B7-4519-84D3-349C9326C92A" Type="Folder" Created="2018-05-30 15:26:11 +0800" Modified="2018-05-30 15:26:15 +0800">
+                    <Title>16</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
     </Binder>
@@ -9229,13 +9247,13 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2017-12-19 23:01:39 +0800" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="58" Characters="93" Date="2018-10-17 14:14:34 +0800"></PreviousSession>
+        <PreviousSession Words="2" Characters="10" Date="2018-10-18 19:37:20 +0800"></PreviousSession>
     </ProjectTargets>
     <RecentWritingHistory Date="2018-10-18 00:00:00 +0800">
-        <DraftWordCount>58</DraftWordCount>
-        <DraftCharCount>93</DraftCharCount>
-        <OtherWordCount>0</OtherWordCount>
-        <OtherCharCount>0</OtherCharCount>
+        <DraftWordCount>63</DraftWordCount>
+        <DraftCharCount>106</DraftCharCount>
+        <OtherWordCount>54</OtherWordCount>
+        <OtherCharCount>120</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>

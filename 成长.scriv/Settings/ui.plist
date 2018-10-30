@@ -81,8 +81,8 @@
 	</dict>
 	<key>binderSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {268, 760}}</string>
-		<string>{{269, 0}, {1011, 760}}</string>
+		<string>{{0, 0}, {255, 719}}</string>
+		<string>{{256, 0}, {963, 719}}</string>
 	</array>
 	<key>binderWidth</key>
 	<real>175</real>
@@ -95,8 +95,8 @@
 	</dict>
 	<key>editorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {531, 730}}</string>
-		<string>{{532, 0}, {479, 730}}</string>
+		<string>{{0, 0}, {531, 689}}</string>
+		<string>{{532, 0}, {431, 689}}</string>
 	</array>
 	<key>exportFilesFormat</key>
 	<integer>2</integer>
@@ -133,21 +133,21 @@
 		<real>1</real>
 	</dict>
 	<key>mainDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {464, 674}}</string>
+	<string>{{0, 41}, {416, 633}}</string>
 	<key>mainDocumentEditor.textEditorState</key>
 	<dict>
 		<key>textScaleFactor</key>
 		<real>1</real>
 	</dict>
 	<key>mainWindowFrame</key>
-	<string>63 36 1219 741 0 0 1280 777 </string>
+	<string>61 36 1219 741 0 0 1280 777 </string>
 	<key>supportingDocumentEditor.dockedQRTextSettings</key>
 	<dict>
 		<key>textScaleFactor</key>
 		<real>1</real>
 	</dict>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {344, 449.33333333333331}}</string>
+	<string>{{0, 0}, {344, 422}}</string>
 	<key>supportingDocumentEditor.textEditorState</key>
 	<dict>
 		<key>textScaleFactor</key>

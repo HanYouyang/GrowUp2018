@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.0.3-3032" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2018-10-30 11:34:12 +0800" ModID="9DE16CC2-AAE9-4074-9BBC-D160BC67275C">
+<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.0.3-3032" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2018-10-30 12:06:12 +0800" ModID="41FD9EF9-3406-4F11-9C37-27A2EAF5DC64">
     <Binder>
         <BinderItem UUID="BD9E202A-A848-4C04-B1DF-342B13D88B58" Type="ResearchFolder" Created="2017-12-19 23:01:40 +0800" Modified="2018-10-30 11:16:59 +0800">
             <Title>自己+技术</Title>
@@ -3057,8 +3057,8 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem UUID="47805A6B-C856-48E6-9415-EF6105B745BB" Type="Text" Created="2018-08-21 11:29:53 +0800" Modified="2018-10-30 11:07:44 +0800">
-                    <Title>思维模型</Title>
+                <BinderItem UUID="47805A6B-C856-48E6-9415-EF6105B745BB" Type="Text" Created="2018-08-21 11:29:53 +0800" Modified="2018-10-30 12:05:48 +0800">
+                    <Title>思维模型-认识</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
@@ -3444,7 +3444,7 @@
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem UUID="B4E40D7F-F2FB-49CC-8B72-42FC90CC8B38" Type="Text" Created="2018-10-22 19:21:09 +0800" Modified="2018-10-30 11:24:17 +0800">
+                        <BinderItem UUID="B4E40D7F-F2FB-49CC-8B72-42FC90CC8B38" Type="Text" Created="2018-10-22 19:21:09 +0800" Modified="2018-10-30 12:04:07 +0800">
                             <Title>系统思维</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -3949,6 +3949,34 @@
                                             </TextSettings>
                                         </BinderItem>
                                     </Children>
+                                </BinderItem>
+                                <BinderItem UUID="08EC9069-20C7-42D9-8D67-28115602EA07" Type="Text" Created="2018-10-30 12:03:45 +0800" Modified="2018-10-30 12:03:49 +0800">
+                                    <Title>分解思维</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem UUID="E3DEAD81-E861-4981-B031-6769AACD8BB6" Type="Text" Created="2018-10-30 12:05:49 +0800" Modified="2018-10-30 12:06:00 +0800">
+                            <Title>独立思考-判断</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="8559FBEB-92D0-48C4-80B4-C838F3FD5F39" Type="Text" Created="2018-10-30 12:05:55 +0800" Modified="2018-10-30 12:05:55 +0800">
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
                                 </BinderItem>
                             </Children>
                         </BinderItem>
@@ -9999,7 +10027,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2017-12-19 23:01:39 +0800" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="158" Characters="304" Date="2018-10-30 11:29:00 +0800"></PreviousSession>
+        <PreviousSession Words="158" Characters="304" Date="2018-10-30 12:03:10 +0800"></PreviousSession>
     </ProjectTargets>
     <RecentWritingHistory Date="2018-10-30 00:00:00 +0800">
         <DraftWordCount>269</DraftWordCount>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.0.3-3032" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2018-10-30 12:21:43 +0800" ModID="6031DD2A-D382-4DFE-BCEB-1E4A43202507">
+<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.0.3-3032" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2018-10-30 12:24:13 +0800" ModID="16101631-AA3B-4A42-AAC4-FEAB3BC4FB6F">
     <Binder>
         <BinderItem UUID="BD9E202A-A848-4C04-B1DF-342B13D88B58" Type="ResearchFolder" Created="2017-12-19 23:01:40 +0800" Modified="2018-10-30 11:16:59 +0800">
             <Title>自己+技术</Title>
@@ -934,6 +934,9 @@
                 <IncludeInCompile>Yes</IncludeInCompile>
                 <IconFileName>Book (Blue Book).tiff</IconFileName>
             </MetaData>
+            <CorkboardAndOutliner>
+                <SelectedSubdocumentUUIDs>224E2960-1677-4685-BB1B-1914C428B1D9</SelectedSubdocumentUUIDs>
+            </CorkboardAndOutliner>
             <Children>
                 <BinderItem UUID="224E2960-1677-4685-BB1B-1914C428B1D9" Type="Text" Created="2018-08-17 14:53:50 +0800" Modified="2018-10-23 11:54:45 +0800">
                     <Title>环地中海文明圈</Title>

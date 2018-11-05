@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.0.3-3032" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2018-11-04 19:47:10 +0800" ModID="1C9D5F75-F8C5-4AF3-9F5F-840A42EF62A5">
+<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.0.3-3032" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2018-11-05 20:26:26 +0800" ModID="8BD20009-BA05-4C67-8973-D7E2BA439EA9">
     <Binder>
         <BinderItem UUID="BD9E202A-A848-4C04-B1DF-342B13D88B58" Type="ResearchFolder" Created="2017-12-19 23:01:40 +0800" Modified="2018-10-30 11:16:59 +0800">
             <Title>自己+技术</Title>
@@ -18,13 +18,13 @@
                         <TextSelection>79,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="D8EB2410-AC81-4D02-BD82-957A5A6164F9" Type="Text" Created="2018-06-07 15:23:26 +0800" Modified="2018-11-01 15:47:14 +0800">
+                        <BinderItem UUID="D8EB2410-AC81-4D02-BD82-957A5A6164F9" Type="Text" Created="2018-06-07 15:23:26 +0800" Modified="2018-11-04 20:24:42 +0800">
                             <Title>资源being</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>25,0</TextSelection>
+                                <TextSelection>299,0</TextSelection>
                             </TextSettings>
                             <Children>
                                 <BinderItem UUID="CA611E36-E455-4F4C-A8BB-F69DC676E1D3" Type="Text" Created="2018-10-29 18:11:37 +0800" Modified="2018-11-01 16:25:48 +0800">
@@ -3910,7 +3910,7 @@
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>77,0</TextSelection>
+                                                <TextSelection>65,148</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                     </Children>
@@ -4493,7 +4493,7 @@
                                         </BinderItem>
                                     </Children>
                                 </BinderItem>
-                                <BinderItem UUID="08EC9069-20C7-42D9-8D67-28115602EA07" Type="Text" Created="2018-10-30 12:03:45 +0800" Modified="2018-11-04 19:45:39 +0800">
+                                <BinderItem UUID="08EC9069-20C7-42D9-8D67-28115602EA07" Type="Text" Created="2018-10-30 12:03:45 +0800" Modified="2018-11-05 20:26:24 +0800">
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
@@ -10638,11 +10638,11 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2017-12-19 23:01:39 +0800" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="51285" Characters="91082" Date="2018-11-02 10:47:59 +0800"></PreviousSession>
+        <PreviousSession Words="51290" Characters="91090" Date="2018-11-02 10:47:59 +0800"></PreviousSession>
     </ProjectTargets>
-    <RecentWritingHistory Date="2018-11-04 00:00:00 +0800">
-        <DraftWordCount>1736</DraftWordCount>
-        <DraftCharCount>2976</DraftCharCount>
+    <RecentWritingHistory Date="2018-11-05 00:00:00 +0800">
+        <DraftWordCount>0</DraftWordCount>
+        <DraftCharCount>-1</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>

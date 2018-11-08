@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.0.3-3032" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2018-11-08 19:46:00 +0800" ModID="AEC5B281-BB45-42A6-91F6-A4FBED0D4EB1">
+<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.0.3-3032" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2018-11-08 19:53:01 +0800" ModID="1672437C-A8E2-449E-B7AB-3DE24D39C0CE">
     <Binder>
         <BinderItem UUID="BD9E202A-A848-4C04-B1DF-342B13D88B58" Type="ResearchFolder" Created="2017-12-19 23:01:40 +0800" Modified="2018-10-30 11:16:59 +0800">
             <Title>自己+技术</Title>
@@ -600,10 +600,10 @@
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>0,466</TextSelection>
+                                                <TextSelection>115,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
-                                        <BinderItem UUID="EB97558B-B9D1-4BAB-82F7-35C3B0F65B12" Type="Text" Created="2018-06-07 14:20:06 +0800" Modified="2018-07-06 18:11:22 +0800">
+                                        <BinderItem UUID="EB97558B-B9D1-4BAB-82F7-35C3B0F65B12" Type="Text" Created="2018-06-07 14:20:06 +0800" Modified="2018-11-08 19:53:01 +0800">
                                             <Title>AJAX</Title>
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -2060,7 +2060,7 @@
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>0,2306</TextSelection>
+                                        <TextSelection>172,1</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="C948E7FE-EB2F-4598-987A-3E8B0EC07567" Type="Text" Created="2018-10-17 14:14:48 +0800" Modified="2018-11-01 14:54:20 +0800">
@@ -2604,12 +2604,12 @@
                                         <TextSelection>579,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="91916DAE-DF12-4990-93DC-84391626D22A" Type="Text" Created="2018-11-08 19:29:36 +0800" Modified="2018-11-08 19:29:41 +0800">
+                                <BinderItem UUID="91916DAE-DF12-4990-93DC-84391626D22A" Type="Text" Created="2018-11-08 19:29:36 +0800" Modified="2018-11-08 19:52:03 +0800">
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>792,0</TextSelection>
+                                        <TextSelection>0,776</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="719B6D6C-2C67-4318-BF31-B99859555525" Type="Text" Created="2018-11-08 19:30:12 +0800" Modified="2018-11-08 19:30:17 +0800">
@@ -2649,7 +2649,7 @@
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
+                                        <TextSelection>1614,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -11233,11 +11233,11 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2017-12-19 23:01:39 +0800" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="101343" Characters="183618" Date="2018-11-02 10:47:59 +0800"></PreviousSession>
+        <PreviousSession Words="101343" Characters="183602" Date="2018-11-02 10:47:59 +0800"></PreviousSession>
     </ProjectTargets>
     <RecentWritingHistory Date="2018-11-08 00:00:00 +0800">
         <DraftWordCount>48684</DraftWordCount>
-        <DraftCharCount>90226</DraftCharCount>
+        <DraftCharCount>90210</DraftCharCount>
         <OtherWordCount>292</OtherWordCount>
         <OtherCharCount>830</OtherCharCount>
     </RecentWritingHistory>

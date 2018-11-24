@@ -81,8 +81,8 @@
 	</dict>
 	<key>binderSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {272.5, 719}}</string>
-		<string>{{273.5, 0}, {942.5, 719}}</string>
+		<string>{{0, 0}, {273, 719}}</string>
+		<string>{{274, 0}, {942, 719}}</string>
 	</array>
 	<key>binderWidth</key>
 	<real>175</real>
@@ -104,7 +104,7 @@
 	<key>editorSplitFrames</key>
 	<array>
 		<string>{{0, 0}, {582, 689}}</string>
-		<string>{{583, 0}, {359.5, 689}}</string>
+		<string>{{583, 0}, {359, 689}}</string>
 	</array>
 	<key>exportFilesFormat</key>
 	<integer>2</integer>

@@ -81,11 +81,19 @@
 	</dict>
 	<key>binderSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {287, 719}}</string>
-		<string>{{288, 0}, {928, 719}}</string>
+		<string>{{0, 0}, {287, 760}}</string>
+		<string>{{288, 0}, {992, 760}}</string>
 	</array>
 	<key>binderWidth</key>
 	<real>175</real>
+	<key>bookmarksSelectionInfo</key>
+	<dict>
+		<key>Project</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+	</dict>
 	<key>collectionsRepresentedBinderDocumentsInfo</key>
 	<dict>
 		<key>MainID</key>
@@ -95,8 +103,8 @@
 	</dict>
 	<key>editorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {582, 689}}</string>
-		<string>{{583, 0}, {345, 689}}</string>
+		<string>{{0, 0}, {582, 730}}</string>
+		<string>{{583, 0}, {409, 730}}</string>
 	</array>
 	<key>exportFilesFormat</key>
 	<integer>2</integer>
@@ -121,7 +129,7 @@
 	<integer>2</integer>
 	<key>inspectorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {243, 709}}</string>
+		<string>{{0, 0}, {245, 709}}</string>
 	</array>
 	<key>inspectorWidth</key>
 	<real>227</real>
@@ -133,7 +141,7 @@
 		<real>1</real>
 	</dict>
 	<key>mainDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {220, 422}}</string>
+	<string>{{0, 0}, {262.66666666666669, 449.33333333333331}}</string>
 	<key>mainDocumentEditor.textEditorState</key>
 	<dict>
 		<key>textScaleFactor</key>
@@ -147,7 +155,7 @@
 		<real>1</real>
 	</dict>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {378, 422}}</string>
+	<string>{{0, 893.66666666666663}, {378, 449.33333333333337}}</string>
 	<key>supportingDocumentEditor.textEditorState</key>
 	<dict>
 		<key>textScaleFactor</key>

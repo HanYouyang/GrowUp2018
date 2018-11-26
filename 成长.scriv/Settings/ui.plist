@@ -81,11 +81,30 @@
 	</dict>
 	<key>binderSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {273, 760}}</string>
-		<string>{{274, 0}, {1006, 760}}</string>
+		<string>{{0, 0}, {305.5, 760}}</string>
+		<string>{{306.5, 0}, {973.5, 760}}</string>
 	</array>
 	<key>binderWidth</key>
 	<real>175</real>
+	<key>bookmarksPreviewTextSettings</key>
+	<dict>
+		<key>hasMultiplePages</key>
+		<false/>
+		<key>isRulerVisible</key>
+		<false/>
+		<key>lineNumberingInterval</key>
+		<integer>1</integer>
+		<key>showsLineNumbers</key>
+		<false/>
+		<key>textFocusMode</key>
+		<integer>0</integer>
+		<key>textScaleFactor</key>
+		<real>1.5</real>
+		<key>usesFacingPages</key>
+		<false/>
+		<key>usesTypewriterScrolling</key>
+		<false/>
+	</dict>
 	<key>bookmarksSelectionInfo</key>
 	<dict>
 		<key>Project</key>
@@ -103,8 +122,7 @@
 	</dict>
 	<key>editorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {582, 730}}</string>
-		<string>{{583, 0}, {423, 730}}</string>
+		<string>{{373.5, 0}, {372, 730}}</string>
 	</array>
 	<key>exportFilesFormat</key>
 	<integer>2</integer>
@@ -129,7 +147,8 @@
 	<integer>2</integer>
 	<key>inspectorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {245, 709}}</string>
+		<string>{{0, 0}, {593, 730}}</string>
+		<string>{{594, 0}, {379.5, 730}}</string>
 	</array>
 	<key>inspectorWidth</key>
 	<real>227</real>

@@ -81,8 +81,8 @@
 	</dict>
 	<key>binderSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {305.5, 760}}</string>
-		<string>{{306.5, 0}, {973.5, 760}}</string>
+		<string>{{0, 0}, {415.5, 719}}</string>
+		<string>{{416.5, 0}, {799.5, 719}}</string>
 	</array>
 	<key>binderWidth</key>
 	<real>175</real>
@@ -109,8 +109,10 @@
 	<dict>
 		<key>Project</key>
 		<dict>
+			<key>DocID</key>
+			<string>97640492-94A6-4FC7-9217-524EB948F36D</string>
 			<key>Row</key>
-			<integer>-1</integer>
+			<integer>0</integer>
 		</dict>
 	</dict>
 	<key>collectionsRepresentedBinderDocumentsInfo</key>
@@ -147,8 +149,8 @@
 	<integer>2</integer>
 	<key>inspectorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {593, 730}}</string>
-		<string>{{594, 0}, {379.5, 730}}</string>
+		<string>{{0, 0}, {563.5, 689}}</string>
+		<string>{{564.5, 0}, {235, 689}}</string>
 	</array>
 	<key>inspectorWidth</key>
 	<real>227</real>
@@ -160,21 +162,21 @@
 		<real>1</real>
 	</dict>
 	<key>mainDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {229.33333333333334, 422}}</string>
+	<string>{{0, 0}, {238, 449.33333333333331}}</string>
 	<key>mainDocumentEditor.textEditorState</key>
 	<dict>
 		<key>textScaleFactor</key>
 		<real>1.5</real>
 	</dict>
 	<key>mainWindowFrame</key>
-	<string>64 36 1216 741 0 0 1280 777 </string>
+	<string>64 36 1216 741 0 0 1280 800 </string>
 	<key>supportingDocumentEditor.dockedQRTextSettings</key>
 	<dict>
 		<key>textScaleFactor</key>
 		<real>1</real>
 	</dict>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {378, 422}}</string>
+	<string>{{0, 739.33333333333337}, {365.33333333333331, 421.99999999999989}}</string>
 	<key>supportingDocumentEditor.textEditorState</key>
 	<dict>
 		<key>textScaleFactor</key>

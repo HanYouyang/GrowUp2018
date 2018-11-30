@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.1.1-9852" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2018-11-29 21:25:11 +0800" ModID="F5397FC5-0800-44DF-931B-264746C11BC6">
+<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.1.1-9852" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2018-11-29 21:34:43 +0800" ModID="D6AEC241-4252-4D0E-9AC2-876FCC50659B">
     <Binder>
         <BinderItem UUID="BD9E202A-A848-4C04-B1DF-342B13D88B58" Type="ResearchFolder" Created="2017-12-19 23:01:40 +0800" Modified="2018-11-15 22:05:03 +0800">
             <Title>自己</Title>
@@ -437,6 +437,15 @@
                                         <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
+                                <BinderItem UUID="058DCC97-791F-4C08-890D-EF841457CE86" Type="Text" Created="2018-03-29 16:09:23 +0800" Modified="2018-11-29 21:34:30 +0800">
+                                    <Title>决策-信息采集</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>842,2</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
                                 <BinderItem UUID="FA22A54F-AB9B-47DF-9AF7-4329CE5DD1F0" Type="Text" Created="2018-02-28 14:20:42 +0800" Modified="2018-11-29 21:24:16 +0800">
                                     <Title>生活方式-逆向思考</Title>
                                     <MetaData>
@@ -623,38 +632,29 @@
                                         <TextSelection>3069,0</TextSelection>
                                     </TextSettings>
                                     <Children>
-                                        <BinderItem UUID="0A03760E-EF70-4FE3-95B1-3251C4094BA0" Type="Text" Created="2018-02-25 10:53:27 +0800" Modified="2018-03-30 20:50:15 +0800">
+                                        <BinderItem UUID="0A03760E-EF70-4FE3-95B1-3251C4094BA0" Type="Text" Created="2018-02-25 10:53:27 +0800" Modified="2018-11-29 21:33:46 +0800">
                                             <Title>最近一百年，全球涌现过哪些最顶尖的、最赚钱的公司？它们的共性是什么？</Title>
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>3744,0</TextSelection>
+                                                <TextSelection>4341,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
-                                        <BinderItem UUID="058DCC97-791F-4C08-890D-EF841457CE86" Type="Text" Created="2018-03-29 16:09:23 +0800" Modified="2018-05-09 11:01:04 +0800">
-                                            <Title>信息采集</Title>
+                                        <BinderItem UUID="EB35D366-CA73-4C1A-8CCF-2BD5082F81DE" Type="Text" Created="2018-08-13 09:45:09 +0800" Modified="2018-11-29 21:33:06 +0800">
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>842,2</TextSelection>
+                                                <TextSelection>1,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
-                                        <BinderItem UUID="EB35D366-CA73-4C1A-8CCF-2BD5082F81DE" Type="Text" Created="2018-08-13 09:45:09 +0800" Modified="2018-08-13 09:45:20 +0800">
+                                        <BinderItem UUID="398978F3-F15D-409E-B82A-FAB2ADE0B0F3" Type="Text" Created="2018-08-13 09:45:52 +0800" Modified="2018-11-29 21:33:15 +0800">
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>227,0</TextSelection>
-                                            </TextSettings>
-                                        </BinderItem>
-                                        <BinderItem UUID="398978F3-F15D-409E-B82A-FAB2ADE0B0F3" Type="Text" Created="2018-08-13 09:45:52 +0800" Modified="2018-08-13 09:45:59 +0800">
-                                            <MetaData>
-                                                <IncludeInCompile>Yes</IncludeInCompile>
-                                            </MetaData>
-                                            <TextSettings>
-                                                <TextSelection>96,0</TextSelection>
+                                                <TextSelection>93,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                         <BinderItem UUID="D2BD39F2-B471-41C4-A051-25888F260C65" Type="Text" Created="2018-10-22 19:22:47 +0800" Modified="2018-10-22 19:22:54 +0800">
@@ -5702,8 +5702,8 @@
     <RecentWritingHistory Date="2018-11-29 00:00:00 +0800">
         <DraftWordCount>3656</DraftWordCount>
         <DraftCharCount>6443</DraftCharCount>
-        <OtherWordCount>38</OtherWordCount>
-        <OtherCharCount>68</OtherCharCount>
+        <OtherWordCount>36</OtherWordCount>
+        <OtherCharCount>62</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>

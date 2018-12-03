@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.1.1-9852" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2018-12-03 18:18:39 +0800" ModID="14294826-E02B-464F-B812-4153D7232F1D">
+<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.1.1-9852" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2018-12-03 23:13:12 +0800" ModID="D11FBC36-A001-4694-AC3D-51A9DCEF3DA6">
     <Binder>
         <BinderItem UUID="BD9E202A-A848-4C04-B1DF-342B13D88B58" Type="ResearchFolder" Created="2017-12-19 23:01:40 +0800" Modified="2018-11-15 22:05:03 +0800">
             <Title>自己</Title>
@@ -4712,6 +4712,15 @@
                         <TextSelection>259,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem UUID="71472103-4267-4BB7-9416-CEA9E58AA453" Type="Text" Created="2018-12-03 22:54:43 +0800" Modified="2018-12-03 23:13:12 +0800">
+                    <Title>肉汤留学生</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>835,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
         <BinderItem UUID="219A8713-C6F1-4F23-8B6B-CAC82530C3DF" Type="Text" Created="2018-11-24 21:32:45 +0800" Modified="2018-11-24 21:35:38 +0800">
@@ -6081,8 +6090,8 @@
     <RecentWritingHistory Date="2018-12-03 00:00:00 +0800">
         <DraftWordCount>25163</DraftWordCount>
         <DraftCharCount>45065</DraftCharCount>
-        <OtherWordCount>-25</OtherWordCount>
-        <OtherCharCount>-43</OtherCharCount>
+        <OtherWordCount>527</OtherWordCount>
+        <OtherCharCount>917</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>

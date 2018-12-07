@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.1.1-9852" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2018-12-07 16:43:48 +0800" ModID="9DE5AA99-D8B7-4540-AAA2-06D5138C2D48">
+<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.1.1-9852" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2018-12-07 19:28:17 +0800" ModID="ECA703C6-1AA9-4A37-9577-A73411FB8793">
     <Binder>
         <BinderItem UUID="BD9E202A-A848-4C04-B1DF-342B13D88B58" Type="ResearchFolder" Created="2017-12-19 23:01:40 +0800" Modified="2018-11-15 22:05:03 +0800">
             <Title>自己</Title>
@@ -2990,7 +2990,7 @@
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>354,0</TextSelection>
+                                        <TextSelection>95,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="DF579111-ED66-44C9-A065-EFA7F1903FF5" Type="Text" Created="2018-08-16 18:28:07 +0800" Modified="2018-12-05 14:56:15 +0800">
@@ -2999,7 +2999,7 @@
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>1770,0</TextSelection>
+                                        <TextSelection>232,0</TextSelection>
                                     </TextSettings>
                                     <Keywords>
                                         <KeywordID>5</KeywordID>
@@ -3163,13 +3163,31 @@
                                         <TextSelection>97,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="49A1ECC3-95E2-4B34-8ADB-31808C357964" Type="Text" Created="2018-12-07 13:09:36 +0800" Modified="2018-12-07 15:22:29 +0800">
-                                    <Title>水浒传-山东卫视</Title>
+                                <BinderItem UUID="49A1ECC3-95E2-4B34-8ADB-31808C357964" Type="Text" Created="2018-12-07 13:09:36 +0800" Modified="2018-12-07 16:46:08 +0800">
+                                    <Title>水浒传-新杏坛</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>903,0</TextSelection>
+                                        <TextSelection>902,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="87ECFB30-DA20-4CBB-ACFB-F770D646A84B" Type="Text" Created="2018-12-07 16:45:49 +0800" Modified="2018-12-07 17:45:41 +0800">
+                                    <Title>中国人的人性与道德-新杏坛</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>50,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="75C5E522-9172-485C-85A1-7C2C0737CBCB" Type="Text" Created="2018-12-07 17:51:26 +0800" Modified="2018-12-07 19:28:17 +0800">
+                                    <Title>孔子和他的弟子们&amp;孟子的四心之道</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>815,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -6448,11 +6466,11 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2017-12-19 23:01:39 +0800" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="750" Characters="1419" Date="2018-12-07 13:09:25 +0800"></PreviousSession>
+        <PreviousSession Words="1671" Characters="2978" Date="2018-12-07 13:09:25 +0800"></PreviousSession>
     </ProjectTargets>
     <RecentWritingHistory Date="2018-12-07 00:00:00 +0800">
-        <DraftWordCount>750</DraftWordCount>
-        <DraftCharCount>1419</DraftCharCount>
+        <DraftWordCount>1671</DraftWordCount>
+        <DraftCharCount>2978</DraftCharCount>
         <OtherWordCount>1209</OtherWordCount>
         <OtherCharCount>2082</OtherCharCount>
     </RecentWritingHistory>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.1.1-9852" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2018-12-13 02:11:09 +0800" ModID="CF4A5234-58F9-4E53-BA16-4692DE0995CF">
+<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.1.1-9852" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2018-12-13 17:45:04 +0800" ModID="23862C87-8F81-453C-93F9-52619FB399A7">
     <Binder>
         <BinderItem UUID="BD9E202A-A848-4C04-B1DF-342B13D88B58" Type="ResearchFolder" Created="2017-12-19 23:01:40 +0800" Modified="2018-11-15 22:05:03 +0800">
             <Title>自己</Title>
@@ -3187,7 +3187,7 @@
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>667,0</TextSelection>
+                                        <TextSelection>81,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="87ECFB30-DA20-4CBB-ACFB-F770D646A84B" Type="Text" Created="2018-12-07 16:45:49 +0800" Modified="2018-12-07 17:45:41 +0800">
@@ -3198,23 +3198,25 @@
                                     <TextSettings>
                                         <TextSelection>50,0</TextSelection>
                                     </TextSettings>
+                                    <Children>
+                                        <BinderItem UUID="75C5E522-9172-485C-85A1-7C2C0737CBCB" Type="Text" Created="2018-12-07 17:51:26 +0800" Modified="2018-12-13 16:49:33 +0800">
+                                            <Title>孔子和他的弟子们&amp;孟子的四心之道</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>748,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
+                                    </Children>
                                 </BinderItem>
-                                <BinderItem UUID="75C5E522-9172-485C-85A1-7C2C0737CBCB" Type="Text" Created="2018-12-07 17:51:26 +0800" Modified="2018-12-07 19:28:17 +0800">
-                                    <Title>孔子和他的弟子们&amp;孟子的四心之道</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>815,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                                <BinderItem UUID="B53048F5-1300-4BBF-AE82-91B7450DAEA9" Type="Text" Created="2018-12-12 16:24:15 +0800" Modified="2018-12-12 19:50:00 +0800">
+                                <BinderItem UUID="B53048F5-1300-4BBF-AE82-91B7450DAEA9" Type="Text" Created="2018-12-12 16:24:15 +0800" Modified="2018-12-13 02:30:39 +0800">
                                     <Title>老子，永远的东方智慧</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>2064,0</TextSelection>
+                                        <TextSelection>2139,0</TextSelection>
                                     </TextSettings>
                                     <Children>
                                         <BinderItem UUID="3C48B736-FBB7-473E-BF7A-B1CE25B02A11" Type="Text" Created="2018-12-12 16:36:41 +0800" Modified="2018-12-12 19:45:55 +0800">
@@ -3228,13 +3230,13 @@
                                         </BinderItem>
                                     </Children>
                                 </BinderItem>
-                                <BinderItem UUID="F07049B7-10CF-47C4-B921-AE23080EF0B3" Type="Text" Created="2018-12-12 19:50:05 +0800" Modified="2018-12-13 01:13:50 +0800">
+                                <BinderItem UUID="F07049B7-10CF-47C4-B921-AE23080EF0B3" Type="Text" Created="2018-12-12 19:50:05 +0800" Modified="2018-12-13 02:30:22 +0800">
                                     <Title>庄子，守望月亮的孤树</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>2929,0</TextSelection>
+                                        <TextSelection>2930,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -5598,7 +5600,7 @@
                         <TextSelection>2272,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="C730D68C-A381-42E5-B7C5-CDD488D4549E" Type="Text" Created="2018-06-07 14:20:07 +0800" Modified="2018-11-20 19:00:22 +0800">
+                <BinderItem UUID="C730D68C-A381-42E5-B7C5-CDD488D4549E" Type="Text" Created="2018-06-07 14:20:07 +0800" Modified="2018-12-13 17:45:04 +0800">
                     <Title>《Node与Express开发》</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -6520,13 +6522,13 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2017-12-19 23:01:39 +0800" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="564" Characters="1016" Date="2018-12-13 00:00:37 +0800"></PreviousSession>
+        <PreviousSession Words="564" Characters="1000" Date="2018-12-13 02:24:49 +0800"></PreviousSession>
     </ProjectTargets>
     <RecentWritingHistory Date="2018-12-13 00:00:00 +0800">
         <DraftWordCount>564</DraftWordCount>
-        <DraftCharCount>1016</DraftCharCount>
+        <DraftCharCount>1000</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
-        <OtherCharCount>0</OtherCharCount>
+        <OtherCharCount>-18</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>

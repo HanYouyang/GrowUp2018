@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.1.1-9852" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2018-12-16 04:03:59 +0800" ModID="1CBF2943-D385-4F9C-A90B-E4604119457A">
+<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.1.1-9852" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2018-12-18 06:19:30 +0800" ModID="413927BB-B427-45F9-A8C7-E42BB2D0E6C7">
     <Binder>
         <BinderItem UUID="BD9E202A-A848-4C04-B1DF-342B13D88B58" Type="ResearchFolder" Created="2017-12-19 23:01:40 +0800" Modified="2018-11-15 22:05:03 +0800">
             <Title>自己</Title>
@@ -9,13 +9,13 @@
                 <IconFileName>Book (Blue Book)</IconFileName>
             </MetaData>
             <Children>
-                <BinderItem UUID="CCB93021-FA76-4928-AAFF-A6F19AB560F0" Type="Text" Created="2018-08-17 11:12:55 +0800" Modified="2018-12-05 12:52:09 +0800">
+                <BinderItem UUID="CCB93021-FA76-4928-AAFF-A6F19AB560F0" Type="Text" Created="2018-08-17 11:12:55 +0800" Modified="2018-12-16 14:23:46 +0800">
                     <Title>目标-问题+方案</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>0,16</TextSelection>
+                        <TextSelection>278,0</TextSelection>
                     </TextSettings>
                     <Children>
                         <BinderItem UUID="5358F6F7-24E5-475E-A41B-D355C6B99B2B" Type="Text" Created="2018-11-26 17:46:55 +0800" Modified="2018-12-16 04:03:58 +0800">
@@ -2947,6 +2947,24 @@
                                 </BinderItem>
                             </Children>
                         </BinderItem>
+                        <BinderItem UUID="F79B876F-A902-4342-8EE1-D11352AABB02" Type="Text" Created="2018-12-16 13:56:47 +0800" Modified="2018-12-16 13:56:56 +0800">
+                            <Title>西方哲学</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="7610ED7C-3F0F-40D5-9272-FF163F086577" Type="Text" Created="2018-12-16 13:57:36 +0800" Modified="2018-12-16 13:57:40 +0800">
+                            <Title>法学</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
                     </Children>
                 </BinderItem>
                 <BinderItem UUID="88A4796A-7CC8-47B9-A6A6-410953968E96" Type="Text" Created="2018-08-13 10:21:59 +0800" Modified="2018-12-02 13:14:22 +0800">
@@ -3018,13 +3036,13 @@
                                         <KeywordID>5</KeywordID>
                                     </Keywords>
                                     <Children>
-                                        <BinderItem UUID="009C2FFD-7DCF-4AEC-946A-C287A9C7BF02" Type="Text" Created="2018-12-07 16:12:19 +0800" Modified="2018-12-07 16:43:48 +0800">
+                                        <BinderItem UUID="009C2FFD-7DCF-4AEC-946A-C287A9C7BF02" Type="Text" Created="2018-12-07 16:12:19 +0800" Modified="2018-12-16 14:13:36 +0800">
                                             <Title>美国在其发展的第一个世纪</Title>
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>95,0</TextSelection>
+                                                <TextSelection>0,98</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                         <BinderItem UUID="DF579111-ED66-44C9-A065-EFA7F1903FF5" Type="Text" Created="2018-08-16 18:28:07 +0800" Modified="2018-12-05 14:56:15 +0800">
@@ -3046,7 +3064,7 @@
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>913,39</TextSelection>
+                                                <TextSelection>995,0</TextSelection>
                                             </TextSettings>
                                             <Keywords>
                                                 <KeywordID>5</KeywordID>
@@ -3331,8 +3349,8 @@
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem UUID="A8D265FB-6AB8-44D0-B389-F003F5D8913A" Type="Text" Created="2018-12-15 10:32:43 +0800" Modified="2018-12-15 10:32:50 +0800">
-                            <Title>历史学</Title>
+                        <BinderItem UUID="1652CDBF-7E82-4CFB-B14D-37CFFF165E41" Type="Text" Created="2018-12-16 13:56:59 +0800" Modified="2018-12-16 13:57:02 +0800">
+                            <Title>中国历史</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
@@ -3373,6 +3391,15 @@
                         </BinderItem>
                         <BinderItem UUID="EFC20036-8926-4784-A37A-3E51DADC6539" Type="Text" Created="2018-12-14 20:52:09 +0800" Modified="2018-12-14 20:52:12 +0800">
                             <Title>手冢治虫</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="FF03E5A0-1D3A-4406-8D0D-60C8D3330083" Type="Text" Created="2018-12-15 10:28:47 +0800" Modified="2018-12-15 10:28:50 +0800">
+                            <Title>马英九</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
@@ -3447,16 +3474,16 @@
                                                 <TextSelection>430,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
+                                        <BinderItem UUID="8E07D445-58C7-486C-975C-418CF7E6D771" Type="Text" Created="2018-12-18 05:05:39 +0800" Modified="2018-12-18 06:19:30 +0800">
+                                            <Title>「名作家讲座系列12」- 中国知识分子的走向</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>0,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
                                     </Children>
-                                </BinderItem>
-                                <BinderItem UUID="FF03E5A0-1D3A-4406-8D0D-60C8D3330083" Type="Text" Created="2018-12-15 10:28:47 +0800" Modified="2018-12-15 10:28:50 +0800">
-                                    <Title>马英九</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
-                                    </TextSettings>
                                 </BinderItem>
                             </Children>
                         </BinderItem>
@@ -4614,13 +4641,13 @@
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem UUID="372196A8-4B97-4E44-839E-704B29CC739B" Type="Text" Created="2018-12-06 15:47:02 +0800" Modified="2018-12-06 15:47:09 +0800">
-                            <Title>达赖喇嘛</Title>
+                        <BinderItem UUID="372196A8-4B97-4E44-839E-704B29CC739B" Type="Text" Created="2018-12-06 15:47:02 +0800" Modified="2018-12-16 04:09:11 +0800">
+                            <Title>第十四世达赖喇嘛</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>0,0</TextSelection>
+                                <TextSelection>454,0</TextSelection>
                             </TextSettings>
                             <Children>
                                 <BinderItem UUID="DF7719BD-E398-4AD5-A394-4F7451A77878" Type="Text" Created="2018-12-06 15:47:09 +0800" Modified="2018-12-06 15:47:09 +0800">
@@ -6324,6 +6351,17 @@
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
+            <Children>
+                <BinderItem UUID="A8D265FB-6AB8-44D0-B389-F003F5D8913A" Type="Text" Created="2018-12-15 10:32:43 +0800" Modified="2018-12-15 10:32:50 +0800">
+                    <Title>历史学</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
         </BinderItem>
     </Binder>
     <Collections>
@@ -6462,13 +6500,13 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2017-12-19 23:01:39 +0800" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="21650" Characters="40521" Date="2018-12-16 01:03:32 +0800"></PreviousSession>
+        <PreviousSession Words="212" Characters="388" Date="2018-12-18 05:05:31 +0800"></PreviousSession>
     </ProjectTargets>
-    <RecentWritingHistory Date="2018-12-16 00:00:00 +0800">
-        <DraftWordCount>21650</DraftWordCount>
-        <DraftCharCount>40521</DraftCharCount>
-        <OtherWordCount>227</OtherWordCount>
-        <OtherCharCount>389</OtherCharCount>
+    <RecentWritingHistory Date="2018-12-18 00:00:00 +0800">
+        <DraftWordCount>212</DraftWordCount>
+        <DraftCharCount>388</DraftCharCount>
+        <OtherWordCount>0</OtherWordCount>
+        <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>

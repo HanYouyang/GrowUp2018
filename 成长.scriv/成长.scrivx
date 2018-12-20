@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.1.1-9852" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2018-12-20 13:46:27 +0800" ModID="4B24EFDD-58AC-4596-B9B3-688B106CE8F1">
+<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.1.1-9852" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2018-12-21 01:26:53 +0800" ModID="BEB6EBCB-53A6-4656-AD6C-CA3622CD311C">
     <Binder>
         <BinderItem UUID="BD9E202A-A848-4C04-B1DF-342B13D88B58" Type="ResearchFolder" Created="2017-12-19 23:01:40 +0800" Modified="2018-11-15 22:05:03 +0800">
             <Title>自己</Title>
@@ -3484,6 +3484,15 @@
                                         <TextSelection>235,0</TextSelection>
                                     </TextSettings>
                                     <Children>
+                                        <BinderItem UUID="ECEABEC7-BF83-4F17-BBCE-87B39EBD6FB8" Type="Text" Created="2018-12-20 12:54:48 +0800" Modified="2018-12-21 00:16:08 +0800">
+                                            <Title>采访</Title>
+                                            <MetaData>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>548,0</TextSelection>
+                                            </TextSettings>
+                                        </BinderItem>
                                         <BinderItem UUID="6AA75338-BF81-4365-80EE-D5700628847A" Type="Text" Created="2018-03-30 12:35:47 +0800" Modified="2018-06-23 21:25:47 +0800">
                                             <Title>20100525我的學思歷程</Title>
                                             <MetaData>
@@ -3493,13 +3502,13 @@
                                                 <TextSelection>430,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
-                                        <BinderItem UUID="ECEABEC7-BF83-4F17-BBCE-87B39EBD6FB8" Type="Text" Created="2018-12-20 12:54:48 +0800" Modified="2018-12-20 13:04:56 +0800">
-                                            <Title>采访</Title>
+                                        <BinderItem UUID="150F2F6D-FEB7-49B6-8FE9-8CD60684E303" Type="Text" Created="2018-12-21 00:24:22 +0800" Modified="2018-12-21 01:26:53 +0800">
+                                            <Title>20110618从富春山居图说起</Title>
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>4,0</TextSelection>
+                                                <TextSelection>0,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                         <BinderItem UUID="8E07D445-58C7-486C-975C-418CF7E6D771" Type="Text" Created="2018-12-18 05:05:39 +0800" Modified="2018-12-18 11:09:17 +0800">
@@ -6751,13 +6760,13 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2017-12-19 23:01:39 +0800" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="147" Characters="259" Date="2018-12-20 12:52:26 +0800"></PreviousSession>
+        <PreviousSession Words="365" Characters="606" Date="2018-12-21 00:03:22 +0800"></PreviousSession>
     </ProjectTargets>
-    <RecentWritingHistory Date="2018-12-20 00:00:00 +0800">
-        <DraftWordCount>147</DraftWordCount>
-        <DraftCharCount>259</DraftCharCount>
-        <OtherWordCount>595</OtherWordCount>
-        <OtherCharCount>1044</OtherCharCount>
+    <RecentWritingHistory Date="2018-12-21 00:00:00 +0800">
+        <DraftWordCount>365</DraftWordCount>
+        <DraftCharCount>606</DraftCharCount>
+        <OtherWordCount>0</OtherWordCount>
+        <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>

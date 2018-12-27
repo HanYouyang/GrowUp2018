@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.1.1-9852" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2018-12-26 11:56:44 +0800" ModID="4A8C9EEF-3000-49DC-BDDC-39047C331275">
+<ScrivenerProject Identifier="024FD824-211D-4ADE-91F0-E11A67D49451" Version="2.0" Creator="SCRMAC-3.1.1-9852" Device="hanyouyangdeMacBook-Pro" Author="韩悠阳" Modified="2018-12-27 23:27:59 +0800" ModID="2347F5A6-E9D6-4FEB-9775-963336723757">
     <Binder>
         <BinderItem UUID="BD9E202A-A848-4C04-B1DF-342B13D88B58" Type="ResearchFolder" Created="2017-12-19 23:01:40 +0800" Modified="2018-11-15 22:05:03 +0800">
             <Title>自己</Title>
@@ -3402,13 +3402,13 @@
                                         <TextSelection>334,0</TextSelection>
                                     </TextSettings>
                                     <Children>
-                                        <BinderItem UUID="BEF2E5D9-61E7-40D4-9877-A26DEDEF75FF" Type="Text" Created="2018-12-26 11:21:34 +0800" Modified="2018-12-26 11:21:40 +0800">
+                                        <BinderItem UUID="BEF2E5D9-61E7-40D4-9877-A26DEDEF75FF" Type="Text" Created="2018-12-26 11:21:34 +0800" Modified="2018-12-27 00:06:58 +0800">
                                             <Title>正是时候读庄子</Title>
                                             <MetaData>
                                                 <IncludeInCompile>Yes</IncludeInCompile>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>0,0</TextSelection>
+                                                <TextSelection>372,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                     </Children>
@@ -5328,6 +5328,15 @@
                                 <TextSelection>2635,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
+                        <BinderItem UUID="AE87ED6E-3EF4-4B06-806B-2F6BEE110CF4" Type="Text" Created="2018-12-27 23:27:06 +0800" Modified="2018-12-27 23:27:58 +0800">
+                            <Title>目的来自于动机-动机来自于思考-思考来自于信息获取</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
                         <BinderItem UUID="6CF92A91-701E-4DB6-8F30-8044F0CA0CCD" Type="Text" Created="2018-12-02 14:41:24 +0800" Modified="2018-12-02 15:35:36 +0800">
                             <Title>左突右想</Title>
                             <MetaData>
@@ -6781,13 +6790,13 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2017-12-19 23:01:39 +0800" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="147" Characters="334" Date="2018-12-26 10:13:06 +0800"></PreviousSession>
+        <PreviousSession Words="68" Characters="111" Date="2018-12-27 00:02:42 +0800"></PreviousSession>
     </ProjectTargets>
-    <RecentWritingHistory Date="2018-12-26 00:00:00 +0800">
-        <DraftWordCount>147</DraftWordCount>
-        <DraftCharCount>334</DraftCharCount>
-        <OtherWordCount>58</OtherWordCount>
-        <OtherCharCount>91</OtherCharCount>
+    <RecentWritingHistory Date="2018-12-27 00:00:00 +0800">
+        <DraftWordCount>68</DraftWordCount>
+        <DraftCharCount>111</DraftCharCount>
+        <OtherWordCount>363</OtherWordCount>
+        <OtherCharCount>612</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>

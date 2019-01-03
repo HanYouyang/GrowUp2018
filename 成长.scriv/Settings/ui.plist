@@ -218,8 +218,8 @@
 	</dict>
 	<key>binderSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {423, 1400}}</string>
-		<string>{{424, 0}, {2136, 1400}}</string>
+		<string>{{0, 0}, {336, 1400}}</string>
+		<string>{{337, 0}, {2223, 1400}}</string>
 	</array>
 	<key>binderWidth</key>
 	<real>175</real>
@@ -286,8 +286,8 @@
 	<integer>2</integer>
 	<key>inspectorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {1908, 1370}}</string>
-		<string>{{1909, 0}, {227, 1370}}</string>
+		<string>{{0, 0}, {1995, 1370}}</string>
+		<string>{{1996, 0}, {227, 1370}}</string>
 	</array>
 	<key>inspectorWidth</key>
 	<real>227</real>
@@ -306,7 +306,7 @@
 		<real>1.5</real>
 	</dict>
 	<key>mainWindowFrame</key>
-	<string>1324 812 1216 742 0 0 1280 777 </string>
+	<string>91 35 1216 742 0 0 1280 777 </string>
 	<key>searchResultsTable</key>
 	<dict>
 		<key>order</key>
@@ -325,7 +325,7 @@
 		<real>1</real>
 	</dict>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {420.66666666666669, 422}}</string>
+	<string>{{0, 136}, {620, 876}}</string>
 	<key>supportingDocumentEditor.textEditorState</key>
 	<dict>
 		<key>textScaleFactor</key>
